@@ -2,7 +2,7 @@
 title: SC4D Encyclopaedia
 description: The SimCity 4 Community Encyclopaedia
 published: true
-date: 2026-10-29T15:43:27.111Z
+date: 2026-10-29T15:44:20.319Z
 tags: 
 editor: markdown
 dateCreated: 2026-10-29T15:41:40.452Z
