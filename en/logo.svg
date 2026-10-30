@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 80" width="300" height="80">
+  <title>SC4 Encyclopaedia</title>
+  <polygon points="40,33 70,48 40,63 10,48" fill="#8fbf5a" stroke="#6a9a3c" stroke-width="1.5"/>
+  <polygon points="40,9 50,14 40,19 30,14" fill="#6f97d8"/>
+  <polygon points="30,14 40,19 40,45 30,40" fill="#3a6fc4"/>
+  <polygon points="40,19 50,14 50,40 40,45" fill="#2c558f"/>
+  <polygon points="26,29 36,34 26,39 16,34" fill="#6cbf6c"/>
+  <polygon points="16,34 26,39 26,51 16,46" fill="#3c9a3c"/>
+  <polygon points="26,39 36,34 36,46 26,51" fill="#2d742d"/>
+  <polygon points="54,25 64,30 54,35 44,30" fill="#e6bf52"/>
+  <polygon points="44,30 54,35 54,51 44,46" fill="#c99a1a"/>
+  <polygon points="54,35 64,30 64,46 54,51" fill="#9a7612"/>
+  <text x="84" y="42" font-family="Roboto, &apos;Segoe UI&apos;, Arial, sans-serif" font-size="30" font-weight="700" fill="#ffffff">SC4</text>
+  <text x="85" y="64" font-family="Roboto, &apos;Segoe UI&apos;, Arial, sans-serif" font-size="18" letter-spacing="1" fill="#c9d6e3">Encyclopaedia</text>
+</svg>
