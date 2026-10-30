@@ -2,7 +2,7 @@
 title: Home
 description: The SimCity 4 Community Encyclopaedia
 published: true
-date: '2026-10-30T12:09:57.571Z'
+date: '2026-10-30T12:12:28.568Z'
 tags: []
 editor: markdown
 dateCreated: '2026-10-30T11:58:02.239Z'
