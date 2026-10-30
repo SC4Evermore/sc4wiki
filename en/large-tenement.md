@@ -1,0 +1,38 @@
+---
+title: "Large Tenement"
+description: ""
+published: false
+date: '2019-08-04T23:24:42Z'
+tags: ["Maxis RCI", "R§ Growables", "Chicago Tileset/R§"]
+editor: markdown
+dateCreated: '2014-06-18T13:59:42Z'
+---
+
+<div class="infobox zone-r">
+<table>
+<tr><th colspan="2">Large Tenement</th></tr>
+<tr><td colspan="2"><img src="/images/Large_Tenement.png" alt="Large Tenement"></td></tr>
+<tr><td><strong>Author</strong></td><td>Maxis</td></tr>
+<tr><td><strong>Size</strong></td><td>3x3, 3x4, 4x3, 4x4</td></tr>
+<tr><td><strong>Style</strong></td><td>Chicago</td></tr>
+<tr><td><strong>Growth stage</strong></td><td><strong>Vanilla</strong>: <br> 8 (All) <br> <strong><a href="/cam">CAM</a></strong>: <br>  8 (3x4, 4x3, 4x4) <br> 9 (3x3)</td></tr>
+<tr><td><strong>Wealth</strong></td><td>R§</td></tr>
+<tr><td><strong>Density</strong></td><td><span class="density high">High</span></td></tr>
+<tr><td><strong>Occupants ($)</strong></td><td>2863</td></tr>
+<tr><td><strong>Bulldoze cost</strong></td><td>760</td></tr>
+<tr><td><strong>Construction time</strong></td><td>76 days</td></tr>
+<tr><td><strong>Flammability</strong></td><td>48</td></tr>
+<tr><td><strong>Fire</strong></td><td>4</td></tr>
+<tr><td><strong>Power</strong></td><td>21</td></tr>
+<tr><td><strong>Water</strong></td><td>27</td></tr>
+<tr><td><strong>Air pollution</strong></td><td>21 (radius 5)</td></tr>
+<tr><td><strong>Water pollution</strong></td><td>4 (radius 6)</td></tr>
+<tr><td><strong>Garbage</strong></td><td>4</td></tr>
+</table>
+</div>
+
+The **Large Tenement** is Low-Wealth Residential Building that grows on only High Density Residential zones[^1].
+
+## References
+
+[^1]: Exemplar: R\$40x44_7ChiHiriseTenemts5_0173

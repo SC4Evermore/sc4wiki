@@ -18,8 +18,6 @@ A tuturial on how to use the RHW most efectively
 
 ## Other RHW Tutorials
 
-<dpl>category=RHW namespace=Tutorial shownamespace=false</dpl>
-
 ## Other
 
 - .
