@@ -39,4 +39,6 @@ The Network Addon Mod (NAM) combines all transportation network-related fixes, a
 
 ## Previous Versions
 
-Previous versions are completely unsupported - use at your own risk! <dpl>namespace=Plugin titlematch=NAM/% columns=3 rowcolformat=width=100% </dpl>
+Previous versions are completely unsupported - use at your own risk!
+
+- [NAM/Jan09](/plugin/nam/jan09)
