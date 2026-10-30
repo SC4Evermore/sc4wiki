@@ -1,7 +1,7 @@
 ---
 title: "Private School"
 description: ""
-published: false
+published: true
 date: '2022-09-19T01:42:43Z'
 tags: ["Reward Civic Buildings", "Education Buildings"]
 editor: markdown

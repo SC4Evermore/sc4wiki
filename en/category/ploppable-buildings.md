@@ -1,7 +1,7 @@
 ---
 title: "Ploppable Buildings"
 description: ""
-published: false
+published: true
 date: '2022-03-09T00:00:36Z'
 tags: ["Maxis Building Sets", "Maxis Buildings"]
 editor: markdown

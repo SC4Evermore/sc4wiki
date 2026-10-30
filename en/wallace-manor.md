@@ -1,7 +1,7 @@
 ---
 title: "Wallace Manor"
 description: ""
-published: false
+published: true
 date: '2019-08-10T10:14:24Z'
 tags: ["Maxis RCI", "R§§ Growables", "Houston Tileset/R§§", "Buildings Rebalanced in the CAM"]
 editor: markdown

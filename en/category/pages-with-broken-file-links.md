@@ -1,7 +1,7 @@
 ---
 title: "Pages with broken file links"
 description: ""
-published: false
+published: true
 date: '2019-08-05T02:09:57Z'
 tags: []
 editor: markdown

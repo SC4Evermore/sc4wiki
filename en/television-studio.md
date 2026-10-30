@@ -1,7 +1,7 @@
 ---
 title: "Television Studio"
 description: ""
-published: false
+published: true
 date: '2022-09-19T00:20:14Z'
 tags: ["Booster and Trophy Buildings", "Reward Civic Buildings"]
 editor: markdown

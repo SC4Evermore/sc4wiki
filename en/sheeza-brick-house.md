@@ -1,7 +1,7 @@
 ---
 title: "Sheeza Brick House"
 description: ""
-published: false
+published: true
 date: '2019-08-10T09:32:23Z'
 tags: ["Maxis RCI", "R§§ Growables", "New York Tileset/R§§"]
 editor: markdown

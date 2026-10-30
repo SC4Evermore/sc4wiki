@@ -1,7 +1,7 @@
 ---
 title: "Diggis"
 description: ""
-published: false
+published: true
 date: '2019-08-09T10:49:51Z'
 tags: []
 editor: markdown

@@ -1,7 +1,7 @@
 ---
 title: "Hydrogen Power Plant"
 description: ""
-published: false
+published: true
 date: '2024-04-19T14:28:08Z'
 tags: ["Utility Buildings", "Reward Utility Buildings", "Power Buildings"]
 editor: markdown

@@ -1,7 +1,7 @@
 ---
 title: "CitiesXL"
 description: ""
-published: false
+published: true
 date: '2019-08-08T10:14:37Z'
 tags: ["Other Games"]
 editor: markdown

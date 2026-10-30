@@ -1,7 +1,7 @@
 ---
 title: "Xxdita"
 description: ""
-published: false
+published: true
 date: '2019-08-09T21:59:05Z'
 tags: []
 editor: markdown

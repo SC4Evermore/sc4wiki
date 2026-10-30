@@ -1,7 +1,7 @@
 ---
 title: "Andrews Fashion Center"
 description: ""
-published: false
+published: true
 date: '2020-10-25T12:47:21Z'
 tags: ["CS§§§ Growables", "Chicago Tileset/CS§§§", "New York Tileset/CS§§§", "Houston Tileset/CS§§§", "Euro Tileset/CS§§§", "LOT Type:Shopping Mall"]
 editor: markdown

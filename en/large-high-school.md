@@ -1,7 +1,7 @@
 ---
 title: "Large High School"
 description: ""
-published: false
+published: true
 date: '2022-09-15T04:40:06Z'
 tags: ["Reward Civic Buildings", "Education Buildings"]
 editor: markdown

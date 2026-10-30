@@ -1,7 +1,7 @@
 ---
 title: "Customizing the Game"
 description: ""
-published: false
+published: true
 date: '2020-02-17T05:39:22Z'
 tags: ["SC4 Wiki"]
 editor: markdown

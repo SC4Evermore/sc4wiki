@@ -1,7 +1,7 @@
 ---
 title: "Growth Stage"
 description: ""
-published: false
+published: true
 date: '2025-10-25T11:00:09Z'
 tags: ["The Simulation", "Game Concepts"]
 editor: markdown

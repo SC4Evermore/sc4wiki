@@ -1,7 +1,7 @@
 ---
 title: "Keyboard Shortcuts"
 description: ""
-published: false
+published: true
 date: '2020-02-15T08:47:52Z'
 tags: ["Gameplay", "The Game", "User Interface"]
 editor: markdown

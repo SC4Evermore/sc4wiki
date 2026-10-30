@@ -1,7 +1,7 @@
 ---
 title: "City Museum"
 description: ""
-published: false
+published: true
 date: '2022-09-15T04:29:21Z'
 tags: ["Education Buildings"]
 editor: markdown

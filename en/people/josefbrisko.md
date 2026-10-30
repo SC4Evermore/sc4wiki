@@ -1,7 +1,7 @@
 ---
 title: "JosefBrisko"
 description: ""
-published: false
+published: true
 date: '2019-08-09T11:52:43Z'
 tags: []
 editor: markdown

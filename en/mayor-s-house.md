@@ -1,7 +1,7 @@
 ---
 title: "Mayor's House"
 description: ""
-published: false
+published: true
 date: '2022-09-16T06:21:06Z'
 tags: ["Government Buildings", "Reward Civic Buildings"]
 editor: markdown

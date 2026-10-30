@@ -1,7 +1,7 @@
 ---
 title: "Making Trumpet Interchanges with the RHW"
 description: ""
-published: false
+published: true
 date: '2019-08-04T06:00:43Z'
 tags: []
 editor: markdown

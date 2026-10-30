@@ -1,7 +1,7 @@
 ---
 title: "Bettina Dean"
 description: ""
-published: false
+published: true
 date: '2021-11-02T16:17:31Z'
 tags: ["Advisors"]
 editor: markdown

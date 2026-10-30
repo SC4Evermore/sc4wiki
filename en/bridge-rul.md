@@ -1,7 +1,7 @@
 ---
 title: "Bridge RUL"
 description: ""
-published: false
+published: true
 date: '2019-08-09T02:55:12Z'
 tags: ["File Formats/SC4", "Transit Modding", "MTS2"]
 editor: markdown

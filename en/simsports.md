@@ -1,7 +1,7 @@
 ---
 title: "SimSports"
 description: ""
-published: false
+published: true
 date: '2019-08-07T23:48:13Z'
 tags: []
 editor: markdown

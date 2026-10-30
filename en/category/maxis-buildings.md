@@ -1,7 +1,7 @@
 ---
 title: "Maxis Buildings"
 description: ""
-published: false
+published: true
 date: '2020-02-15T06:24:48Z'
 tags: ["Buildings", "The Game"]
 editor: markdown

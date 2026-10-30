@@ -1,7 +1,7 @@
 ---
 title: "Small Plaza"
 description: ""
-published: false
+published: true
 date: '2019-08-09T22:08:41Z'
 tags: ["Park Buildings"]
 editor: markdown

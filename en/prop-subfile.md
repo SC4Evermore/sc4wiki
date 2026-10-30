@@ -1,7 +1,7 @@
 ---
 title: "Prop Subfile"
 description: ""
-published: false
+published: true
 date: '2019-08-10T02:39:11Z'
 tags: ["Savegame/Subfiles"]
 editor: markdown

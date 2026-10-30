@@ -1,7 +1,7 @@
 ---
 title: "Eggman121"
 description: ""
-published: false
+published: true
 date: '2019-08-09T10:57:35Z'
 tags: ["City Showcase Authors"]
 editor: markdown

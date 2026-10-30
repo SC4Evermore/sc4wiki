@@ -1,7 +1,7 @@
 ---
 title: "SimPeg"
 description: ""
-published: false
+published: true
 date: '2019-08-07T23:47:51Z'
 tags: []
 editor: markdown

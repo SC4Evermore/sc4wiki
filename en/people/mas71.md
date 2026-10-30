@@ -1,7 +1,7 @@
 ---
 title: "MAS71"
 description: ""
-published: false
+published: true
 date: '2019-08-07T23:51:31Z'
 tags: ["Japan", "Fansite Personal"]
 editor: markdown

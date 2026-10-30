@@ -1,7 +1,7 @@
 ---
 title: "Berliner Dom"
 description: ""
-published: false
+published: true
 date: '2019-08-10T08:50:21Z'
 tags: ["Custom Landmarks"]
 editor: markdown

@@ -1,7 +1,7 @@
 ---
 title: "The Official City Journal Critics Thread"
 description: ""
-published: false
+published: true
 date: '2019-08-09T11:09:51Z'
 tags: ["ST Threads"]
 editor: markdown

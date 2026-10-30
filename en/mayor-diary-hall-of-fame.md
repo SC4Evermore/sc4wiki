@@ -1,7 +1,7 @@
 ---
 title: "Mayor Diary Hall of Fame"
 description: ""
-published: false
+published: true
 date: '2019-08-09T10:53:58Z'
 tags: ["SC4D Threads", "City Showcases"]
 editor: markdown

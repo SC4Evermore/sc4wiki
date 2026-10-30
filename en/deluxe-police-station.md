@@ -1,7 +1,7 @@
 ---
 title: "Deluxe Police Station"
 description: ""
-published: false
+published: true
 date: '2022-09-15T20:18:57Z'
 tags: ["Reward Civic Buildings", "Police Buildings"]
 editor: markdown

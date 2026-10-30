@@ -1,7 +1,7 @@
 ---
 title: "Medical Clinic"
 description: ""
-published: false
+published: true
 date: '2022-09-15T09:59:49Z'
 tags: ["Health Buildings"]
 editor: markdown

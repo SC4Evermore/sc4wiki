@@ -1,7 +1,7 @@
 ---
 title: "Zot"
 description: ""
-published: false
+published: true
 date: '2021-08-18T17:09:02Z'
 tags: ["Game Concepts"]
 editor: markdown

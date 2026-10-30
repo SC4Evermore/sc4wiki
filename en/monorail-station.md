@@ -1,7 +1,7 @@
 ---
 title: "Monorail Station"
 description: ""
-published: false
+published: true
 date: '2022-09-15T23:44:04Z'
 tags: ["Monorail Buildings"]
 editor: markdown

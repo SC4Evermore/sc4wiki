@@ -1,7 +1,7 @@
 ---
 title: "Neil Fairbanks"
 description: ""
-published: false
+published: true
 date: '2022-04-26T07:50:05Z'
 tags: ["Advisors"]
 editor: markdown

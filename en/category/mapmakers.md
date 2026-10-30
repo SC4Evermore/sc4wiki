@@ -1,7 +1,7 @@
 ---
 title: "Mapmakers"
 description: ""
-published: false
+published: true
 date: '2019-08-07T23:56:35Z'
 tags: ["People of SimCity 4"]
 editor: markdown

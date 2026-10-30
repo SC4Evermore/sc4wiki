@@ -1,7 +1,7 @@
 ---
 title: "Booster and Trophy Buildings"
 description: ""
-published: false
+published: true
 date: '2019-08-09T22:07:08Z'
 tags: []
 editor: markdown

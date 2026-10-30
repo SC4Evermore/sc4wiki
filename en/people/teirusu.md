@@ -1,7 +1,7 @@
 ---
 title: "Teirusu"
 description: ""
-published: false
+published: true
 date: '2019-08-04T11:25:40Z'
 tags: []
 editor: markdown

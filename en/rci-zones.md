@@ -1,7 +1,7 @@
 ---
 title: "RCI Zones"
 description: ""
-published: false
+published: true
 date: '2020-02-15T06:11:40Z'
 tags: ["The Game"]
 editor: markdown

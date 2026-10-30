@@ -1,7 +1,7 @@
 ---
 title: "DBPF Source Code"
 description: ""
-published: false
+published: true
 date: '2019-08-04T05:40:59Z'
 tags: ["Modding", "MTS2"]
 editor: markdown

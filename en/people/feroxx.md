@@ -1,7 +1,7 @@
 ---
 title: "Feroxx"
 description: ""
-published: false
+published: true
 date: '2019-08-09T11:02:05Z'
 tags: []
 editor: markdown

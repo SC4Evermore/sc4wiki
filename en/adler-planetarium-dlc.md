@@ -1,7 +1,7 @@
 ---
 title: "Adler Planetarium (DLC)"
 description: ""
-published: false
+published: true
 date: '2019-08-30T13:44:29Z'
 tags: ["Landmark Buildings", "Downloadable Content"]
 editor: markdown

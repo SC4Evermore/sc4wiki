@@ -1,7 +1,7 @@
 ---
 title: "Crash To Desktop"
 description: ""
-published: false
+published: true
 date: '2019-08-09T09:43:26Z'
 tags: ["Bugs"]
 editor: markdown

@@ -1,7 +1,7 @@
 ---
 title: "Options Panel"
 description: ""
-published: false
+published: true
 date: '2020-02-15T06:08:48Z'
 tags: ["User Interface", "The Game"]
 editor: markdown

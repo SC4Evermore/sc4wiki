@@ -1,7 +1,7 @@
 ---
 title: "Smoke Stacks"
 description: ""
-published: false
+published: true
 date: '2020-03-30T10:40:55Z'
 tags: ["Maxis RCI", "I-D Growables/Machinery", "Buildings Rebalanced in the CAM"]
 editor: markdown

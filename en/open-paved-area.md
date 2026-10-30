@@ -1,7 +1,7 @@
 ---
 title: "Open Paved Area"
 description: ""
-published: false
+published: true
 date: '2019-08-09T22:08:51Z'
 tags: ["Park Buildings"]
 editor: markdown

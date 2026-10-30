@@ -1,7 +1,7 @@
 ---
 title: "BigSlark"
 description: ""
-published: false
+published: true
 date: '2019-08-09T10:25:28Z'
 tags: []
 editor: markdown

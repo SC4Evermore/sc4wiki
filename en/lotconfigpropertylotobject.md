@@ -1,7 +1,7 @@
 ---
 title: "LotConfigPropertyLotObject"
 description: ""
-published: false
+published: true
 date: '2020-03-14T14:18:29Z'
 tags: []
 editor: markdown

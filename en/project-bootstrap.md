@@ -1,7 +1,7 @@
 ---
 title: "Project Bootstrap"
 description: ""
-published: false
+published: true
 date: '2022-12-29T18:19:13Z'
 tags: ["Maxis RCI", "R§ Growables", "Chicago Tileset/R§", "Buildings Rebalanced in the CAM"]
 editor: markdown

@@ -1,7 +1,7 @@
 ---
 title: "City Showcase Authors"
 description: ""
-published: false
+published: true
 date: '2019-08-09T10:56:01Z'
 tags: []
 editor: markdown

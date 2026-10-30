@@ -1,7 +1,7 @@
 ---
 title: "Ploppable Buildings/Custom"
 description: ""
-published: false
+published: true
 date: '2022-03-08T23:53:17Z'
 tags: ["Buildings", "Custom Building Sets"]
 editor: markdown

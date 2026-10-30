@@ -1,7 +1,7 @@
 ---
 title: "Introduction to the RHW"
 description: ""
-published: false
+published: true
 date: '2019-08-04T22:57:05Z'
 tags: ["NAM/doc"]
 editor: markdown

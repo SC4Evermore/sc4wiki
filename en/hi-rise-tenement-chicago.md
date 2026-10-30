@@ -1,7 +1,7 @@
 ---
 title: "Hi-Rise Tenement (Chicago)"
 description: ""
-published: false
+published: true
 date: '2019-08-10T09:35:10Z'
 tags: ["Maxis RCI", "R§ Growables", "Chicago Tileset/R§"]
 editor: markdown

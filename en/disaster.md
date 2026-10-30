@@ -1,7 +1,7 @@
 ---
 title: "Disaster"
 description: ""
-published: false
+published: true
 date: '2019-08-09T01:15:01Z'
 tags: ["Game Concepts"]
 editor: markdown

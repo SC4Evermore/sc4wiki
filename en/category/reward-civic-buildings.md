@@ -1,7 +1,7 @@
 ---
 title: "Reward Civic Buildings"
 description: ""
-published: false
+published: true
 date: '2022-03-08T23:50:23Z'
 tags: ["Reward Buildings", "Civic Buildings"]
 editor: markdown

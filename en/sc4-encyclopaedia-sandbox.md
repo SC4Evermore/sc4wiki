@@ -1,7 +1,7 @@
 ---
 title: "SC4 Encyclopaedia:Sandbox"
 description: ""
-published: false
+published: true
 date: '2019-08-07T23:48:25Z'
 tags: ["The Wiki"]
 editor: markdown

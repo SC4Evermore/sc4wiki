@@ -1,7 +1,7 @@
 ---
 title: "Simon Manor"
 description: ""
-published: false
+published: true
 date: '2019-08-04T23:24:33Z'
 tags: ["Maxis RCI", "R§§ Growables", "New York Tileset/R§§", "Buildings Rebalanced in the CAM"]
 editor: markdown

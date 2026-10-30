@@ -1,7 +1,7 @@
 ---
 title: "Industry Subfile"
 description: ""
-published: false
+published: true
 date: '2019-08-10T02:38:02Z'
 tags: ["Savegame/Subfiles"]
 editor: markdown

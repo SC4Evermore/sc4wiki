@@ -1,7 +1,7 @@
 ---
 title: "Maxis RCI"
 description: ""
-published: false
+published: true
 date: '2019-08-05T00:31:14Z'
 tags: ["Maxis Buildings"]
 editor: markdown

@@ -1,7 +1,7 @@
 ---
 title: "Dependencies List"
 description: ""
-published: false
+published: true
 date: '2019-08-09T10:53:57Z'
 tags: ["SC4D Threads", "Custom Content"]
 editor: markdown

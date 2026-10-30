@@ -1,7 +1,7 @@
 ---
 title: "Spotlight"
 description: ""
-published: false
+published: true
 date: '2019-08-04T22:32:29Z'
 tags: ["The Wiki"]
 editor: markdown

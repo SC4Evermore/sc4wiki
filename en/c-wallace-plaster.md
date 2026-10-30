@@ -1,7 +1,7 @@
 ---
 title: "C. Wallace Plaster"
 description: ""
-published: false
+published: true
 date: '2019-08-10T10:29:45Z'
 tags: ["Maxis RCI", "I-D Growables/Outbuildings", "Buildings Rebalanced in the CAM"]
 editor: markdown

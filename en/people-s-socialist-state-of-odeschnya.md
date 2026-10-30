@@ -1,7 +1,7 @@
 ---
 title: "People's Socialist State of Odeschnya"
 description: ""
-published: false
+published: true
 date: '2019-08-07T23:31:36Z'
 tags: []
 editor: markdown

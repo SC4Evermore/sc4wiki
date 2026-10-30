@@ -1,7 +1,7 @@
 ---
 title: "Major Art Museum"
 description: ""
-published: false
+published: true
 date: '2022-09-19T01:10:46Z'
 tags: ["Reward Civic Buildings", "Education Buildings"]
 editor: markdown

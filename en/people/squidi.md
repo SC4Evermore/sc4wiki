@@ -1,7 +1,7 @@
 ---
 title: "Squidi"
 description: ""
-published: false
+published: true
 date: '2019-08-09T21:48:38Z'
 tags: ["Lotters"]
 editor: markdown

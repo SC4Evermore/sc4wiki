@@ -1,7 +1,7 @@
 ---
 title: "NAM User Guide pages updated to NAM 36"
 description: ""
-published: false
+published: true
 date: '2020-02-17T05:18:56Z'
 tags: ["needs-conversion"]
 editor: markdown

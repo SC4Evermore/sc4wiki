@@ -1,7 +1,7 @@
 ---
 title: "INI"
 description: ""
-published: false
+published: true
 date: '2019-08-09T02:55:09Z'
 tags: ["File Formats/COMM", "Modding", "MTS2"]
 editor: markdown

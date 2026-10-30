@@ -1,7 +1,7 @@
 ---
 title: "ITC JFM Banks Revisited"
 description: ""
-published: false
+published: true
 date: '2019-08-10T08:50:24Z'
 tags: ["CS§§§ Ploppables"]
 editor: markdown

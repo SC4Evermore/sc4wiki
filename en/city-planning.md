@@ -1,7 +1,7 @@
 ---
 title: "City Planning"
 description: ""
-published: false
+published: true
 date: '2019-08-09T09:32:00Z'
 tags: ["Gameplay"]
 editor: markdown

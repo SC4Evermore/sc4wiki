@@ -1,7 +1,7 @@
 ---
 title: "Medium City Hall (Unimplemented)"
 description: ""
-published: false
+published: true
 date: '2022-04-26T08:05:19Z'
 tags: ["Reward Civic Buildings", "Government Buildings"]
 editor: markdown

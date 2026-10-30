@@ -1,7 +1,7 @@
 ---
 title: "Houston Tileset"
 description: ""
-published: false
+published: true
 date: '2019-08-09T01:27:48Z'
 tags: ["Growable Buildings"]
 editor: markdown

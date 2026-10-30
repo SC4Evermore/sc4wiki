@@ -1,7 +1,7 @@
 ---
 title: "Index"
 description: ""
-published: false
+published: true
 date: '2020-02-16T14:16:00Z'
 tags: ["NAM/doc"]
 editor: markdown

@@ -1,7 +1,7 @@
 ---
 title: "Menu Management Lot"
 description: ""
-published: false
+published: true
 date: '2020-02-15T08:49:09Z'
 tags: ["Tool", "Custom Tools", "User Interface"]
 editor: markdown

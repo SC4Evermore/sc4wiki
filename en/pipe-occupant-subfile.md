@@ -1,7 +1,7 @@
 ---
 title: "Pipe Occupant Subfile"
 description: ""
-published: false
+published: true
 date: '2021-07-06T19:33:21Z'
 tags: []
 editor: markdown

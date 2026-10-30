@@ -1,7 +1,7 @@
 ---
 title: "Simtropolis"
 description: ""
-published: false
+published: true
 date: '2019-08-07T23:47:44Z'
 tags: []
 editor: markdown

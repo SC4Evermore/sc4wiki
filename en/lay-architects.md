@@ -1,7 +1,7 @@
 ---
 title: "Lay Architects"
 description: ""
-published: false
+published: true
 date: '2019-08-07T23:14:19Z'
 tags: ["Maxis RCI", "CO§§ Growables", "Chicago Tileset/CO§§"]
 editor: markdown

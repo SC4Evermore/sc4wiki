@@ -1,7 +1,7 @@
 ---
 title: "Formatting"
 description: ""
-published: false
+published: true
 date: '2019-08-09T21:35:24Z'
 tags: []
 editor: markdown

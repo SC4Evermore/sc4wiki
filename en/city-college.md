@@ -1,7 +1,7 @@
 ---
 title: "City College"
 description: ""
-published: false
+published: true
 date: '2022-09-15T04:47:06Z'
 tags: ["Education Buildings"]
 editor: markdown

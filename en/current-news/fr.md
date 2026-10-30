@@ -1,7 +1,7 @@
 ---
 title: "Current news/fr"
 description: ""
-published: false
+published: true
 date: '2019-08-09T22:17:54Z'
 tags: []
 editor: markdown

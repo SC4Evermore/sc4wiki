@@ -1,7 +1,7 @@
 ---
 title: "Rural Renewal Project"
 description: ""
-published: false
+published: true
 date: '2019-08-09T10:36:58Z'
 tags: ["Projects"]
 editor: markdown

@@ -1,7 +1,7 @@
 ---
 title: "Advanced Research Center"
 description: ""
-published: false
+published: true
 date: '2022-09-18T04:43:22Z'
 tags: ["Booster and Trophy Buildings", "Reward Civic Buildings"]
 editor: markdown

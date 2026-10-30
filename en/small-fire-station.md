@@ -1,7 +1,7 @@
 ---
 title: "Small Fire Station"
 description: ""
-published: false
+published: true
 date: '2022-09-15T11:06:33Z'
 tags: ["Fire Buildings"]
 editor: markdown

@@ -1,7 +1,7 @@
 ---
 title: "RealHighway/ja"
 description: ""
-published: false
+published: true
 date: '2020-03-30T07:25:14Z'
 tags: []
 editor: markdown

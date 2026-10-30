@@ -1,7 +1,7 @@
 ---
 title: "Convention Center"
 description: ""
-published: false
+published: true
 date: '2023-11-06T18:06:18Z'
 tags: ["Booster and Trophy Buildings", "Reward Civic Buildings"]
 editor: markdown

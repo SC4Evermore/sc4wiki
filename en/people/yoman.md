@@ -1,7 +1,7 @@
 ---
 title: "Yoman"
 description: ""
-published: false
+published: true
 date: '2019-08-24T17:54:19Z'
 tags: []
 editor: markdown

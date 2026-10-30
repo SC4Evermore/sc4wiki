@@ -1,7 +1,7 @@
 ---
 title: "Colyn"
 description: ""
-published: false
+published: true
 date: '2019-08-09T10:41:35Z'
 tags: []
 editor: markdown

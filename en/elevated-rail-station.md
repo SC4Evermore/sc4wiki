@@ -1,7 +1,7 @@
 ---
 title: "Elevated Rail Station"
 description: ""
-published: false
+published: true
 date: '2022-09-15T23:43:39Z'
 tags: ["Light Rail Buildings"]
 editor: markdown

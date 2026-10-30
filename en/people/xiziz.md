@@ -1,7 +1,7 @@
 ---
 title: "Xiziz"
 description: ""
-published: false
+published: true
 date: '2019-08-24T17:53:58Z'
 tags: []
 editor: markdown

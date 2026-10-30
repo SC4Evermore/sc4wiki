@@ -1,7 +1,7 @@
 ---
 title: "SC4Path Format"
 description: ""
-published: false
+published: true
 date: '2019-08-04T05:43:38Z'
 tags: ["Transit Modding", "MTS2"]
 editor: markdown

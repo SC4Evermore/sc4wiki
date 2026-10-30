@@ -1,7 +1,7 @@
 ---
 title: "Cheatsheet"
 description: ""
-published: false
+published: true
 date: '2019-08-09T21:35:06Z'
 tags: []
 editor: markdown

@@ -1,7 +1,7 @@
 ---
 title: "Longfellow Castle (DLC)"
 description: ""
-published: false
+published: true
 date: '2019-08-09T22:06:49Z'
 tags: ["Landmark Buildings", "Downloadable Content"]
 editor: markdown

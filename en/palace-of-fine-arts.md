@@ -1,7 +1,7 @@
 ---
 title: "Palace of Fine Arts"
 description: ""
-published: false
+published: true
 date: '2019-08-09T22:06:55Z'
 tags: ["Landmark Buildings"]
 editor: markdown

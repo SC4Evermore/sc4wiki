@@ -1,7 +1,7 @@
 ---
 title: "Pages needing an editors assistance"
 description: ""
-published: false
+published: true
 date: '2019-08-24T18:02:05Z'
 tags: []
 editor: markdown

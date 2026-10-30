@@ -1,7 +1,7 @@
 ---
 title: "SC4 Encyclopaedia:About"
 description: ""
-published: false
+published: true
 date: '2019-08-10T08:39:26Z'
 tags: []
 editor: markdown

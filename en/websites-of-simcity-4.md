@@ -1,7 +1,7 @@
 ---
 title: "Websites of SimCity 4"
 description: ""
-published: false
+published: true
 date: '2019-08-04T06:03:31Z'
 tags: ["The Community"]
 editor: markdown

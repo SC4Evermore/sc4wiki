@@ -1,7 +1,7 @@
 ---
 title: "Plug-BSC"
 description: ""
-published: false
+published: true
 date: '2019-08-09T01:42:07Z'
 tags: ["plugins"]
 editor: markdown

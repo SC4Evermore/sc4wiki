@@ -1,7 +1,7 @@
 ---
 title: "Bullet Train Mod"
 description: ""
-published: false
+published: true
 date: '2019-08-10T08:50:22Z'
 tags: ["Plug-Transport"]
 editor: markdown

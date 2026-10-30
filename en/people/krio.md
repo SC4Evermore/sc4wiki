@@ -1,7 +1,7 @@
 ---
 title: "Krio"
 description: ""
-published: false
+published: true
 date: '2019-08-09T11:54:38Z'
 tags: []
 editor: markdown

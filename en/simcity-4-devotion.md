@@ -1,7 +1,7 @@
 ---
 title: "SimCity 4 Devotion"
 description: ""
-published: false
+published: true
 date: '2021-05-06T07:58:33Z'
 tags: ["Fansite"]
 editor: markdown

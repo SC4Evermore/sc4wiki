@@ -1,7 +1,7 @@
 ---
 title: "Note to Steam Users"
 description: ""
-published: false
+published: true
 date: '2019-08-04T22:57:03Z'
 tags: []
 editor: markdown

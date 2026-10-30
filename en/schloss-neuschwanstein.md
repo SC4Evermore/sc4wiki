@@ -1,7 +1,7 @@
 ---
 title: "Schloss Neuschwanstein"
 description: ""
-published: false
+published: true
 date: '2020-02-12T13:19:33Z'
 tags: ["Landmark Buildings"]
 editor: markdown

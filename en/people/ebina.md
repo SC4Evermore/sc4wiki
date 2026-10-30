@@ -1,7 +1,7 @@
 ---
 title: "Ebina"
 description: ""
-published: false
+published: true
 date: '2019-08-09T10:57:16Z'
 tags: []
 editor: markdown

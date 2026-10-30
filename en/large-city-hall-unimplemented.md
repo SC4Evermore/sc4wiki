@@ -1,7 +1,7 @@
 ---
 title: "Large City Hall (Unimplemented)"
 description: ""
-published: false
+published: true
 date: '2022-04-26T08:04:42Z'
 tags: ["Reward Civic Buildings", "Government Buildings"]
 editor: markdown

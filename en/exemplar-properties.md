@@ -1,7 +1,7 @@
 ---
 title: "Exemplar properties"
 description: ""
-published: false
+published: true
 date: '2024-02-21T05:17:34Z'
 tags: ["Modding", "MTS2"]
 editor: markdown

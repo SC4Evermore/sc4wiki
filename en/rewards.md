@@ -1,7 +1,7 @@
 ---
 title: "Rewards"
 description: ""
-published: false
+published: true
 date: '2020-02-15T06:22:42Z'
 tags: ["Modding Lots", "Game Concepts", "Buildings", "Maxis Building Sets", "The Game"]
 editor: markdown

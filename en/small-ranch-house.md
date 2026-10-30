@@ -1,7 +1,7 @@
 ---
 title: "Small Ranch House"
 description: ""
-published: false
+published: true
 date: '2019-08-04T23:24:37Z'
 tags: ["Maxis RCI", "R§ Growables", "New York Tileset/R§"]
 editor: markdown

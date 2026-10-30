@@ -1,7 +1,7 @@
 ---
 title: "Savegame"
 description: ""
-published: false
+published: true
 date: '2019-08-09T09:35:00Z'
 tags: ["Customizing the Game", "The Game"]
 editor: markdown

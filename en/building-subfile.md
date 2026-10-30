@@ -1,7 +1,7 @@
 ---
 title: "Building Subfile"
 description: ""
-published: false
+published: true
 date: '2019-08-05T02:23:11Z'
 tags: ["MTS2", "Savegame/Subfiles"]
 editor: markdown

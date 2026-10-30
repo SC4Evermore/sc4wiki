@@ -1,7 +1,7 @@
 ---
 title: "Water Treatment Plant"
 description: ""
-published: false
+published: true
 date: '2019-08-22T09:45:28Z'
 tags: ["Utility Buildings", "Water Buildings"]
 editor: markdown

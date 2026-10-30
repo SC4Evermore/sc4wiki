@@ -1,7 +1,7 @@
 ---
 title: "Power plant"
 description: ""
-published: false
+published: true
 date: '2019-08-21T16:33:25Z'
 tags: ["Buildings"]
 editor: markdown

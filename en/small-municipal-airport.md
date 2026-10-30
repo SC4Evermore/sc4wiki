@@ -1,7 +1,7 @@
 ---
 title: "Small Municipal Airport"
 description: ""
-published: false
+published: true
 date: '2022-09-11T02:02:36Z'
 tags: ["Airport Buildings"]
 editor: markdown

@@ -1,7 +1,7 @@
 ---
 title: "NDEX/FAQ"
 description: ""
-published: false
+published: true
 date: '2019-08-09T22:31:44Z'
 tags: []
 editor: markdown

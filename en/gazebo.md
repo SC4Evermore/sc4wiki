@@ -1,7 +1,7 @@
 ---
 title: "Gazebo"
 description: ""
-published: false
+published: true
 date: '2022-09-09T00:03:07Z'
 tags: ["Park Buildings"]
 editor: markdown

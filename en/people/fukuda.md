@@ -1,7 +1,7 @@
 ---
 title: "Fukuda"
 description: ""
-published: false
+published: true
 date: '2019-08-09T11:03:21Z'
 tags: []
 editor: markdown

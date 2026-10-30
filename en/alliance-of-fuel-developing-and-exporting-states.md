@@ -1,7 +1,7 @@
 ---
 title: "Alliance of Fuel Developing and Exporting States"
 description: ""
-published: false
+published: true
 date: '2019-08-09T11:09:53Z'
 tags: ["City Showcase Unions", "ST Threads"]
 editor: markdown

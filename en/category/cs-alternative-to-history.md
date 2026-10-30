@@ -1,7 +1,7 @@
 ---
 title: "Cs-Alternative to History"
 description: ""
-published: false
+published: true
 date: '2019-08-07T23:34:00Z'
 tags: ["City Showcases"]
 editor: markdown

@@ -1,7 +1,7 @@
 ---
 title: "Colossal Mayor's Statue"
 description: ""
-published: false
+published: true
 date: '2022-09-11T12:34:47Z'
 tags: ["Government Buildings", "Reward Civic Buildings"]
 editor: markdown

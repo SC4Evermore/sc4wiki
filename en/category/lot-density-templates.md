@@ -1,7 +1,7 @@
 ---
 title: "Lot Density Templates"
 description: ""
-published: false
+published: true
 date: '2019-08-09T22:55:15Z'
 tags: []
 editor: markdown

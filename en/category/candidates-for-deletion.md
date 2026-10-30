@@ -1,7 +1,7 @@
 ---
 title: "Candidates for deletion"
 description: ""
-published: false
+published: true
 date: '2024-01-12T02:48:33Z'
 tags: []
 editor: markdown

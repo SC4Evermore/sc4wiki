@@ -1,7 +1,7 @@
 ---
 title: "Model Exemplar"
 description: ""
-published: false
+published: true
 date: '2023-01-29T15:49:41Z'
 tags: ["Transit Networks", "Transit Modding"]
 editor: markdown

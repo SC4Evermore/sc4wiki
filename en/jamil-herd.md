@@ -1,7 +1,7 @@
 ---
 title: "Jamil Herd"
 description: ""
-published: false
+published: true
 date: '2021-11-02T16:15:06Z'
 tags: ["Advisors"]
 editor: markdown

@@ -1,7 +1,7 @@
 ---
 title: "Girlfromverona"
 description: ""
-published: false
+published: true
 date: '2019-08-09T11:07:28Z'
 tags: []
 editor: markdown

@@ -1,7 +1,7 @@
 ---
 title: "NAM/Puzzle Pieces/owr"
 description: ""
-published: false
+published: true
 date: '2019-08-04T05:43:25Z'
 tags: []
 editor: markdown

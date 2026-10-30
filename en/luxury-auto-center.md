@@ -1,7 +1,7 @@
 ---
 title: "Luxury Auto Center"
 description: ""
-published: false
+published: true
 date: '2019-08-04T23:24:05Z'
 tags: ["Maxis RCI", "CS§§§ Growables", "Chicago Tileset/CS§§§", "New York Tileset/CS§§§", "Houston Tileset/CS§§§", "Euro Tileset/CS§§§"]
 editor: markdown

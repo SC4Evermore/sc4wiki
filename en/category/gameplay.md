@@ -1,7 +1,7 @@
 ---
 title: "Gameplay"
 description: ""
-published: false
+published: true
 date: '2019-08-04T22:30:41Z'
 tags: []
 editor: markdown

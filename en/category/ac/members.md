@@ -1,7 +1,7 @@
 ---
 title: "AC/members"
 description: ""
-published: false
+published: true
 date: '2019-08-09T09:59:23Z'
 tags: []
 editor: markdown

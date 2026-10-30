@@ -1,7 +1,7 @@
 ---
 title: "BriPizza"
 description: ""
-published: false
+published: true
 date: '2019-08-04T07:08:52Z'
 tags: ["Japan", "Fansite Personal"]
 editor: markdown

@@ -1,7 +1,7 @@
 ---
 title: "Freight Train Station"
 description: ""
-published: false
+published: true
 date: '2022-09-16T03:28:56Z'
 tags: ["Rail Buildings"]
 editor: markdown

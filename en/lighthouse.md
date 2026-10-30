@@ -1,7 +1,7 @@
 ---
 title: "Lighthouse"
 description: ""
-published: false
+published: true
 date: '2022-09-14T18:02:59Z'
 tags: ["Government Buildings", "Reward Civic Buildings"]
 editor: markdown

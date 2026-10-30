@@ -1,7 +1,7 @@
 ---
 title: "MXF"
 description: ""
-published: false
+published: true
 date: '2022-11-27T05:38:09Z'
 tags: ["Customizing the Game", "Modding", "File Formats/SC4"]
 editor: markdown

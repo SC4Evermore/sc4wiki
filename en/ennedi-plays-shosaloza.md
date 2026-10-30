@@ -1,7 +1,7 @@
 ---
 title: "Ennedi plays Shosaloza"
 description: ""
-published: false
+published: true
 date: '2019-08-07T23:33:05Z'
 tags: []
 editor: markdown

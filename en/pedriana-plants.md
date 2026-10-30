@@ -1,7 +1,7 @@
 ---
 title: "Pedriana Plants"
 description: ""
-published: false
+published: true
 date: '2019-08-05T00:41:03Z'
 tags: ["Maxis RCI", "I-A Growables/Anchors"]
 editor: markdown

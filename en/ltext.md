@@ -1,7 +1,7 @@
 ---
 title: "LTEXT"
 description: ""
-published: false
+published: true
 date: '2025-01-07T14:14:51Z'
 tags: ["File Formats/SC4", "MTS2"]
 editor: markdown

@@ -1,7 +1,7 @@
 ---
 title: "Residential Hotel"
 description: ""
-published: false
+published: true
 date: '2019-08-10T09:45:08Z'
 tags: ["Maxis RCI", "R§ Growables", "Chicago Tileset/R§"]
 editor: markdown

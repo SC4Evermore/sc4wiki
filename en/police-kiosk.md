@@ -1,7 +1,7 @@
 ---
 title: "Police Kiosk"
 description: ""
-published: false
+published: true
 date: '2022-09-15T20:15:23Z'
 tags: ["Police Buildings"]
 editor: markdown

@@ -1,7 +1,7 @@
 ---
 title: "SimCity Journal Union"
 description: ""
-published: false
+published: true
 date: '2019-08-09T10:05:29Z'
 tags: ["City Showcase Unions"]
 editor: markdown

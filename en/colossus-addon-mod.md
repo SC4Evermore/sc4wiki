@@ -1,7 +1,7 @@
 ---
 title: "Colossus Addon Mod"
 description: ""
-published: false
+published: true
 date: '2019-08-09T01:17:43Z'
 tags: ["Mods and Modding"]
 editor: markdown

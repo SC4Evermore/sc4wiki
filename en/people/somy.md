@@ -1,7 +1,7 @@
 ---
 title: "Somy"
 description: ""
-published: false
+published: true
 date: '2019-08-04T07:21:31Z'
 tags: ["Japan", "Fansite Personal"]
 editor: markdown

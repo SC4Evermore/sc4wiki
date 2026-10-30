@@ -1,7 +1,7 @@
 ---
 title: "Cecilia's Greasy Taco Stand"
 description: ""
-published: false
+published: true
 date: '2019-08-07T23:20:36Z'
 tags: ["Maxis RCI", "CS§§ Growables", "Houston Tileset/CS§", "New York Tileset/CS§", "Chicago Tileset/CS§", "Euro Tileset/CS§"]
 editor: markdown

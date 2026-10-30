@@ -1,7 +1,7 @@
 ---
 title: "Reed Place"
 description: ""
-published: false
+published: true
 date: '2019-08-10T10:13:59Z'
 tags: ["Maxis RCI", "R§§ Growables", "New York Tileset/R§§", "Buildings Rebalanced in the CAM"]
 editor: markdown

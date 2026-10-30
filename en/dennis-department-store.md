@@ -1,7 +1,7 @@
 ---
 title: "Dennis Department Store"
 description: ""
-published: false
+published: true
 date: '2019-08-07T23:19:29Z'
 tags: ["Maxis RCI", "CS§§ Growables", "Chicago Tileset/CS§§"]
 editor: markdown

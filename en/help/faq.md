@@ -1,7 +1,7 @@
 ---
 title: "FAQ"
 description: ""
-published: false
+published: true
 date: '2019-08-09T21:28:27Z'
 tags: []
 editor: markdown

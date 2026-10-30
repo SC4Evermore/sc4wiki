@@ -1,7 +1,7 @@
 ---
 title: "Wouanagaine"
 description: ""
-published: false
+published: true
 date: '2019-08-08T09:31:04Z'
 tags: []
 editor: markdown

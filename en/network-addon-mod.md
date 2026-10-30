@@ -1,7 +1,7 @@
 ---
 title: "Network Addon Mod"
 description: ""
-published: false
+published: true
 date: '2026-10-28T22:43:06Z'
 tags: ["NAM", "Teams"]
 editor: markdown

@@ -1,7 +1,7 @@
 ---
 title: "Small Shops"
 description: ""
-published: false
+published: true
 date: '2019-08-07T23:20:44Z'
 tags: ["CS§ Growables", "Chicago Tileset/CS§", "New York Tileset/CS§", "Houston Tileset/CS§", "Euro Tileset/CS§"]
 editor: markdown

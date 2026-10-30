@@ -1,7 +1,7 @@
 ---
 title: "How to Create T21 Exemplars (Swamper77s way)"
 description: ""
-published: false
+published: true
 date: '2019-08-09T22:19:19Z'
 tags: []
 editor: markdown

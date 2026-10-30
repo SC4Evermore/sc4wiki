@@ -1,7 +1,7 @@
 ---
 title: "Tubing Facility"
 description: ""
-published: false
+published: true
 date: '2019-08-10T10:34:17Z'
 tags: ["Maxis RCI", "I-HT Growables/Outbuildings"]
 editor: markdown

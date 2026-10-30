@@ -1,7 +1,7 @@
 ---
 title: "Small Police Station"
 description: ""
-published: false
+published: true
 date: '2022-09-15T20:17:30Z'
 tags: ["Police Buildings"]
 editor: markdown

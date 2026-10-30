@@ -1,7 +1,7 @@
 ---
 title: "Types of Custom Content for SimCity 4"
 description: ""
-published: false
+published: true
 date: '2020-03-11T06:00:08Z'
 tags: ["Customizing the Game", "Custom_Content"]
 editor: markdown

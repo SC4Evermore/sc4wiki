@@ -1,7 +1,7 @@
 ---
 title: "EFFDIR"
 description: ""
-published: false
+published: true
 date: '2026-08-15T15:19:54Z'
 tags: []
 editor: markdown

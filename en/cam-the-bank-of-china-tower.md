@@ -1,7 +1,7 @@
 ---
 title: "CAM: The Bank Of China Tower"
 description: ""
-published: false
+published: true
 date: '2019-08-11T11:30:29Z'
 tags: ["Custom Growable RCI", "CO§§§ Growables/Custom", "Houston Tileset/CO§§§/Custom", "Euro Tileset/CO§§§/Custom", "CAM Buildings"]
 editor: markdown

@@ -1,7 +1,7 @@
 ---
 title: "American Museum Of Natural History"
 description: ""
-published: false
+published: true
 date: '2019-08-09T22:06:53Z'
 tags: ["Landmark Buildings"]
 editor: markdown

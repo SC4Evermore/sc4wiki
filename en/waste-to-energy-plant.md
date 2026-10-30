@@ -1,7 +1,7 @@
 ---
 title: "Waste to Energy Plant"
 description: ""
-published: false
+published: true
 date: '2022-09-15T21:37:41Z'
 tags: ["Utility Buildings", "Power Buildings", "Sanitation Buildings"]
 editor: markdown

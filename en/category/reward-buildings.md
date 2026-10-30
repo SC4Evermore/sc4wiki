@@ -1,7 +1,7 @@
 ---
 title: "Reward Buildings"
 description: ""
-published: false
+published: true
 date: '2019-08-23T12:44:03Z'
 tags: ["Ploppable Buildings"]
 editor: markdown

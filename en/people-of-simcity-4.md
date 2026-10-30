@@ -1,7 +1,7 @@
 ---
 title: "People of SimCity 4"
 description: ""
-published: false
+published: true
 date: '2019-08-09T10:54:55Z'
 tags: ["The Community"]
 editor: markdown

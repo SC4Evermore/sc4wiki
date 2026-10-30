@@ -1,7 +1,7 @@
 ---
 title: "SC4 Glossary"
 description: ""
-published: false
+published: true
 date: '2019-08-04T06:03:33Z'
 tags: ["The Community"]
 editor: markdown

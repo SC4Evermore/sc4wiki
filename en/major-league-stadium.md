@@ -1,7 +1,7 @@
 ---
 title: "Major League Stadium"
 description: ""
-published: false
+published: true
 date: '2022-09-19T05:29:35Z'
 tags: ["Reward Civic Buildings", "Park Buildings"]
 editor: markdown

@@ -1,7 +1,7 @@
 ---
 title: "Landmark"
 description: ""
-published: false
+published: true
 date: '2020-02-15T06:13:23Z'
 tags: ["Buildings", "Game Concepts", "The Game"]
 editor: markdown

@@ -1,7 +1,7 @@
 ---
 title: "SimsZone"
 description: ""
-published: false
+published: true
 date: '2019-08-07T23:48:05Z'
 tags: ["Fansite"]
 editor: markdown

@@ -1,7 +1,7 @@
 ---
 title: "Solar Panel U-Store It"
 description: ""
-published: false
+published: true
 date: '2019-08-10T10:30:46Z'
 tags: ["Maxis RCI", "I-M Growables/Anchors"]
 editor: markdown

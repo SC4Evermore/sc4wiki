@@ -1,7 +1,7 @@
 ---
 title: "Xyloxadoria"
 description: ""
-published: false
+published: true
 date: '2019-08-09T21:59:27Z'
 tags: ["BATers"]
 editor: markdown

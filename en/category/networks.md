@@ -1,7 +1,7 @@
 ---
 title: "Networks"
 description: ""
-published: false
+published: true
 date: '2019-08-09T09:35:00Z'
 tags: ["The Game"]
 editor: markdown

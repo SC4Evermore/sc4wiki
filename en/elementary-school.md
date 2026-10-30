@@ -1,7 +1,7 @@
 ---
 title: "Elementary School"
 description: ""
-published: false
+published: true
 date: '2022-09-15T04:30:18Z'
 tags: ["Education Buildings"]
 editor: markdown

@@ -1,7 +1,7 @@
 ---
 title: "TSC (Website)"
 description: ""
-published: false
+published: true
 date: '2019-08-07T23:48:32Z'
 tags: []
 editor: markdown

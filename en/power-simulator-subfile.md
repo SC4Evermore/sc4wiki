@@ -1,7 +1,7 @@
 ---
 title: "Power Simulator Subfile"
 description: ""
-published: false
+published: true
 date: '2019-08-10T02:39:54Z'
 tags: ["MTS2", "Savegame/Subfiles"]
 editor: markdown

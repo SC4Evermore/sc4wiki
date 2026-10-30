@@ -1,7 +1,7 @@
 ---
 title: "Cs-Hall of Fame"
 description: ""
-published: false
+published: true
 date: '2019-08-07T23:34:43Z'
 tags: ["City Showcases"]
 editor: markdown

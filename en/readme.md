@@ -1,7 +1,7 @@
 ---
 title: "ReadMe"
 description: ""
-published: false
+published: true
 date: '2019-08-04T05:51:28Z'
 tags: ["Custom Content", "Customizing the Game"]
 editor: markdown

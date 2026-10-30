@@ -1,7 +1,7 @@
 ---
 title: "SimCity 5"
 description: ""
-published: false
+published: true
 date: '2019-08-08T10:19:13Z'
 tags: ["Other Games"]
 editor: markdown

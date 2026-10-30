@@ -1,7 +1,7 @@
 ---
 title: "SimCity 4"
 description: ""
-published: false
+published: true
 date: '2020-02-16T14:20:20Z'
 tags: ["The Game"]
 editor: markdown

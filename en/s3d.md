@@ -1,7 +1,7 @@
 ---
 title: "S3D"
 description: ""
-published: false
+published: true
 date: '2019-08-09T02:55:01Z'
 tags: ["File Formats/SC4"]
 editor: markdown

@@ -1,7 +1,7 @@
 ---
 title: "Contents/head"
 description: ""
-published: false
+published: true
 date: '2019-08-09T21:27:44Z'
 tags: ["needs-conversion"]
 editor: markdown

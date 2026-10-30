@@ -1,7 +1,7 @@
 ---
 title: "C.p."
 description: ""
-published: false
+published: true
 date: '2019-08-09T10:31:11Z'
 tags: ["BATers", "Mapmakers", "Texturers"]
 editor: markdown

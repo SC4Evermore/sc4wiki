@@ -1,7 +1,7 @@
 ---
 title: "SimFox"
 description: ""
-published: false
+published: true
 date: '2019-08-09T21:45:19Z'
 tags: []
 editor: markdown

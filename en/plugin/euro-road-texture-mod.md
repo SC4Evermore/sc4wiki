@@ -1,7 +1,7 @@
 ---
 title: "Euro Road Texture Mod"
 description: ""
-published: false
+published: true
 date: '2019-08-10T08:44:32Z'
 tags: ["Plug-Transport", "Transit Modding"]
 editor: markdown

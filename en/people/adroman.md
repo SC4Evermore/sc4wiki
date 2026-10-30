@@ -1,7 +1,7 @@
 ---
 title: "Adroman"
 description: ""
-published: false
+published: true
 date: '2019-08-04T07:08:44Z'
 tags: []
 editor: markdown

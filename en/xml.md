@@ -1,7 +1,7 @@
 ---
 title: "XML"
 description: ""
-published: false
+published: true
 date: '2019-08-09T02:55:11Z'
 tags: ["File Formats/COMM"]
 editor: markdown

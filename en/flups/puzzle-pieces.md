@@ -1,7 +1,7 @@
 ---
 title: "FLUPs/Puzzle Pieces"
 description: ""
-published: false
+published: true
 date: '2019-08-04T05:43:23Z'
 tags: []
 editor: markdown

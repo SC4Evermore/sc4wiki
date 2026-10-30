@@ -1,7 +1,7 @@
 ---
 title: "Landmark Buildings"
 description: ""
-published: false
+published: true
 date: '2019-08-09T22:01:41Z'
 tags: []
 editor: markdown

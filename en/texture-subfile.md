@@ -1,7 +1,7 @@
 ---
 title: "Texture Subfile"
 description: ""
-published: false
+published: true
 date: '2024-03-03T14:24:43Z'
 tags: []
 editor: markdown

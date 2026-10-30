@@ -1,7 +1,7 @@
 ---
 title: "Cogg and Shuffle"
 description: ""
-published: false
+published: true
 date: '2019-08-10T10:30:58Z'
 tags: ["Maxis RCI", "I-M Growables/Machinery"]
 editor: markdown

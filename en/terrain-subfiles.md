@@ -1,7 +1,7 @@
 ---
 title: "Terrain subfiles"
 description: ""
-published: false
+published: true
 date: '2025-01-05T12:14:28Z'
 tags: []
 editor: markdown

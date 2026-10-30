@@ -1,7 +1,7 @@
 ---
 title: "Picture Competition"
 description: ""
-published: false
+published: true
 date: '2019-08-09T10:54:00Z'
 tags: ["SC4D Threads", "Contests"]
 editor: markdown

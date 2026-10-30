@@ -1,7 +1,7 @@
 ---
 title: "Spline Testing"
 description: ""
-published: false
+published: true
 date: '2019-08-10T10:34:11Z'
 tags: ["Maxis RCI", "I-HT Growables/Outbuildings"]
 editor: markdown

@@ -1,7 +1,7 @@
 ---
 title: "Lot Developer Subfile"
 description: ""
-published: false
+published: true
 date: '2021-07-06T10:24:34Z'
 tags: []
 editor: markdown

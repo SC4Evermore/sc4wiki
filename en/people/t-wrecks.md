@@ -1,7 +1,7 @@
 ---
 title: "T Wrecks"
 description: ""
-published: false
+published: true
 date: '2019-08-09T21:50:47Z'
 tags: []
 editor: markdown

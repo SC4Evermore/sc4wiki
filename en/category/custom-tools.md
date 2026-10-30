@@ -1,7 +1,7 @@
 ---
 title: "Custom Tools"
 description: ""
-published: false
+published: true
 date: '2019-08-04T05:51:36Z'
 tags: ["Custom Content"]
 editor: markdown

@@ -1,7 +1,7 @@
 ---
 title: "Patricius Maximus"
 description: ""
-published: false
+published: true
 date: '2019-08-04T11:26:06Z'
 tags: ["Mapmakers"]
 editor: markdown

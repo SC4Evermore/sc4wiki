@@ -1,7 +1,7 @@
 ---
 title: "Tutorial Subfile"
 description: ""
-published: false
+published: true
 date: '2019-08-10T01:26:37Z'
 tags: ["Savegame/Subfiles"]
 editor: markdown

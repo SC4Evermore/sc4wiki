@@ -1,7 +1,7 @@
 ---
 title: "RHW FLEXFly"
 description: ""
-published: false
+published: true
 date: '2020-02-15T05:21:58Z'
 tags: ["NAM/doc"]
 editor: markdown

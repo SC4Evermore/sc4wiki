@@ -1,7 +1,7 @@
 ---
 title: "Simsmart"
 description: ""
-published: false
+published: true
 date: '2019-08-09T21:46:47Z'
 tags: []
 editor: markdown

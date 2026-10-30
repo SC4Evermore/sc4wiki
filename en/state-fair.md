@@ -1,7 +1,7 @@
 ---
 title: "State Fair"
 description: ""
-published: false
+published: true
 date: '2022-09-18T23:25:07Z'
 tags: ["Booster and Trophy Buildings", "Reward Civic Buildings"]
 editor: markdown

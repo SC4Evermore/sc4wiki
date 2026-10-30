@@ -1,7 +1,7 @@
 ---
 title: "Instance ID"
 description: ""
-published: false
+published: true
 date: '2019-08-04T05:40:55Z'
 tags: ["Modding"]
 editor: markdown

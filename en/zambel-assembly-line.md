@@ -1,7 +1,7 @@
 ---
 title: "Zambel Assembly Line"
 description: ""
-published: false
+published: true
 date: '2019-08-10T10:31:56Z'
 tags: ["Maxis RCI", "I-M Growables/Outbuildings"]
 editor: markdown

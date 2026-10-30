@@ -1,7 +1,7 @@
 ---
 title: "Ellery Elm Tenements"
 description: ""
-published: false
+published: true
 date: '2019-08-24T17:04:38Z'
 tags: ["Maxis RCI", "R§ Growables", "Euro Tileset/R§"]
 editor: markdown

@@ -1,7 +1,7 @@
 ---
 title: "Delija21"
 description: ""
-published: false
+published: true
 date: '2019-08-09T10:48:40Z'
 tags: []
 editor: markdown

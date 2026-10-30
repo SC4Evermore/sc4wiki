@@ -1,7 +1,7 @@
 ---
 title: "Murakumon"
 description: ""
-published: false
+published: true
 date: '2019-08-09T12:00:05Z'
 tags: []
 editor: markdown

@@ -1,7 +1,7 @@
 ---
 title: "CS§§§ Growables"
 description: ""
-published: false
+published: true
 date: '2019-08-07T23:21:58Z'
 tags: ["Growable Buildings"]
 editor: markdown

@@ -1,7 +1,7 @@
 ---
 title: "Brick House"
 description: ""
-published: false
+published: true
 date: '2019-08-10T09:31:48Z'
 tags: ["Maxis RCI", "R§§ Growables", "New York Tileset/R§§"]
 editor: markdown

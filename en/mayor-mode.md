@@ -1,7 +1,7 @@
 ---
 title: "Mayor Mode"
 description: ""
-published: false
+published: true
 date: '2020-02-15T05:57:05Z'
 tags: ["User Interface", "Game Concepts", "The Game"]
 editor: markdown

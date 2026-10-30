@@ -1,7 +1,7 @@
 ---
 title: "Zone Manager"
 description: ""
-published: false
+published: true
 date: '2020-03-18T15:21:22Z'
 tags: []
 editor: markdown

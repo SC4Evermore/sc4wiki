@@ -1,7 +1,7 @@
 ---
 title: "Data View"
 description: ""
-published: false
+published: true
 date: '2019-08-09T09:44:24Z'
 tags: ["User Interface"]
 editor: markdown

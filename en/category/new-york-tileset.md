@@ -1,7 +1,7 @@
 ---
 title: "New York Tileset"
 description: ""
-published: false
+published: true
 date: '2019-08-09T01:28:29Z'
 tags: ["Growable Buildings"]
 editor: markdown

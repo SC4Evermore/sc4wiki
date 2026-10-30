@@ -1,7 +1,7 @@
 ---
 title: "Hi-Rise Tenement"
 description: ""
-published: false
+published: true
 date: '2019-08-10T09:34:40Z'
 tags: []
 editor: markdown

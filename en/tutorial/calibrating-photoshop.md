@@ -1,7 +1,7 @@
 ---
 title: "Calibrating Photoshop"
 description: ""
-published: false
+published: true
 date: '2019-08-09T02:32:11Z'
 tags: ["BAT Tutorials"]
 editor: markdown

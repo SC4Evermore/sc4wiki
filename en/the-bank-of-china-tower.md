@@ -1,7 +1,7 @@
 ---
 title: "The Bank of China Tower"
 description: ""
-published: false
+published: true
 date: '2019-08-09T22:06:54Z'
 tags: ["Landmark Buildings"]
 editor: markdown

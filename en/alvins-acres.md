@@ -1,7 +1,7 @@
 ---
 title: "Alvins Acres"
 description: ""
-published: false
+published: true
 date: '2019-08-10T02:47:04Z'
 tags: ["Maxis RCI", "I-A Growables/Anchors", "Buildings Rebalanced in the CAM"]
 editor: markdown

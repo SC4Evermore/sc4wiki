@@ -1,7 +1,7 @@
 ---
 title: "Drying Unit"
 description: ""
-published: false
+published: true
 date: '2019-08-10T10:31:00Z'
 tags: ["Maxis RCI", "I-M Growables/Machinery"]
 editor: markdown

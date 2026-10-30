@@ -1,7 +1,7 @@
 ---
 title: "Stone Chateau"
 description: ""
-published: false
+published: true
 date: '2019-08-10T10:08:35Z'
 tags: ["Maxis RCI", "R§§§ Growables", "New York Tileset/R§§§"]
 editor: markdown

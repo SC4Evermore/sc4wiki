@@ -1,7 +1,7 @@
 ---
 title: "Small Landing Strip"
 description: ""
-published: false
+published: true
 date: '2022-09-17T09:45:15Z'
 tags: ["Airport Buildings"]
 editor: markdown

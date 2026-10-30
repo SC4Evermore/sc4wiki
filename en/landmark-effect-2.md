@@ -1,7 +1,7 @@
 ---
 title: "Landmark effect"
 description: ""
-published: false
+published: true
 date: '2019-08-10T09:41:35Z'
 tags: ["Gameplay"]
 editor: markdown

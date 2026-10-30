@@ -1,7 +1,7 @@
 ---
 title: "NAM"
 description: ""
-published: false
+published: true
 date: '2020-02-16T14:04:09Z'
 tags: ["Transit Networks", "Transit Modding", "Mods and Modding"]
 editor: markdown

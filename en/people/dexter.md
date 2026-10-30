@@ -1,7 +1,7 @@
 ---
 title: "Dexter"
 description: ""
-published: false
+published: true
 date: '2019-08-09T10:49:30Z'
 tags: []
 editor: markdown

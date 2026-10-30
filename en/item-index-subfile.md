@@ -1,7 +1,7 @@
 ---
 title: "Item Index Subfile"
 description: ""
-published: false
+published: true
 date: '2019-08-10T02:40:14Z'
 tags: ["Savegame/Subfiles"]
 editor: markdown

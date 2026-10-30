@@ -1,7 +1,7 @@
 ---
 title: "Threestooges"
 description: ""
-published: false
+published: true
 date: '2019-08-09T21:53:25Z'
 tags: []
 editor: markdown

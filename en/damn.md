@@ -1,7 +1,7 @@
 ---
 title: "DAMN"
 description: ""
-published: false
+published: true
 date: '2020-03-30T06:45:58Z'
 tags: ["Tool", "Custom Tools", "User Interface"]
 editor: markdown

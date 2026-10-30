@@ -1,7 +1,7 @@
 ---
 title: "Shadow Assassin"
 description: ""
-published: false
+published: true
 date: '2019-08-09T21:44:56Z'
 tags: ["Texturers"]
 editor: markdown

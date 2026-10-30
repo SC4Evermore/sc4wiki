@@ -1,7 +1,7 @@
 ---
 title: "SC4 Encyclopaedia:Current news"
 description: ""
-published: false
+published: true
 date: '2019-08-04T22:48:37Z'
 tags: []
 editor: markdown

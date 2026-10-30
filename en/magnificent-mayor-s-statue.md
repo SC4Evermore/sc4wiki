@@ -1,7 +1,7 @@
 ---
 title: "Magnificent Mayor's Statue"
 description: ""
-published: false
+published: true
 date: '2022-09-11T12:12:54Z'
 tags: ["Government Buildings", "Reward Civic Buildings"]
 editor: markdown

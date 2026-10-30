@@ -1,7 +1,7 @@
 ---
 title: "Custom Content"
 description: ""
-published: false
+published: true
 date: '2019-08-04T22:31:15Z'
 tags: ["SC4 Wiki"]
 editor: markdown

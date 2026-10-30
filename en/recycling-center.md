@@ -1,7 +1,7 @@
 ---
 title: "Recycling Center"
 description: ""
-published: false
+published: true
 date: '2022-09-15T21:42:38Z'
 tags: ["Utility Buildings", "Sanitation Buildings"]
 editor: markdown

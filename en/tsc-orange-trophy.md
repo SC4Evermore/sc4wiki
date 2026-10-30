@@ -1,7 +1,7 @@
 ---
 title: "TSC Orange Trophy"
 description: ""
-published: false
+published: true
 date: '2019-08-11T11:04:07Z'
 tags: ["Contests"]
 editor: markdown

@@ -1,7 +1,7 @@
 ---
 title: "Fatsuhono"
 description: ""
-published: false
+published: true
 date: '2019-08-09T11:00:22Z'
 tags: ["Japan", "BATers"]
 editor: markdown

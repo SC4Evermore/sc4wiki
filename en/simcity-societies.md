@@ -1,7 +1,7 @@
 ---
 title: "SimCity:Societies"
 description: ""
-published: false
+published: true
 date: '2019-08-08T10:17:50Z'
 tags: ["Other Games"]
 editor: markdown

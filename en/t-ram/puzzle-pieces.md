@@ -1,7 +1,7 @@
 ---
 title: "T-RAM/Puzzle Pieces"
 description: ""
-published: false
+published: true
 date: '2019-08-04T05:43:27Z'
 tags: []
 editor: markdown

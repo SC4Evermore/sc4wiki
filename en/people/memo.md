@@ -1,7 +1,7 @@
 ---
 title: "Memo"
 description: ""
-published: false
+published: true
 date: '2019-08-05T20:06:43Z'
 tags: []
 editor: markdown

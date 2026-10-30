@@ -1,7 +1,7 @@
 ---
 title: "Sims"
 description: ""
-published: false
+published: true
 date: '2019-08-09T01:14:59Z'
 tags: ["Game Concepts"]
 editor: markdown

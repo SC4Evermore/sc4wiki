@@ -1,7 +1,7 @@
 ---
 title: "DBPF"
 description: ""
-published: false
+published: true
 date: '2025-05-21T11:49:06Z'
 tags: ["File Formats/SC2013", "File Formats/SC4", "MTS2"]
 editor: markdown

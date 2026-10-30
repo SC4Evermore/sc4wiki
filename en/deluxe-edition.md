@@ -1,7 +1,7 @@
 ---
 title: "Deluxe Edition"
 description: ""
-published: false
+published: true
 date: '2020-02-15T08:24:13Z'
 tags: ["The Game"]
 editor: markdown

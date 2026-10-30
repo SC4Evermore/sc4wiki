@@ -1,7 +1,7 @@
 ---
 title: "WAV"
 description: ""
-published: false
+published: true
 date: '2019-08-09T02:55:10Z'
 tags: ["File Formats/COMM", "SimCity File Formats/COMM"]
 editor: markdown

@@ -1,7 +1,7 @@
 ---
 title: "Jdenm8"
 description: ""
-published: false
+published: true
 date: '2019-08-07T10:46:15Z'
 tags: []
 editor: markdown

@@ -1,7 +1,7 @@
 ---
 title: "Zelgadis"
 description: ""
-published: false
+published: true
 date: '2019-08-09T22:00:43Z'
 tags: []
 editor: markdown

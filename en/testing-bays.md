@@ -1,7 +1,7 @@
 ---
 title: "Testing Bays"
 description: ""
-published: false
+published: true
 date: '2019-08-10T10:34:15Z'
 tags: ["Maxis RCI", "I-HT Growables/Outbuildings"]
 editor: markdown

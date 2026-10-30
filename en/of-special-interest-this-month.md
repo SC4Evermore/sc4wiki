@@ -1,7 +1,7 @@
 ---
 title: "Of Special Interest This Month"
 description: ""
-published: false
+published: true
 date: '2019-08-09T10:53:59Z'
 tags: ["SC4D Threads", "City Showcases", "Awards"]
 editor: markdown

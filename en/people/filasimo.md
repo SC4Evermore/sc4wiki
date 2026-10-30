@@ -1,7 +1,7 @@
 ---
 title: "Filasimo"
 description: ""
-published: false
+published: true
 date: '2019-08-04T07:09:11Z'
 tags: []
 editor: markdown

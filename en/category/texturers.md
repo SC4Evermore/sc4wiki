@@ -1,7 +1,7 @@
 ---
 title: "Texturers"
 description: ""
-published: false
+published: true
 date: '2019-08-05T05:01:24Z'
 tags: []
 editor: markdown

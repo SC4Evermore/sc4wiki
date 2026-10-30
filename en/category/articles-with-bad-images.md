@@ -1,7 +1,7 @@
 ---
 title: "Articles with bad images"
 description: ""
-published: false
+published: true
 date: '2019-08-08T23:25:33Z'
 tags: []
 editor: markdown

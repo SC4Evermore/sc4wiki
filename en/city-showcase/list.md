@@ -1,7 +1,7 @@
 ---
 title: "City Showcase/list"
 description: ""
-published: false
+published: true
 date: '2019-08-07T23:36:52Z'
 tags: ["City Showcases"]
 editor: markdown

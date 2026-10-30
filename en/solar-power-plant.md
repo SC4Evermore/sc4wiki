@@ -1,7 +1,7 @@
 ---
 title: "Solar Power Plant"
 description: ""
-published: false
+published: true
 date: '2022-09-15T21:42:09Z'
 tags: ["Utility Buildings", "Reward Utility Buildings", "Power Buildings"]
 editor: markdown

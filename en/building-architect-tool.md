@@ -1,7 +1,7 @@
 ---
 title: "Building Architect Tool"
 description: ""
-published: false
+published: true
 date: '2019-08-09T02:36:31Z'
 tags: ["Building Architect Tool"]
 editor: markdown

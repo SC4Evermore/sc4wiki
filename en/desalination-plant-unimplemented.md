@@ -1,7 +1,7 @@
 ---
 title: "Desalination Plant (Unimplemented)"
 description: ""
-published: false
+published: true
 date: '2019-08-22T09:45:30Z'
 tags: ["Utility Buildings", "Water Buildings"]
 editor: markdown

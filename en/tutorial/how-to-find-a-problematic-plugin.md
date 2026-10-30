@@ -1,7 +1,7 @@
 ---
 title: "How to Find a Problematic Plugin"
 description: ""
-published: false
+published: true
 date: '2019-08-09T02:32:12Z'
 tags: []
 editor: markdown

@@ -1,7 +1,7 @@
 ---
 title: "Hamish"
 description: ""
-published: false
+published: true
 date: '2019-08-09T11:09:58Z'
 tags: ["Mapmakers", "City Showcase Authors"]
 editor: markdown

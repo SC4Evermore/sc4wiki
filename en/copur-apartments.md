@@ -1,7 +1,7 @@
 ---
 title: "Copur Apartments"
 description: ""
-published: false
+published: true
 date: '2019-08-10T10:13:35Z'
 tags: ["Maxis RCI", "R§§ Growables", "Chicago Tileset/R§§", "Buildings Rebalanced in the CAM"]
 editor: markdown

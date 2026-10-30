@@ -1,7 +1,7 @@
 ---
 title: "Plugin Directories"
 description: ""
-published: false
+published: true
 date: '2019-08-09T09:35:17Z'
 tags: ["The Game", "Custom Content"]
 editor: markdown

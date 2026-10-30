@@ -1,7 +1,7 @@
 ---
 title: "JPG"
 description: ""
-published: false
+published: true
 date: '2019-08-09T02:55:06Z'
 tags: ["File Formats/COMM", "SimCity File Formats/COMM", "MTS2"]
 editor: markdown

@@ -1,7 +1,7 @@
 ---
 title: "Quantum Dish"
 description: ""
-published: false
+published: true
 date: '2019-08-10T10:33:30Z'
 tags: ["Maxis RCI", "I-HT Growables/Machinery"]
 editor: markdown

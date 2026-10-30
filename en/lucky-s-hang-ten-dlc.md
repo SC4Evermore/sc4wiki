@@ -1,7 +1,7 @@
 ---
 title: "Lucky's Hang Ten (DLC)"
 description: ""
-published: false
+published: true
 date: '2019-08-30T14:18:01Z'
 tags: ["Landmark Buildings", "Downloadable Content"]
 editor: markdown

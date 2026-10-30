@@ -1,7 +1,7 @@
 ---
 title: "Shorty Burger (DLC)"
 description: ""
-published: false
+published: true
 date: '2019-08-30T14:27:37Z'
 tags: ["Landmark Buildings", "Downloadable Content"]
 editor: markdown

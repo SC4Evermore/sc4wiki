@@ -1,7 +1,7 @@
 ---
 title: "SMP Cuban Ministry of the Interior"
 description: ""
-published: false
+published: true
 date: '2019-08-10T08:50:26Z'
 tags: ["Custom Landmarks"]
 editor: markdown

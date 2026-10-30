@@ -1,7 +1,7 @@
 ---
 title: "Trees"
 description: ""
-published: false
+published: true
 date: '2019-08-09T01:15:00Z'
 tags: ["Game Concepts", "Custom Content"]
 editor: markdown

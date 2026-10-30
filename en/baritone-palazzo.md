@@ -1,7 +1,7 @@
 ---
 title: "Baritone Palazzo"
 description: ""
-published: false
+published: true
 date: '2019-08-10T10:07:53Z'
 tags: ["Maxis RCI", "R§§§ Growables", "New York Tileset/R§§§"]
 editor: markdown

@@ -1,7 +1,7 @@
 ---
 title: "Air Force Base (DLC)"
 description: ""
-published: false
+published: true
 date: '2019-08-22T03:37:33Z'
 tags: ["Booster and Trophy Buildings", "Reward Civic Buildings", "Downloadable Content"]
 editor: markdown

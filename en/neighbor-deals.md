@@ -1,7 +1,7 @@
 ---
 title: "Neighbor Deals"
 description: ""
-published: false
+published: true
 date: '2019-08-09T01:15:13Z'
 tags: ["Game Concepts"]
 editor: markdown

@@ -1,7 +1,7 @@
 ---
 title: "Zaidi Apartments"
 description: ""
-published: false
+published: true
 date: '2019-08-30T16:12:21Z'
 tags: ["Maxis RCI", "R§§ Growables", "Houston Tileset/R§§", "Buildings Rebalanced in the CAM"]
 editor: markdown

@@ -1,7 +1,7 @@
 ---
 title: "Trixie"
 description: ""
-published: false
+published: true
 date: '2019-08-09T11:09:45Z'
 tags: ["ST Threads", "Awards"]
 editor: markdown

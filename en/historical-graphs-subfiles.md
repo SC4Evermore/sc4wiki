@@ -1,7 +1,7 @@
 ---
 title: "Historical Graphs Subfiles"
 description: ""
-published: false
+published: true
 date: '2019-08-10T01:27:37Z'
 tags: ["MTS2", "Savegame/Subfiles"]
 editor: markdown

@@ -1,7 +1,7 @@
 ---
 title: "J-dub"
 description: ""
-published: false
+published: true
 date: '2019-08-09T11:46:46Z'
 tags: []
 editor: markdown

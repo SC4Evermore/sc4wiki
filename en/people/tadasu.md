@@ -1,7 +1,7 @@
 ---
 title: "Tadasu"
 description: ""
-published: false
+published: true
 date: '2019-08-09T21:50:55Z'
 tags: []
 editor: markdown

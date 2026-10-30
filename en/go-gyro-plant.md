@@ -1,7 +1,7 @@
 ---
 title: "Go Gyro Plant"
 description: ""
-published: false
+published: true
 date: '2019-08-10T10:30:35Z'
 tags: ["Maxis RCI", "I-M Growables/Anchors", "Buildings Rebalanced in the CAM"]
 editor: markdown

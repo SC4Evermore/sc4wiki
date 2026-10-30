@@ -1,7 +1,7 @@
 ---
 title: "Petroleum Tank"
 description: ""
-published: false
+published: true
 date: '2019-08-10T10:29:41Z'
 tags: ["Maxis RCI", "I-D Growables/Machinery", "Buildings Rebalanced in the CAM"]
 editor: markdown

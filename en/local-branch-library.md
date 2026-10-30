@@ -1,7 +1,7 @@
 ---
 title: "Local Branch Library"
 description: ""
-published: false
+published: true
 date: '2022-09-15T04:42:12Z'
 tags: ["Education Buildings"]
 editor: markdown

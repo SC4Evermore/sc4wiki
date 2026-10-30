@@ -1,7 +1,7 @@
 ---
 title: "AntigOne"
 description: ""
-published: false
+published: true
 date: '2019-08-07T23:32:55Z'
 tags: []
 editor: markdown

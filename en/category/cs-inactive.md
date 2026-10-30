@@ -1,7 +1,7 @@
 ---
 title: "Cs-Inactive"
 description: ""
-published: false
+published: true
 date: '2019-08-07T23:36:43Z'
 tags: ["City Showcases"]
 editor: markdown

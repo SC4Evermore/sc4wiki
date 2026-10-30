@@ -1,7 +1,7 @@
 ---
 title: "New York Tileset/CO§§§/Custom"
 description: ""
-published: false
+published: true
 date: '2019-08-09T02:04:52Z'
 tags: []
 editor: markdown

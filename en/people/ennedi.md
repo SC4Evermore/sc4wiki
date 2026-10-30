@@ -1,7 +1,7 @@
 ---
 title: "Ennedi"
 description: ""
-published: false
+published: true
 date: '2019-08-09T10:59:02Z'
 tags: ["City Showcase Authors"]
 editor: markdown

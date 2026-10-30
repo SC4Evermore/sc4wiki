@@ -1,7 +1,7 @@
 ---
 title: "Transit Modeling"
 description: ""
-published: false
+published: true
 date: '2019-08-04T05:43:35Z'
 tags: ["Transit Modding"]
 editor: markdown

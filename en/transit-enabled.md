@@ -1,7 +1,7 @@
 ---
 title: "Transit Enabled"
 description: ""
-published: false
+published: true
 date: '2019-08-09T01:15:09Z'
 tags: ["Lot Editor", "Game Concepts"]
 editor: markdown

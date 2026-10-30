@@ -1,7 +1,7 @@
 ---
 title: "BSC MEGA Props - swi21 Vol01"
 description: ""
-published: false
+published: true
 date: '2019-08-10T08:50:21Z'
 tags: []
 editor: markdown

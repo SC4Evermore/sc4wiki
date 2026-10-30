@@ -1,7 +1,7 @@
 ---
 title: "The Living Mall (DLC)"
 description: ""
-published: false
+published: true
 date: '2019-08-09T22:06:40Z'
 tags: ["Landmark Buildings", "Downloadable Content"]
 editor: markdown

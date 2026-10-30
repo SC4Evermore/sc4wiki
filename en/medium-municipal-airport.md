@@ -1,7 +1,7 @@
 ---
 title: "Medium Municipal Airport"
 description: ""
-published: false
+published: true
 date: '2022-09-11T02:03:08Z'
 tags: ["Airport Buildings"]
 editor: markdown

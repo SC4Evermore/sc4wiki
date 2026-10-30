@@ -1,7 +1,7 @@
 ---
 title: "Sam Armstrong"
 description: ""
-published: false
+published: true
 date: '2022-04-26T07:54:30Z'
 tags: ["Advisors"]
 editor: markdown

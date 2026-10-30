@@ -1,7 +1,7 @@
 ---
 title: "Hamster Tenements"
 description: ""
-published: false
+published: true
 date: '2019-08-04T23:24:49Z'
 tags: ["Maxis RCI", "R§ Growables", "Houston Tileset/R§", "Buildings Rebalanced in the CAM"]
 editor: markdown

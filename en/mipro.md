@@ -1,7 +1,7 @@
 ---
 title: "Mipro"
 description: ""
-published: false
+published: true
 date: '2019-08-08T10:07:46Z'
 tags: ["Teams", "ST Threads"]
 editor: markdown

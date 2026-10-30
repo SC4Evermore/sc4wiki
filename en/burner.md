@@ -1,7 +1,7 @@
 ---
 title: "Burner"
 description: ""
-published: false
+published: true
 date: '2020-03-30T11:43:51Z'
 tags: ["Maxis RCI", "I-D Growables/Machinery", "Buildings Rebalanced in the CAM"]
 editor: markdown

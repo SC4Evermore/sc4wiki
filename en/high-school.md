@@ -1,7 +1,7 @@
 ---
 title: "High School"
 description: ""
-published: false
+published: true
 date: '2022-09-15T04:34:41Z'
 tags: ["Education Buildings"]
 editor: markdown

@@ -1,7 +1,7 @@
 ---
 title: "Beebs"
 description: ""
-published: false
+published: true
 date: '2019-08-09T10:13:52Z'
 tags: ["City Showcase Authors"]
 editor: markdown

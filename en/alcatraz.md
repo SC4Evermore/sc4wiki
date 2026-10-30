@@ -1,7 +1,7 @@
 ---
 title: "Alcatraz"
 description: ""
-published: false
+published: true
 date: '2020-02-12T13:13:52Z'
 tags: ["Landmark Buildings"]
 editor: markdown

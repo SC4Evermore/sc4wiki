@@ -1,7 +1,7 @@
 ---
 title: "Tenement (New York, Large)"
 description: ""
-published: false
+published: true
 date: '2019-08-10T10:10:04Z'
 tags: ["Maxis RCI", "R§ Growables", "New York Tileset/R§"]
 editor: markdown

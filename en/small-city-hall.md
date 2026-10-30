@@ -1,7 +1,7 @@
 ---
 title: "Small City Hall"
 description: ""
-published: false
+published: true
 date: '2022-09-14T14:39:55Z'
 tags: ["Reward Civic Buildings", "Government Buildings"]
 editor: markdown

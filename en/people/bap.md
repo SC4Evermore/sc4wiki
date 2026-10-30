@@ -1,7 +1,7 @@
 ---
 title: "Bap"
 description: ""
-published: false
+published: true
 date: '2019-08-09T10:14:13Z'
 tags: []
 editor: markdown

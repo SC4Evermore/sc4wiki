@@ -1,7 +1,7 @@
 ---
 title: "Cemetery"
 description: ""
-published: false
+published: true
 date: '2022-09-18T04:46:43Z'
 tags: ["Booster and Trophy Buildings", "Reward Civic Buildings"]
 editor: markdown

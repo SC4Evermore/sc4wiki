@@ -1,7 +1,7 @@
 ---
 title: "Minor League Stadium"
 description: ""
-published: false
+published: true
 date: '2022-09-19T05:33:18Z'
 tags: ["Reward Civic Buildings", "Park Buildings"]
 editor: markdown

@@ -1,7 +1,7 @@
 ---
 title: "Airport Buildings"
 description: ""
-published: false
+published: true
 date: '2019-08-23T13:26:04Z'
 tags: ["Transport Buildings"]
 editor: markdown

@@ -1,7 +1,7 @@
 ---
 title: "Editing"
 description: ""
-published: false
+published: true
 date: '2019-08-09T21:22:29Z'
 tags: []
 editor: markdown

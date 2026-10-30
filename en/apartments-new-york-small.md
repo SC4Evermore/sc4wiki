@@ -1,7 +1,7 @@
 ---
 title: "Apartments (New York, Small)"
 description: ""
-published: false
+published: true
 date: '2019-08-09T23:08:29Z'
 tags: ["Maxis RCI", "R§ Growables", "New York Tileset/R§"]
 editor: markdown

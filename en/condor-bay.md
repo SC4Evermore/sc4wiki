@@ -1,7 +1,7 @@
 ---
 title: "Condor Bay"
 description: ""
-published: false
+published: true
 date: '2019-08-07T23:35:27Z'
 tags: []
 editor: markdown

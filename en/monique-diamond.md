@@ -1,7 +1,7 @@
 ---
 title: "Monique Diamond"
 description: ""
-published: false
+published: true
 date: '2022-04-26T07:46:05Z'
 tags: ["Advisors"]
 editor: markdown

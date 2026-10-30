@@ -1,7 +1,7 @@
 ---
 title: "Maxis Theatre"
 description: ""
-published: false
+published: true
 date: '2019-08-04T23:24:05Z'
 tags: ["Maxis RCI", "CS§§§ Growables", "Chicago Tileset/CS§§§"]
 editor: markdown

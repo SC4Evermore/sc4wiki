@@ -1,7 +1,7 @@
 ---
 title: "Making Diamond Interchanges with the RHW Left Exits"
 description: ""
-published: false
+published: true
 date: '2019-08-09T02:32:13Z'
 tags: []
 editor: markdown

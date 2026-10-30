@@ -1,7 +1,7 @@
 ---
 title: "SC4 Encyclopaedia:Quick index"
 description: ""
-published: false
+published: true
 date: '2019-08-04T22:33:23Z'
 tags: []
 editor: markdown

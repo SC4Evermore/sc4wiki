@@ -1,7 +1,7 @@
 ---
 title: "Chrysler Building"
 description: ""
-published: false
+published: true
 date: '2020-02-12T13:08:33Z'
 tags: ["Landmark Buildings"]
 editor: markdown

@@ -1,7 +1,7 @@
 ---
 title: "Ploppable RCI Buildings"
 description: ""
-published: false
+published: true
 date: '2019-08-23T12:51:41Z'
 tags: ["Ploppable Buildings/Custom"]
 editor: markdown

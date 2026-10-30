@@ -1,7 +1,7 @@
 ---
 title: "SC4Devotion Podcast"
 description: ""
-published: false
+published: true
 date: '2019-08-09T10:54:01Z'
 tags: ["SC4D Threads"]
 editor: markdown

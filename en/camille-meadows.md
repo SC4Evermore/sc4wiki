@@ -1,7 +1,7 @@
 ---
 title: "Camille Meadows"
 description: ""
-published: false
+published: true
 date: '2021-11-02T15:29:15Z'
 tags: ["Advisors"]
 editor: markdown

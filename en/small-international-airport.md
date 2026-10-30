@@ -1,7 +1,7 @@
 ---
 title: "Small International Airport"
 description: ""
-published: false
+published: true
 date: '2022-09-11T02:10:03Z'
 tags: ["Airport Buildings"]
 editor: markdown

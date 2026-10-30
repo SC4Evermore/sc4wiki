@@ -1,7 +1,7 @@
 ---
 title: "Earth quake"
 description: ""
-published: false
+published: true
 date: '2019-08-09T10:56:59Z'
 tags: ["Lotters"]
 editor: markdown

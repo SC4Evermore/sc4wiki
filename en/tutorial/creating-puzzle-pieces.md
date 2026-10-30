@@ -1,7 +1,7 @@
 ---
 title: "Creating Puzzle Pieces"
 description: ""
-published: false
+published: true
 date: '2019-08-04T05:46:35Z'
 tags: ["Transit Networks", "Transit Modding"]
 editor: markdown

@@ -1,7 +1,7 @@
 ---
 title: "Workforce and Occupation Demands"
 description: ""
-published: false
+published: true
 date: '2019-08-09T02:32:18Z'
 tags: []
 editor: markdown

@@ -1,7 +1,7 @@
 ---
 title: "Ordinance Subfiles"
 description: ""
-published: false
+published: true
 date: '2024-12-18T09:45:53Z'
 tags: ["MTS2", "Savegame/Subfiles"]
 editor: markdown

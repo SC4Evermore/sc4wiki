@@ -1,7 +1,7 @@
 ---
 title: "SCAG"
 description: ""
-published: false
+published: true
 date: '2019-08-05T02:24:23Z'
 tags: ["Teams"]
 editor: markdown

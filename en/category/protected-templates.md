@@ -1,7 +1,7 @@
 ---
 title: "Protected templates"
 description: ""
-published: false
+published: true
 date: '2019-08-04T05:36:03Z'
 tags: ["Templates"]
 editor: markdown

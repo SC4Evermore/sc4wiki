@@ -1,7 +1,7 @@
 ---
 title: "The Game"
 description: ""
-published: false
+published: true
 date: '2020-02-17T05:05:47Z'
 tags: ["SC4 Wiki"]
 editor: markdown

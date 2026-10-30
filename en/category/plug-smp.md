@@ -1,7 +1,7 @@
 ---
 title: "Plug-SMP"
 description: ""
-published: false
+published: true
 date: '2019-08-09T01:42:11Z'
 tags: ["Plugins"]
 editor: markdown

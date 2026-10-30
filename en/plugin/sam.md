@@ -1,7 +1,7 @@
 ---
 title: "SAM"
 description: ""
-published: false
+published: true
 date: '2019-08-10T08:50:25Z'
 tags: []
 editor: markdown

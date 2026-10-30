@@ -1,7 +1,7 @@
 ---
 title: "Wikipedia protected user and user talk pages"
 description: ""
-published: false
+published: true
 date: '2019-08-04T05:36:03Z'
 tags: ["Templates"]
 editor: markdown

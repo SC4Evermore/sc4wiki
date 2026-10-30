@@ -1,7 +1,7 @@
 ---
 title: "NAM Plugins"
 description: ""
-published: false
+published: true
 date: '2019-08-04T06:00:46Z'
 tags: ["NAM"]
 editor: markdown

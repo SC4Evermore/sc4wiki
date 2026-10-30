@@ -1,7 +1,7 @@
 ---
 title: "I-A Growables/Anchors"
 description: ""
-published: false
+published: true
 date: '2022-03-09T00:15:14Z'
 tags: ["I-A Growables"]
 editor: markdown

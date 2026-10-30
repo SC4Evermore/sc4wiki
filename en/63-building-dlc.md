@@ -1,7 +1,7 @@
 ---
 title: "63 Building (DLC)"
 description: ""
-published: false
+published: true
 date: '2024-11-23T01:29:33Z'
 tags: ["Landmark Buildings", "Downloadable Content"]
 editor: markdown

@@ -1,7 +1,7 @@
 ---
 title: "Introduction to the NWM"
 description: ""
-published: false
+published: true
 date: '2019-08-04T22:57:12Z'
 tags: ["NAM/doc"]
 editor: markdown

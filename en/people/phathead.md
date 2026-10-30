@@ -1,7 +1,7 @@
 ---
 title: "PhatHead"
 description: ""
-published: false
+published: true
 date: '2019-08-04T07:21:17Z'
 tags: []
 editor: markdown

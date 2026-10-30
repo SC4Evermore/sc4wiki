@@ -1,7 +1,7 @@
 ---
 title: "Chicago Tileset"
 description: ""
-published: false
+published: true
 date: '2019-08-09T01:23:48Z'
 tags: ["Growable Buildings"]
 editor: markdown

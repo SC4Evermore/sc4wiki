@@ -1,7 +1,7 @@
 ---
 title: "Templates"
 description: ""
-published: false
+published: true
 date: '2019-08-04T05:36:02Z'
 tags: ["Templates"]
 editor: markdown

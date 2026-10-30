@@ -1,7 +1,7 @@
 ---
 title: "Other Games"
 description: ""
-published: false
+published: true
 date: '2019-08-08T10:12:26Z'
 tags: ["SC4 Wiki"]
 editor: markdown

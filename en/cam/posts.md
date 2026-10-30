@@ -1,7 +1,7 @@
 ---
 title: "CAM/posts"
 description: ""
-published: false
+published: true
 date: '2019-08-11T11:28:10Z'
 tags: []
 editor: markdown

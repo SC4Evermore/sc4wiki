@@ -1,7 +1,7 @@
 ---
 title: "Tileset"
 description: ""
-published: false
+published: true
 date: '2019-08-09T01:14:59Z'
 tags: ["Game Concepts", "Customizing the Game"]
 editor: markdown

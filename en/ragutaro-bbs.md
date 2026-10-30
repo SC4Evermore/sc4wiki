@@ -1,7 +1,7 @@
 ---
 title: "Ragutaro BBS"
 description: ""
-published: false
+published: true
 date: '2019-08-08T09:58:56Z'
 tags: []
 editor: markdown

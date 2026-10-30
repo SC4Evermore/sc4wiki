@@ -1,7 +1,7 @@
 ---
 title: "MOD Tutorials/General"
 description: ""
-published: false
+published: true
 date: '2019-08-09T11:18:55Z'
 tags: ["MOD Tutorials"]
 editor: markdown

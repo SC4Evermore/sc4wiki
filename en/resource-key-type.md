@@ -1,7 +1,7 @@
 ---
 title: "Resource Key Type"
 description: ""
-published: false
+published: true
 date: '2026-07-12T15:24:10Z'
 tags: []
 editor: markdown

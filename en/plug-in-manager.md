@@ -1,7 +1,7 @@
 ---
 title: "Plug-in Manager"
 description: ""
-published: false
+published: true
 date: '2019-08-09T02:36:42Z'
 tags: []
 editor: markdown

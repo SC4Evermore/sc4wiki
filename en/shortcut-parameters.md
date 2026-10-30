@@ -1,7 +1,7 @@
 ---
 title: "Shortcut Parameters"
 description: ""
-published: false
+published: true
 date: '2019-08-09T09:35:20Z'
 tags: ["Gameplay", "The Game", "Customizing the Game"]
 editor: markdown

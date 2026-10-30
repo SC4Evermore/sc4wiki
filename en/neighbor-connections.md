@@ -1,7 +1,7 @@
 ---
 title: "Neighbor Connections"
 description: ""
-published: false
+published: true
 date: '2021-08-18T13:47:48Z'
 tags: ["The Game"]
 editor: markdown

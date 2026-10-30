@@ -1,7 +1,7 @@
 ---
 title: "Tenement (Chicago)"
 description: ""
-published: false
+published: true
 date: '2019-08-10T10:09:37Z'
 tags: ["Maxis RCI", "R§ Growables", "Chicago Tileset/R§"]
 editor: markdown

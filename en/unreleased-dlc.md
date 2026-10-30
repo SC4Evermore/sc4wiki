@@ -1,7 +1,7 @@
 ---
 title: "Unreleased DLC"
 description: ""
-published: false
+published: true
 date: '2019-08-30T13:37:18Z'
 tags: ["Landmark Buildings", "Downloadable Content"]
 editor: markdown

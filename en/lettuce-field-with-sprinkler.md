@@ -1,7 +1,7 @@
 ---
 title: "Lettuce Field with Sprinkler"
 description: ""
-published: false
+published: true
 date: '2019-08-10T09:25:32Z'
 tags: ["Maxis RCI", "I-A Growables/Fields"]
 editor: markdown

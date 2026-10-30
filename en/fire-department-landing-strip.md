@@ -1,7 +1,7 @@
 ---
 title: "Fire Department Landing Strip"
 description: ""
-published: false
+published: true
 date: '2022-09-15T11:27:03Z'
 tags: ["Fire Buildings", "Reward Civic Buildings"]
 editor: markdown

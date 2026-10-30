@@ -1,7 +1,7 @@
 ---
 title: "Keyboard Shortcuts/zone"
 description: ""
-published: false
+published: true
 date: '2020-07-20T10:52:48Z'
 tags: []
 editor: markdown

@@ -1,7 +1,7 @@
 ---
 title: "Apartments"
 description: ""
-published: false
+published: true
 date: '2019-08-09T23:04:51Z'
 tags: []
 editor: markdown

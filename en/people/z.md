@@ -1,7 +1,7 @@
 ---
 title: "Z"
 description: ""
-published: false
+published: true
 date: '2019-08-08T10:20:00Z'
 tags: []
 editor: markdown

@@ -1,7 +1,7 @@
 ---
 title: "Qurlix"
 description: ""
-published: false
+published: true
 date: '2019-08-04T11:25:41Z'
 tags: ["Texturers"]
 editor: markdown

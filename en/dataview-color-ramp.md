@@ -1,7 +1,7 @@
 ---
 title: "DataView:Color Ramp"
 description: ""
-published: false
+published: true
 date: '2021-03-21T17:07:06Z'
 tags: []
 editor: markdown

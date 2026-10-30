@@ -1,7 +1,7 @@
 ---
 title: "Lot Editor for Beginners"
 description: ""
-published: false
+published: true
 date: '2019-08-09T02:32:13Z'
 tags: ["LOT Tutorials"]
 editor: markdown

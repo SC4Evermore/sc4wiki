@@ -1,7 +1,7 @@
 ---
 title: "How to get Maxis Rewards"
 description: ""
-published: false
+published: true
 date: '2022-09-08T15:17:27Z'
 tags: ["PLAY Tutorials"]
 editor: markdown

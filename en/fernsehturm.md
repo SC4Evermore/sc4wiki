@@ -1,7 +1,7 @@
 ---
 title: "Fernsehturm"
 description: ""
-published: false
+published: true
 date: '2019-08-25T11:41:35Z'
 tags: ["Landmark Buildings"]
 editor: markdown

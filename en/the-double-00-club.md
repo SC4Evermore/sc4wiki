@@ -1,7 +1,7 @@
 ---
 title: "The Double 00 Club"
 description: ""
-published: false
+published: true
 date: '2019-08-09T10:28:05Z'
 tags: ["Three Rivers Region"]
 editor: markdown

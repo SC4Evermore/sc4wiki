@@ -1,7 +1,7 @@
 ---
 title: "Chrisim"
 description: ""
-published: false
+published: true
 date: '2019-08-09T10:38:53Z'
 tags: []
 editor: markdown

@@ -1,7 +1,7 @@
 ---
 title: "Travis"
 description: ""
-published: false
+published: true
 date: '2019-08-04T11:25:54Z'
 tags: []
 editor: markdown

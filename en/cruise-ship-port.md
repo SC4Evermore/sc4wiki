@@ -1,7 +1,7 @@
 ---
 title: "Cruise Ship Port"
 description: ""
-published: false
+published: true
 date: '2022-09-19T07:07:29Z'
 tags: ["Booster and Trophy Buildings", "Reward Civic Buildings"]
 editor: markdown

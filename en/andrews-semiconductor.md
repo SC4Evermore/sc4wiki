@@ -1,7 +1,7 @@
 ---
 title: "Andrews Semiconductor"
 description: ""
-published: false
+published: true
 date: '2019-08-10T10:32:37Z'
 tags: ["Maxis RCI", "I-HT Growables/Anchors"]
 editor: markdown

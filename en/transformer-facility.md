@@ -1,7 +1,7 @@
 ---
 title: "Transformer Facility"
 description: ""
-published: false
+published: true
 date: '2019-08-10T10:33:42Z'
 tags: ["Maxis RCI", "I-HT Growables/Machinery"]
 editor: markdown

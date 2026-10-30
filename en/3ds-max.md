@@ -1,7 +1,7 @@
 ---
 title: "3ds Max"
 description: ""
-published: false
+published: true
 date: '2019-08-09T02:36:42Z'
 tags: ["Tool"]
 editor: markdown

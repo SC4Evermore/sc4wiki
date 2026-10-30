@@ -1,7 +1,7 @@
 ---
 title: "Warzone Rail Bridge"
 description: ""
-published: false
+published: true
 date: '2019-08-10T08:50:26Z'
 tags: ["Bridges"]
 editor: markdown

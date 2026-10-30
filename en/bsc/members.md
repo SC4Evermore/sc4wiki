@@ -1,7 +1,7 @@
 ---
 title: "BSC/members"
 description: ""
-published: false
+published: true
 date: '2019-08-08T09:31:44Z'
 tags: ["BSC"]
 editor: markdown

@@ -1,7 +1,7 @@
 ---
 title: "SimCity Force"
 description: ""
-published: false
+published: true
 date: '2019-08-08T10:00:32Z'
 tags: []
 editor: markdown

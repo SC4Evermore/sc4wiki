@@ -1,7 +1,7 @@
 ---
 title: "SC4Terraformer"
 description: ""
-published: false
+published: true
 date: '2019-08-09T02:36:19Z'
 tags: ["Terraforming", "Tool", "Custom Tools"]
 editor: markdown

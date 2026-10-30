@@ -1,7 +1,7 @@
 ---
 title: "Understanding the Traffic Simulator/Old Tutorial"
 description: ""
-published: false
+published: true
 date: '2019-08-09T02:32:17Z'
 tags: []
 editor: markdown

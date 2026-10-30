@@ -1,7 +1,7 @@
 ---
 title: "Large Medical Center"
 description: ""
-published: false
+published: true
 date: '2022-09-15T10:09:04Z'
 tags: ["Health Buildings"]
 editor: markdown

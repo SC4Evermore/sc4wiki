@@ -1,7 +1,7 @@
 ---
 title: "City Pointer"
 description: ""
-published: false
+published: true
 date: '2025-01-13T18:52:05Z'
 tags: []
 editor: markdown

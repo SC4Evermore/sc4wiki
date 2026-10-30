@@ -1,7 +1,7 @@
 ---
 title: "Passenger Train Station"
 description: ""
-published: false
+published: true
 date: '2022-09-16T03:29:57Z'
 tags: ["Rail Buildings"]
 editor: markdown

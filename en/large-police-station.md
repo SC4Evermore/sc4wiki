@@ -1,7 +1,7 @@
 ---
 title: "Large Police Station"
 description: ""
-published: false
+published: true
 date: '2022-09-15T20:18:03Z'
 tags: ["Police Buildings"]
 editor: markdown

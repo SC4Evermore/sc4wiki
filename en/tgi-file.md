@@ -1,7 +1,7 @@
 ---
 title: "TGI File"
 description: ""
-published: false
+published: true
 date: '2019-08-04T05:40:56Z'
 tags: ["Modding"]
 editor: markdown

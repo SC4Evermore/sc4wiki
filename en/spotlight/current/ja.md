@@ -1,7 +1,7 @@
 ---
 title: "Spotlight/Current/ja"
 description: ""
-published: false
+published: true
 date: '2019-08-09T22:22:58Z'
 tags: []
 editor: markdown

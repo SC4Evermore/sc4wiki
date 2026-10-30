@@ -1,7 +1,7 @@
 ---
 title: "Savegame"
 description: ""
-published: false
+published: true
 date: '2025-01-13T17:50:05Z'
 tags: ["Savegame", "Modding", "MTS2"]
 editor: markdown

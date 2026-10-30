@@ -1,7 +1,7 @@
 ---
 title: "Manchou"
 description: ""
-published: false
+published: true
 date: '2019-08-09T11:56:29Z'
 tags: []
 editor: markdown

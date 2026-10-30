@@ -1,7 +1,7 @@
 ---
 title: "New Base Network Features"
 description: ""
-published: false
+published: true
 date: '2019-08-04T22:57:03Z'
 tags: ["NAM/doc"]
 editor: markdown

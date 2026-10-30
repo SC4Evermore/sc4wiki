@@ -1,7 +1,7 @@
 ---
 title: "Jonas Sparks"
 description: ""
-published: false
+published: true
 date: '2022-04-26T07:52:18Z'
 tags: ["Advisors"]
 editor: markdown

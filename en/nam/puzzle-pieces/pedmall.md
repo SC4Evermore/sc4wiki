@@ -1,7 +1,7 @@
 ---
 title: "NAM/Puzzle Pieces/pedmall"
 description: ""
-published: false
+published: true
 date: '2020-02-16T17:44:32Z'
 tags: []
 editor: markdown

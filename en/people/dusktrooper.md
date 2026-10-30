@@ -1,7 +1,7 @@
 ---
 title: "DuskTrooper"
 description: ""
-published: false
+published: true
 date: '2019-08-04T11:25:56Z'
 tags: []
 editor: markdown

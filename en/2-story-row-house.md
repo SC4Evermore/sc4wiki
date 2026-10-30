@@ -1,7 +1,7 @@
 ---
 title: "2 Story Row House"
 description: ""
-published: false
+published: true
 date: '2019-08-09T12:16:34Z'
 tags: ["Maxis RCI", "R§§ Growables", "Chicago Tileset/R§§"]
 editor: markdown

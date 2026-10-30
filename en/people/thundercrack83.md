@@ -1,7 +1,7 @@
 ---
 title: "Thundercrack83"
 description: ""
-published: false
+published: true
 date: '2019-08-09T21:54:06Z'
 tags: ["City Showcase Authors"]
 editor: markdown

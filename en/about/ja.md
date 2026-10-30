@@ -1,7 +1,7 @@
 ---
 title: "About/ja"
 description: ""
-published: false
+published: true
 date: '2019-08-09T22:13:17Z'
 tags: []
 editor: markdown

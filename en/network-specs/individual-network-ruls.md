@@ -1,7 +1,7 @@
 ---
 title: "Network Specs/Individual Network RULs"
 description: ""
-published: false
+published: true
 date: '2019-08-04T05:45:29Z'
 tags: ["Network Specs"]
 editor: markdown

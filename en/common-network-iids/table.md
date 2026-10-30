@@ -1,7 +1,7 @@
 ---
 title: "Common Network IIDs/table"
 description: ""
-published: false
+published: true
 date: '2019-08-04T05:46:36Z'
 tags: ["needs-conversion"]
 editor: markdown

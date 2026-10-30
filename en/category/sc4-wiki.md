@@ -1,7 +1,7 @@
 ---
 title: "SC4 Wiki"
 description: ""
-published: false
+published: true
 date: '2019-08-04T11:44:52Z'
 tags: []
 editor: markdown

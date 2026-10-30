@@ -1,7 +1,7 @@
 ---
 title: "Automata Subfiles"
 description: ""
-published: false
+published: true
 date: '2023-02-19T09:14:24Z'
 tags: ["Savegame/Subfiles"]
 editor: markdown

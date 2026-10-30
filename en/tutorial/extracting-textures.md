@@ -1,7 +1,7 @@
 ---
 title: "Extracting Textures"
 description: ""
-published: false
+published: true
 date: '2019-10-24T17:10:45Z'
 tags: ["MOD Tutorials/Textures"]
 editor: markdown

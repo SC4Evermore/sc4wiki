@@ -1,7 +1,7 @@
 ---
 title: "Transit Network"
 description: ""
-published: false
+published: true
 date: '2020-02-15T06:20:36Z'
 tags: ["Transit Networks", "Networks", "The Game"]
 editor: markdown

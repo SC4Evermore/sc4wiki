@@ -1,7 +1,7 @@
 ---
 title: "Praiodan"
 description: ""
-published: false
+published: true
 date: '2019-08-09T12:07:14Z'
 tags: []
 editor: markdown

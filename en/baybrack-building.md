@@ -1,7 +1,7 @@
 ---
 title: "Baybrack Building"
 description: ""
-published: false
+published: true
 date: '2019-08-07T23:19:21Z'
 tags: ["Maxis RCI", "CS§§ Growables", "Chicago Tileset/CS§§"]
 editor: markdown

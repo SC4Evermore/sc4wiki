@@ -1,7 +1,7 @@
 ---
 title: "Area 5.1"
 description: ""
-published: false
+published: true
 date: '2022-09-19T13:16:45Z'
 tags: ["Reward Civic Buildings", "Business Deal Buildings"]
 editor: markdown

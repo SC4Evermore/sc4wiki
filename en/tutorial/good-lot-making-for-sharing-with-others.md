@@ -1,7 +1,7 @@
 ---
 title: "Good lot making for sharing with others"
 description: ""
-published: false
+published: true
 date: '2019-08-09T02:32:12Z'
 tags: ["LOT Tutorials", "MOD Tutorials/General"]
 editor: markdown

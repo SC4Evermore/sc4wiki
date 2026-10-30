@@ -1,7 +1,7 @@
 ---
 title: "Rural Roads Plugin"
 description: ""
-published: false
+published: true
 date: '2019-08-09T10:37:56Z'
 tags: ["NAM/project"]
 editor: markdown

@@ -1,7 +1,7 @@
 ---
 title: "Resort Hotel"
 description: ""
-published: false
+published: true
 date: '2022-09-19T03:22:43Z'
 tags: ["Booster and Trophy Buildings", "Reward Civic Buildings"]
 editor: markdown

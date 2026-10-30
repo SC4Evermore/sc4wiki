@@ -1,7 +1,7 @@
 ---
 title: "SimCity (2013)"
 description: ""
-published: false
+published: true
 date: '2019-08-08T10:17:19Z'
 tags: ["Other Games"]
 editor: markdown

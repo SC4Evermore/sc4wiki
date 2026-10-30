@@ -1,7 +1,7 @@
 ---
 title: "BSC Lot Exchange"
 description: ""
-published: false
+published: true
 date: '2019-08-07T23:52:43Z'
 tags: ["Exchanges"]
 editor: markdown

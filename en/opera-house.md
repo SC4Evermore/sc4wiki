@@ -1,7 +1,7 @@
 ---
 title: "Opera House"
 description: ""
-published: false
+published: true
 date: '2022-09-19T01:17:09Z'
 tags: ["Reward Civic Buildings", "Education Buildings"]
 editor: markdown

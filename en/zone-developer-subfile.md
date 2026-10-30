@@ -1,7 +1,7 @@
 ---
 title: "Zone Developer Subfile"
 description: ""
-published: false
+published: true
 date: '2021-07-06T11:26:34Z'
 tags: []
 editor: markdown

@@ -1,7 +1,7 @@
 ---
 title: "NAM/Puzzle Pieces/ave"
 description: ""
-published: false
+published: true
 date: '2019-08-04T05:43:24Z'
 tags: []
 editor: markdown

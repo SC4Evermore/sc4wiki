@@ -1,7 +1,7 @@
 ---
 title: "I-D Growables/Machinery"
 description: ""
-published: false
+published: true
 date: '2022-03-09T00:16:07Z'
 tags: ["I-D Growables"]
 editor: markdown

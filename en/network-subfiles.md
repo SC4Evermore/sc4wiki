@@ -1,7 +1,7 @@
 ---
 title: "Network Subfiles"
 description: ""
-published: false
+published: true
 date: '2024-12-21T09:21:07Z'
 tags: ["Savegame/Subfiles"]
 editor: markdown

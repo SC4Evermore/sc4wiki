@@ -1,7 +1,7 @@
 ---
 title: "Water Tower"
 description: ""
-published: false
+published: true
 date: '2022-09-16T04:22:35Z'
 tags: ["Utility Buildings", "Water Buildings"]
 editor: markdown

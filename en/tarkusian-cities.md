@@ -1,7 +1,7 @@
 ---
 title: "Tarkusian Cities"
 description: ""
-published: false
+published: true
 date: '2019-08-07T23:31:41Z'
 tags: []
 editor: markdown

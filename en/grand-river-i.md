@@ -1,7 +1,7 @@
 ---
 title: "Grand River I"
 description: ""
-published: false
+published: true
 date: '2019-08-11T11:05:47Z'
 tags: ["Contests"]
 editor: markdown

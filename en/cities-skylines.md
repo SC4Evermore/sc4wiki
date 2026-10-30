@@ -1,7 +1,7 @@
 ---
 title: "Cities: Skylines"
 description: ""
-published: false
+published: true
 date: '2019-08-08T10:16:00Z'
 tags: ["Other Games"]
 editor: markdown

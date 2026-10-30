@@ -1,7 +1,7 @@
 ---
 title: "Broquard's Cement Plant"
 description: ""
-published: false
+published: true
 date: '2019-08-10T10:29:04Z'
 tags: ["Maxis RCI", "I-D Growables/Anchors", "Buildings Rebalanced in the CAM"]
 editor: markdown

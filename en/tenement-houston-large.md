@@ -1,7 +1,7 @@
 ---
 title: "Tenement (Houston, Large)"
 description: ""
-published: false
+published: true
 date: '2019-08-10T10:10:49Z'
 tags: ["Maxis RCI", "R§ Growables", "Houston Tileset/R§"]
 editor: markdown

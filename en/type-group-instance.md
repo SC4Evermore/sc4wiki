@@ -1,7 +1,7 @@
 ---
 title: "Type Group Instance"
 description: ""
-published: false
+published: true
 date: '2021-05-05T16:18:06Z'
 tags: ["Modding"]
 editor: markdown

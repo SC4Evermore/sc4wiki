@@ -1,7 +1,7 @@
 ---
 title: "Farmers Market"
 description: ""
-published: false
+published: true
 date: '2022-09-19T03:33:06Z'
 tags: ["Park Buildings", "Reward Civic Buildings"]
 editor: markdown

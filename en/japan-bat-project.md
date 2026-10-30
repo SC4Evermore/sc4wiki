@@ -1,7 +1,7 @@
 ---
 title: "Japan BAT Project"
 description: ""
-published: false
+published: true
 date: '2019-08-09T10:30:48Z'
 tags: []
 editor: markdown

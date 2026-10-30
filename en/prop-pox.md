@@ -1,7 +1,7 @@
 ---
 title: "Prop Pox"
 description: ""
-published: false
+published: true
 date: '2019-08-09T09:43:28Z'
 tags: ["Bugs"]
 editor: markdown

@@ -1,7 +1,7 @@
 ---
 title: "Wahrheit"
 description: ""
-published: false
+published: true
 date: '2019-08-09T21:57:58Z'
 tags: ["BATers"]
 editor: markdown

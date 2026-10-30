@@ -1,7 +1,7 @@
 ---
 title: "Follomer Chancellery"
 description: ""
-published: false
+published: true
 date: '2019-08-07T23:34:40Z'
 tags: []
 editor: markdown

@@ -1,7 +1,7 @@
 ---
 title: "SC4 Encyclopaedia:Community Portal"
 description: ""
-published: false
+published: true
 date: '2019-08-04T22:32:54Z'
 tags: []
 editor: markdown

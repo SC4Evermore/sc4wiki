@@ -1,7 +1,7 @@
 ---
 title: "Halifax Island"
 description: ""
-published: false
+published: true
 date: '2019-08-07T23:30:28Z'
 tags: []
 editor: markdown

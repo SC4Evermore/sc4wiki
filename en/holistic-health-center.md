@@ -1,7 +1,7 @@
 ---
 title: "Holistic Health Center"
 description: ""
-published: false
+published: true
 date: '2019-08-10T09:35:30Z'
 tags: ["Maxis RCI", "CS§§§ Growables", "Chicago Tileset/CS§§§", "New York Tileset/CS§§§", "Houston Tileset/CS§§§", "Euro Tileset/CS§§§"]
 editor: markdown

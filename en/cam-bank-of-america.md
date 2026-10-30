@@ -1,7 +1,7 @@
 ---
 title: "CAM: Bank of America"
 description: ""
-published: false
+published: true
 date: '2019-08-09T23:11:17Z'
 tags: ["Custom Growable RCI", "CO§§§ Growables/Custom", "Chicago Tileset/CO§§§/Custom", "New York Tileset/CO§§§/Custom", "CAM Buildings"]
 editor: markdown

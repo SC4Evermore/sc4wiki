@@ -1,7 +1,7 @@
 ---
 title: "Temple Expiatiori de la Sagrada Familia (DLC)"
 description: ""
-published: false
+published: true
 date: '2019-08-09T22:06:43Z'
 tags: ["Landmark Buildings", "Downloadable Content"]
 editor: markdown

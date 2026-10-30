@@ -1,7 +1,7 @@
 ---
 title: "BATers"
 description: ""
-published: false
+published: true
 date: '2019-08-07T23:57:26Z'
 tags: ["Building Architect Tool", "People_of_SimCity_4"]
 editor: markdown

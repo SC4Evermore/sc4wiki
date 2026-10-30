@@ -1,7 +1,7 @@
 ---
 title: "Pedriana Pharmaceuticals"
 description: ""
-published: false
+published: true
 date: '2019-08-07T23:14:15Z'
 tags: ["Maxis RCI", "CO§§§ Growables", "Chicago Tileset/CO§§§", "Buildings Rebalanced in the CAM"]
 editor: markdown

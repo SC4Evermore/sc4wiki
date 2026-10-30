@@ -1,7 +1,7 @@
 ---
 title: "Japan"
 description: ""
-published: false
+published: true
 date: '2019-08-09T11:01:18Z'
 tags: ["Fansite%C2%A0Japan"]
 editor: markdown

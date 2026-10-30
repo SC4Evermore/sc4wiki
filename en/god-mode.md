@@ -1,7 +1,7 @@
 ---
 title: "God Mode"
 description: ""
-published: false
+published: true
 date: '2020-02-15T05:56:26Z'
 tags: ["User Interface", "Game Concepts", "The Game"]
 editor: markdown

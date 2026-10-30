@@ -1,7 +1,7 @@
 ---
 title: "Citymania"
 description: ""
-published: false
+published: true
 date: '2020-02-15T05:01:43Z'
 tags: ["Other Games"]
 editor: markdown

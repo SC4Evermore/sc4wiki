@@ -1,7 +1,7 @@
 ---
 title: "Modders/transit"
 description: ""
-published: false
+published: true
 date: '2019-08-07T23:56:13Z'
 tags: ["People_of_SimCity_4"]
 editor: markdown

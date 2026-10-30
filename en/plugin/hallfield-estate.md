@@ -1,7 +1,7 @@
 ---
 title: "Hallfield Estate"
 description: ""
-published: false
+published: true
 date: '2019-08-10T08:50:23Z'
 tags: ["Custom Growable RCI", "R§§ Growables/Custom", "Euro Tileset/R§§/Custom"]
 editor: markdown

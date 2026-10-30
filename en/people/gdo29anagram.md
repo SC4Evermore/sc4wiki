@@ -1,7 +1,7 @@
 ---
 title: "GDO29Anagram"
 description: ""
-published: false
+published: true
 date: '2019-08-09T11:06:38Z'
 tags: []
 editor: markdown

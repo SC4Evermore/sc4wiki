@@ -1,7 +1,7 @@
 ---
 title: "GMax"
 description: ""
-published: false
+published: true
 date: '2023-06-09T15:38:21Z'
 tags: ["Building Architect Tool", "Tool"]
 editor: markdown

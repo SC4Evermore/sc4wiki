@@ -1,7 +1,7 @@
 ---
 title: "House of Worship"
 description: ""
-published: false
+published: true
 date: '2022-09-18T04:48:58Z'
 tags: ["Booster and Trophy Buildings", "Reward Civic Buildings"]
 editor: markdown

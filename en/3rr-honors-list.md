@@ -1,7 +1,7 @@
 ---
 title: "3RR Honors List"
 description: ""
-published: false
+published: true
 date: '2019-08-09T10:28:05Z'
 tags: ["Three Rivers Region"]
 editor: markdown

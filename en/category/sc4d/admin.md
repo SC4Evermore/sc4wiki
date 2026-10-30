@@ -1,7 +1,7 @@
 ---
 title: "SC4D/admin"
 description: ""
-published: false
+published: true
 date: '2019-08-09T01:43:54Z'
 tags: []
 editor: markdown

@@ -1,7 +1,7 @@
 ---
 title: "SimCity 4 Best"
 description: ""
-published: false
+published: true
 date: '2020-03-30T07:40:31Z'
 tags: []
 editor: markdown

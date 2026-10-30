@@ -1,7 +1,7 @@
 ---
 title: "Berethor"
 description: ""
-published: false
+published: true
 date: '2019-08-09T10:14:39Z'
 tags: ["BATers"]
 editor: markdown

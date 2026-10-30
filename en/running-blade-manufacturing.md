@@ -1,7 +1,7 @@
 ---
 title: "Running Blade Manufacturing"
 description: ""
-published: false
+published: true
 date: '2019-08-10T10:31:28Z'
 tags: ["Maxis RCI", "I-M Growables/Outbuildings"]
 editor: markdown

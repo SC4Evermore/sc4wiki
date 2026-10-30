@@ -1,7 +1,7 @@
 ---
 title: "Growable Buildings/Custom"
 description: ""
-published: false
+published: true
 date: '2019-08-09T01:09:50Z'
 tags: ["Buildings", "Custom Building Sets"]
 editor: markdown

@@ -1,7 +1,7 @@
 ---
 title: "Type21"
 description: ""
-published: false
+published: true
 date: '2019-08-04T05:43:07Z'
 tags: ["Transit Modding"]
 editor: markdown

@@ -1,7 +1,7 @@
 ---
 title: "New Horizons Productions"
 description: ""
-published: false
+published: true
 date: '2019-08-08T09:45:33Z'
 tags: ["NHP", "Teams"]
 editor: markdown

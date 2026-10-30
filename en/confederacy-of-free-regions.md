@@ -1,7 +1,7 @@
 ---
 title: "Confederacy of Free Regions"
 description: ""
-published: false
+published: true
 date: '2019-08-09T10:06:49Z'
 tags: ["City Showcase Unions"]
 editor: markdown

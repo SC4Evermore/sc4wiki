@@ -1,7 +1,7 @@
 ---
 title: "Power Buildings"
 description: ""
-published: false
+published: true
 date: '2019-08-21T16:39:21Z'
 tags: ["Utility Buildings"]
 editor: markdown

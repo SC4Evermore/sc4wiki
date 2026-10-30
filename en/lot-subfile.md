@@ -1,7 +1,7 @@
 ---
 title: "Lot Subfile"
 description: ""
-published: false
+published: true
 date: '2019-08-10T01:24:09Z'
 tags: ["Savegame/Subfiles"]
 editor: markdown

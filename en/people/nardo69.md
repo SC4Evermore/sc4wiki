@@ -1,7 +1,7 @@
 ---
 title: "Nardo69"
 description: ""
-published: false
+published: true
 date: '2019-08-09T12:00:52Z'
 tags: []
 editor: markdown

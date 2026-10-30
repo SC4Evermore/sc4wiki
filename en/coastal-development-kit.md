@@ -1,7 +1,7 @@
 ---
 title: "Coastal Development Kit"
 description: ""
-published: false
+published: true
 date: '2019-08-04T05:51:32Z'
 tags: ["Custom Content"]
 editor: markdown

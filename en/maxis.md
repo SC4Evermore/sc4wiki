@@ -1,7 +1,7 @@
 ---
 title: "Maxis"
 description: ""
-published: false
+published: true
 date: '2019-08-09T09:34:59Z'
 tags: ["The Game", "Other Games", "Companies"]
 editor: markdown

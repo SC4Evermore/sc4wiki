@@ -1,7 +1,7 @@
 ---
 title: "The Community"
 description: ""
-published: false
+published: true
 date: '2019-08-04T06:03:06Z'
 tags: ["SC4 Wiki"]
 editor: markdown

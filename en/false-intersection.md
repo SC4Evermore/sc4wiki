@@ -1,7 +1,7 @@
 ---
 title: "False Intersection"
 description: ""
-published: false
+published: true
 date: '2019-08-04T05:43:21Z'
 tags: ["Transit Modding"]
 editor: markdown

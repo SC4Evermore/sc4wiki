@@ -1,7 +1,7 @@
 ---
 title: "SAM/Puzzle Pieces"
 description: ""
-published: false
+published: true
 date: '2020-02-17T03:09:20Z'
 tags: []
 editor: markdown

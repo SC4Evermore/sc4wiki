@@ -1,7 +1,7 @@
 ---
 title: "SimCity Mild Enthusiasm"
 description: ""
-published: false
+published: true
 date: '2020-03-30T08:12:15Z'
 tags: []
 editor: markdown

@@ -1,7 +1,7 @@
 ---
 title: "Simland Hi-Rise"
 description: ""
-published: false
+published: true
 date: '2019-08-04T23:24:48Z'
 tags: ["Maxis RCI", "R§ Growables", "Euro Tileset/R§", "Buildings Rebalanced in the CAM"]
 editor: markdown

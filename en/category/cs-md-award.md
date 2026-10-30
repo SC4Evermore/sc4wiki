@@ -1,7 +1,7 @@
 ---
 title: "Cs-MD Award"
 description: ""
-published: false
+published: true
 date: '2019-08-07T23:36:44Z'
 tags: ["City Showcases"]
 editor: markdown

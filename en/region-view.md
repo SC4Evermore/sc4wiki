@@ -1,7 +1,7 @@
 ---
 title: "Region View"
 description: ""
-published: false
+published: true
 date: '2020-02-15T05:57:34Z'
 tags: ["Game Concepts", "User Interface", "The Game"]
 editor: markdown

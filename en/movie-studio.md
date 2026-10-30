@@ -1,7 +1,7 @@
 ---
 title: "Movie Studio"
 description: ""
-published: false
+published: true
 date: '2022-09-18T22:52:09Z'
 tags: ["Booster and Trophy Buildings", "Reward Civic Buildings"]
 editor: markdown

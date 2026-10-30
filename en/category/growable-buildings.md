@@ -1,7 +1,7 @@
 ---
 title: "Growable Buildings"
 description: ""
-published: false
+published: true
 date: '2022-03-09T00:00:47Z'
 tags: ["Maxis Buildings", "Maxis Building Sets"]
 editor: markdown

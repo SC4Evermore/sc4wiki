@@ -1,7 +1,7 @@
 ---
 title: "Transit Switch"
 description: ""
-published: false
+published: true
 date: '2019-08-09T09:44:26Z'
 tags: ["Modding Lots", "The Simulation"]
 editor: markdown
