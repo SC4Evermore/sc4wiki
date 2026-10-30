@@ -11,7 +11,7 @@ dateCreated: '2008-08-29T04:08:47Z'
 <div class="infobox">
 <table>
 <tr><th colspan="2">Halifax Island</th></tr>
-<tr><td colspan="2"><img src="/images/Hali1.jpg" alt="Halifax Island"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/hali1.jpg" alt="Halifax Island"></td></tr>
 <tr><td><strong>Type</strong></td><td>Mayor Diary</td></tr>
 <tr><td><strong>Author</strong></td><td>amapper</td></tr>
 <tr><td><strong>Site</strong></td><td>sc4d</td></tr>

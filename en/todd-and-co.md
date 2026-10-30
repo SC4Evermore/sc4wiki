@@ -11,7 +11,7 @@ dateCreated: '2013-09-16T13:58:25Z'
 <div class="infobox zone-c">
 <table>
 <tr><th colspan="2">Todd &amp; Co.</th></tr>
-<tr><td colspan="2"><img src="/images/Todd_&_Co.png" alt="Todd &amp; Co."></td></tr>
+<tr><td colspan="2"><img src="/_files/images/todd-and-co.png" alt="Todd &amp; Co."></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>1x2, 2x1, 2x2, 2x3, 3x3</td></tr>
 <tr><td><strong>Style</strong></td><td>All</td></tr>

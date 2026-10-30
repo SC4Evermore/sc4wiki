@@ -11,7 +11,7 @@ dateCreated: '2014-02-02T05:38:18Z'
 <div class="infobox">
 <table>
 <tr><th colspan="2">The Taj Mahal</th></tr>
-<tr><td colspan="2"><img src="/images/Taj_Mahal.png" alt="The Taj Mahal"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/taj-mahal.png" alt="The Taj Mahal"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>6x6</td></tr>
 <tr><td><strong>Type</strong></td><td>Parks and Recreation</td></tr>

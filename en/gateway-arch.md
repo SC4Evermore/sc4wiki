@@ -11,7 +11,7 @@ dateCreated: '2014-01-31T13:49:27Z'
 <div class="infobox">
 <table>
 <tr><th colspan="2">Gateway Arch</th></tr>
-<tr><td colspan="2"><img src="/images/Gateway_Arch.png" alt="Gateway Arch"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/gateway-arch.png" alt="Gateway Arch"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>10x2</td></tr>
 <tr><td><strong>Type</strong></td><td>Parks and Recreation</td></tr>

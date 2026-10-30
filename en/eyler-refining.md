@@ -11,7 +11,7 @@ dateCreated: '2014-05-19T05:43:51Z'
 <div class="infobox zone-i">
 <table>
 <tr><th colspan="2">Eyler Refining</th></tr>
-<tr><td colspan="2"><img src="/images/EylerRefining.png" alt="Eyler Refining"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/eylerrefining.png" alt="Eyler Refining"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>2x2, 2x3, 3x2, 3x3</td></tr>
 <tr><td><strong>Style</strong></td><td>Anchor</td></tr>

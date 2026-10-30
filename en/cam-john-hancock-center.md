@@ -13,7 +13,7 @@ dateCreated: '2019-08-11T11:29:02Z'
 <div class="infobox zone-c">
 <table>
 <tr><th colspan="2">CAM: John Hancock Center</th></tr>
-<tr><td colspan="2"><img src="/images/John_Hancock_Center.png" alt="CAM: John Hancock Center"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/john-hancock-center.png" alt="CAM: John Hancock Center"></td></tr>
 <tr><td><strong>Author</strong></td><td>CAM Team</td></tr>
 <tr><td><strong>Size</strong></td><td>6x4</td></tr>
 <tr><td><strong>Style</strong></td><td>Houston, Euro</td></tr>

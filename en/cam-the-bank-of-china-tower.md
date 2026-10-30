@@ -13,7 +13,7 @@ dateCreated: '2019-08-11T11:30:29Z'
 <div class="infobox zone-c">
 <table>
 <tr><th colspan="2">CAM: The Bank Of China Tower</th></tr>
-<tr><td colspan="2"><img src="/images/Bank_of_China_Tower.png" alt="CAM: The Bank Of China Tower"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/bank-of-china-tower.png" alt="CAM: The Bank Of China Tower"></td></tr>
 <tr><td><strong>Author</strong></td><td>CAM Team</td></tr>
 <tr><td><strong>Size</strong></td><td>4x4</td></tr>
 <tr><td><strong>Style</strong></td><td>Houston, Euro</td></tr>

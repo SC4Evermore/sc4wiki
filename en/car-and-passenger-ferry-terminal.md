@@ -11,7 +11,7 @@ dateCreated: '2014-01-07T08:29:54Z'
 <div class="infobox">
 <table>
 <tr><th colspan="2">Car &amp; Passenger Ferry Terminal</th></tr>
-<tr><td colspan="2"><img src="/images/Car_and_Passenger_Ferry.png" alt="Car &amp; Passenger Ferry Terminal"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/car-and-passenger-ferry.png" alt="Car &amp; Passenger Ferry Terminal"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>3x5 (Partially Water)</td></tr>
 <tr><td><strong>Type</strong></td><td>Transport</td></tr>

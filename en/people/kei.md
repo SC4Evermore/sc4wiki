@@ -8,4 +8,4 @@ editor: markdown
 dateCreated: '2008-12-07T16:08:18Z'
 ---
 
-<img src="/images/新浜市-00.1_月.61229068088.jpg" title="One of the Kei&#39;s BAT &quot;zakkyo-building setβ." width="250" alt="One of the Kei&#39;s BAT &quot;zakkyo-building setβ." /> Kei is a prolific creator in Japan.He suggested [Japan BAT Project](/japan-bat-project) and [Marunouchi BAT Project](/marunouchi-bat-project). Kei's website is [here](http://tokyo-urbanlab.jpn.org/).
+<img src="/_files/images/00-1-61229068088.jpg" title="One of the Kei&#39;s BAT &quot;zakkyo-building setβ." width="250" alt="One of the Kei&#39;s BAT &quot;zakkyo-building setβ." /> Kei is a prolific creator in Japan.He suggested [Japan BAT Project](/japan-bat-project) and [Marunouchi BAT Project](/marunouchi-bat-project). Kei's website is [here](http://tokyo-urbanlab.jpn.org/).

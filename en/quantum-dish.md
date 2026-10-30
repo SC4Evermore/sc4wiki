@@ -11,7 +11,7 @@ dateCreated: '2014-05-14T06:59:58Z'
 <div class="infobox zone-i">
 <table>
 <tr><th colspan="2">Quantum Dish</th></tr>
-<tr><td colspan="2"><img src="/images/QuantumDish.png" alt="Quantum Dish"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/quantumdish.png" alt="Quantum Dish"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>2x2</td></tr>
 <tr><td><strong>Style</strong></td><td>Anchor</td></tr>

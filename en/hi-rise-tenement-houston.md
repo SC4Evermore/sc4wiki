@@ -13,7 +13,7 @@ dateCreated: '2014-06-28T11:23:27Z'
 <div class="infobox zone-r">
 <table>
 <tr><th colspan="2">Hi-Rise Tenement (Houston)</th></tr>
-<tr><td colspan="2"><img src="/images/Hi-Rise_Tenement_Houston.png" alt="Hi-Rise Tenement (Houston)"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/hi-rise-tenement-houston.png" alt="Hi-Rise Tenement (Houston)"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>3x2, 3x3, 3x4</td></tr>
 <tr><td><strong>Style</strong></td><td>Houston</td></tr>

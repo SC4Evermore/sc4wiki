@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: '2008-09-22T17:35:47Z'
 ---
 
-<img src="/images/Witburg-Oct._27,_711221949892.png" title="A bullet train leaving a station." width="250" alt="A bullet train leaving a station." /> <img src="/images/Bullet_Train.jpg" title="The bullet train in motion compared to other rapid transit networks." width="250" alt="The bullet train in motion compared to other rapid transit networks." /> <img src="/images/Screen07mk5.jpg" title=" A look at the bullet train download screen when the mod could be downloaded." width="250" alt=" A look at the bullet train download screen when the mod could be downloaded." /> The **Bullet Train Mod** is a modification to the monorail created by [APTX](/people/aptx).
+<img src="/_files/images/witburg-oct-27-711221949892.png" title="A bullet train leaving a station." width="250" alt="A bullet train leaving a station." /> <img src="/_files/images/bullet-train.jpg" title="The bullet train in motion compared to other rapid transit networks." width="250" alt="The bullet train in motion compared to other rapid transit networks." /> <img src="/_files/images/screen07mk5.jpg" title=" A look at the bullet train download screen when the mod could be downloaded." width="250" alt=" A look at the bullet train download screen when the mod could be downloaded." /> The **Bullet Train Mod** is a modification to the monorail created by [APTX](/people/aptx).
 
 Unlike the [High Speed Rail](/high-speed-rail) project (HSRP), the bullet train mod completely replaces the monorail network, whereas HSR uses starter pieces to reskin the network.
 
@@ -18,6 +18,6 @@ The bullet train mod has different speeds and capacities then the monorail or HS
 
 ## Bullet Train Slope Mod
 
-<img src="/images/Clipboard01.png" title="The Bullet Train Slope Mod." width="250" alt="The Bullet Train Slope Mod." /> Also included is a realistic [Slope Mod](/slope-mod) that dramatically decreases the angle of the network's slope, making it very realistic but restrictive (this mod is optional)
+<img src="/_files/images/clipboard01.png" title="The Bullet Train Slope Mod." width="250" alt="The Bullet Train Slope Mod." /> Also included is a realistic [Slope Mod](/slope-mod) that dramatically decreases the angle of the network's slope, making it very realistic but restrictive (this mod is optional)
 
 > **Note:** This article needs expanding.

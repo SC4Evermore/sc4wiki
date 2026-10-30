@@ -11,7 +11,7 @@ dateCreated: '2010-05-23T06:44:37Z'
 <div class="infobox">
 <table>
 <tr><th colspan="2">Natural Growth</th></tr>
-<tr><td colspan="2"><img src="/images/CS_NatGrowthPic.jpg" alt="Natural Growth"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/cs-natgrowthpic.jpg" alt="Natural Growth"></td></tr>
 <tr><td><strong>Type</strong></td><td>Urban Biography</td></tr>
 <tr><td><strong>Link</strong></td><td>http://www.csgdesign.com.au/blog/tag/csgdesign/</td></tr>
 <tr><td><strong>Site</strong></td><td>CSGdescussions</td></tr>

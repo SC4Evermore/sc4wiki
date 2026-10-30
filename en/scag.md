@@ -9,7 +9,7 @@ dateCreated: '2008-09-22T23:12:13Z'
 ---
 
 <figure>
-<img src="/images/SCAGLogo2009.jpg" title="The SCAG&#39;s Logo for 2009 (&quot;The Jet&quot;)" width="200" />
+<img src="/_files/images/scaglogo2009.jpg" title="The SCAG&#39;s Logo for 2009 (&quot;The Jet&quot;)" width="200" />
 <figcaption>The SCAG's Logo for 2009 ("The Jet")</figcaption>
 </figure>
 

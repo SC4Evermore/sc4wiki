@@ -11,7 +11,7 @@ dateCreated: '2014-06-28T10:27:38Z'
 <div class="infobox zone-r">
 <table>
 <tr><th colspan="2">Brown Hi-Rise</th></tr>
-<tr><td colspan="2"><img src="/images/Brown_Hi-Rise.png" alt="Brown Hi-Rise"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/brown-hi-rise.png" alt="Brown Hi-Rise"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>3x3, 3x4, 4x3, 4x4</td></tr>
 <tr><td><strong>Style</strong></td><td>Houston</td></tr>

@@ -113,7 +113,7 @@ These below visual guides to the DBPF file format v2 was created by [DarkMatter]
 <tbody>
 <tr>
 <td><figure>
-<img src="/images/DBPF_File_Format_v2.0.png" title="DBPF v2.0" width="200" height="152" />
+<img src="/_files/images/dbpf-file-format-v2-0.png" title="DBPF v2.0" width="200" height="152" />
 <figcaption>DBPF v2.0</figcaption>
 </figure></td>
 </tr>

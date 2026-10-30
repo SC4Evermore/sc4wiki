@@ -15,7 +15,7 @@ dateCreated: '2014-05-14T14:21:29Z'
 <div class="infobox zone-i">
 <table>
 <tr><th colspan="2">Tubing Facility</th></tr>
-<tr><td colspan="2"><img src="/images/IH24x60_2HTOut9_0846.png" alt="Tubing Facility"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/ih24x60-2htout9-0846.png" alt="Tubing Facility"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>2x4, 3x4, 4x4</td></tr>
 <tr><td><strong>Style</strong></td><td>Outbuilding</td></tr>
@@ -86,7 +86,7 @@ Due to this lot's large size and the fact it is an Outbuilding, it can be hard t
 <div class="infobox zone-i">
 <table>
 <tr><th colspan="2">Tubing Facility</th></tr>
-<tr><td colspan="2"><img src="/images/IH28x58_3HTOut10_0847.png" alt="Tubing Facility"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/ih28x58-3htout10-0847.png" alt="Tubing Facility"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>3x4</td></tr>
 <tr><td><strong>Style</strong></td><td>Outbuilding</td></tr>

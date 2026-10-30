@@ -11,7 +11,7 @@ dateCreated: '2014-02-02T05:37:12Z'
 <div class="infobox">
 <table>
 <tr><th colspan="2">CN Tower</th></tr>
-<tr><td colspan="2"><img src="/images/CN_Tower.png" alt="CN Tower"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/cn-tower.png" alt="CN Tower"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>7x6</td></tr>
 <tr><td><strong>Type</strong></td><td>Parks and Recreation</td></tr>

@@ -11,7 +11,7 @@ dateCreated: '2022-09-03T10:32:22Z'
 <div class="infobox">
 <table>
 <tr><th colspan="2">Mayor&#x27;s Statue</th></tr>
-<tr><td colspan="2"><img src="/images/Mayor's_Statue.png" alt="Mayor&#x27;s Statue"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/mayor-s-statue.png" alt="Mayor&#x27;s Statue"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>1x1</td></tr>
 <tr><td><strong>Type</strong></td><td>Government Rewards</td></tr>

@@ -11,7 +11,7 @@ dateCreated: '2008-08-28T17:01:21Z'
 <div class="infobox">
 <table>
 <tr><th colspan="2">Typographia</th></tr>
-<tr><td colspan="2"><img src="/images/typo1.jpg" alt="Typographia"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/typo1.jpg" alt="Typographia"></td></tr>
 <tr><td><strong>Type</strong></td><td>Mayor Diary</td></tr>
 <tr><td><strong>Author</strong></td><td>Etherian</td></tr>
 <tr><td><strong>Site</strong></td><td>sc4d</td></tr>

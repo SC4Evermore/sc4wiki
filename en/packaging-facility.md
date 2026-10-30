@@ -11,7 +11,7 @@ dateCreated: '2014-05-11T15:45:07Z'
 <div class="infobox zone-i">
 <table>
 <tr><th colspan="2">Packaging Facility</th></tr>
-<tr><td colspan="2"><img src="/images/PackagingFacility.png" alt="Packaging Facility"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/packagingfacility.png" alt="Packaging Facility"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>2x3, 2x4, 3x2, 3x3, 4x2</td></tr>
 <tr><td><strong>Style</strong></td><td>Outbuilding</td></tr>

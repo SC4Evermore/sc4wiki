@@ -11,7 +11,7 @@ dateCreated: '2013-09-15T15:33:33Z'
 <div class="infobox">
 <table>
 <tr><th colspan="2">Longfellow Castle (DLC)</th></tr>
-<tr><td colspan="2"><img src="/images/Longfellow_Castle.png" alt="Longfellow Castle (DLC)"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/longfellow-castle.png" alt="Longfellow Castle (DLC)"></td></tr>
 <tr><td><strong>Download</strong></td><td><a href="https://dl.dropbox.com/u/9300614/maxis_files/CastleSet.zip">Castle Set</a></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>13x12</td></tr>

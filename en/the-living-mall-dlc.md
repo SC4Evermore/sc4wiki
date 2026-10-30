@@ -11,7 +11,7 @@ dateCreated: '2013-06-30T06:43:07Z'
 <div class="infobox">
 <table>
 <tr><th colspan="2">The Living Mall (DLC)</th></tr>
-<tr><td colspan="2"><img src="/images/The_Living_Mall.png" alt="The Living Mall (DLC)"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/the-living-mall.png" alt="The Living Mall (DLC)"></td></tr>
 <tr><td><strong>Download</strong></td><td><a href="https://dl.dropbox.com/u/9300614/maxis_files/Plugin_002_TheLivingMall.dat">Plugin Pack 002</a></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>6x6</td></tr>

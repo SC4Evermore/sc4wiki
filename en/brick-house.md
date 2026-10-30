@@ -11,7 +11,7 @@ dateCreated: '2019-08-10T09:31:48Z'
 <div class="infobox zone-r">
 <table>
 <tr><th colspan="2">Brick House</th></tr>
-<tr><td colspan="2"><img src="/images/Brick_House_Variant_1.png" alt="Brick House"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/brick-house-variant-1.png" alt="Brick House"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>1x1, 1x2, 1x3, 2x1, 2x2, 2x3, 3x2</td></tr>
 <tr><td><strong>Style</strong></td><td>New York</td></tr>

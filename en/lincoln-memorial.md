@@ -11,7 +11,7 @@ dateCreated: '2014-02-02T05:40:18Z'
 <div class="infobox">
 <table>
 <tr><th colspan="2">Lincoln Memorial</th></tr>
-<tr><td colspan="2"><img src="/images/Lincoln_Memorial.png" alt="Lincoln Memorial"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/lincoln-memorial.png" alt="Lincoln Memorial"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>5x4</td></tr>
 <tr><td><strong>Type</strong></td><td>Parks and Recreation</td></tr>

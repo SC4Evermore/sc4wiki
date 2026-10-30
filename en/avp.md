@@ -21,7 +21,7 @@ AVP files and their companion ATC files have some specific requirements and cave
 - ATC prop rotations are specified in a different order than S3D prop rotations. (This is not a problem for most standalone props, but traffic lights and RR crossings interact with stop points and static props and must be created correctly.)
 
 <figure>
-<img src="/images/S3d_vs_atc_rotations.png" title="S3d_vs_atc_rotations.png" />
+<img src="/_files/images/s3d-vs-atc-rotations.png" title="S3d_vs_atc_rotations.png" />
 <figcaption>S3d_vs_atc_rotations.png</figcaption>
 </figure>
 
@@ -62,6 +62,6 @@ The number of rotations is variable, but only 4 (for props) and 8 (for sprites, 
 (Please note the little endian storage of the constants above.)
 
 <figure>
-<img src="/images/AVP_format.png" title="AVP_format.png" />
+<img src="/_files/images/avp-format.png" title="AVP_format.png" />
 <figcaption>AVP_format.png</figcaption>
 </figure>

@@ -11,7 +11,7 @@ dateCreated: '2014-01-29T07:42:07Z'
 <div class="infobox">
 <table>
 <tr><th colspan="2">Columbia Seafirst Center</th></tr>
-<tr><td colspan="2"><img src="/images/Columbia_Seafirst.png" alt="Columbia Seafirst Center"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/columbia-seafirst.png" alt="Columbia Seafirst Center"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>6x6</td></tr>
 <tr><td><strong>Type</strong></td><td>Parks and Recreation</td></tr>

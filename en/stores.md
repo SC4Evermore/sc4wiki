@@ -11,7 +11,7 @@ dateCreated: '2014-05-11T05:48:43Z'
 <div class="infobox zone-c">
 <table>
 <tr><th colspan="2">Stores</th></tr>
-<tr><td colspan="2"><img src="/images/Stores_SimpsonInc.png" alt="Stores"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/stores-simpsoninc.png" alt="Stores"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>1x2, 1x3, 2x1, 2x2, 2x3</td></tr>
 <tr><td><strong>Style</strong></td><td>All</td></tr>

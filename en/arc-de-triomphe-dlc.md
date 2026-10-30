@@ -11,7 +11,7 @@ dateCreated: '2013-04-01T11:53:14Z'
 <div class="infobox">
 <table>
 <tr><th colspan="2">Arc de Triomphe (DLC)</th></tr>
-<tr><td colspan="2"><img src="/images/Arc_de_Triomphe.png" alt="Arc de Triomphe (DLC)"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/arc-de-triomphe.png" alt="Arc de Triomphe (DLC)"></td></tr>
 <tr><td><strong>Download</strong></td><td><a href="https://dl.dropbox.com/u/9300614/maxis_files/Plugin_003_ArcTriomphe.dat">Plugin Pack 003</a></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>3x3</td></tr>

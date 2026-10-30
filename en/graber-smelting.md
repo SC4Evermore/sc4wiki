@@ -11,7 +11,7 @@ dateCreated: '2014-05-19T13:19:17Z'
 <div class="infobox zone-i">
 <table>
 <tr><th colspan="2">Graber Smelting</th></tr>
-<tr><td colspan="2"><img src="/images/GraberSmelting.png" alt="Graber Smelting"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/grabersmelting.png" alt="Graber Smelting"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>3x3, 3x4, 3x5, 4x3, 4x4, 5x3</td></tr>
 <tr><td><strong>Style</strong></td><td>Anchor</td></tr>

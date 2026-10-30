@@ -11,7 +11,7 @@ dateCreated: '2014-05-13T13:39:11Z'
 <div class="infobox zone-i">
 <table>
 <tr><th colspan="2">Goth Mechanics</th></tr>
-<tr><td colspan="2"><img src="/images/GothMechanics.png" alt="Goth Mechanics"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/gothmechanics.png" alt="Goth Mechanics"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>2x2, 2x3</td></tr>
 <tr><td><strong>Style</strong></td><td>Anchor</td></tr>

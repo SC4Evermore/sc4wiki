@@ -16,7 +16,7 @@ Hamish has made a handful of maps.
 
 ### Pre NNMT Mapping
 
-<img src="/images/Region.jpg‎" title="One of Hamish&#39;s latter maps" width="200" alt="One of Hamish&#39;s latter maps" /> Hamishs Pre NNMT mapping can be found at [Simtropolis](/simtropolis) under [hamish](http://www.simtropolis.com/stex/index.cfm?page=1&keyword=hamish&type=all) on the Simtropolis exchange (STEX).
+<img src="/_files/images/region.jpg‎" title="One of Hamish&#39;s latter maps" width="200" alt="One of Hamish&#39;s latter maps" /> Hamishs Pre NNMT mapping can be found at [Simtropolis](/simtropolis) under [hamish](http://www.simtropolis.com/stex/index.cfm?page=1&keyword=hamish&type=all) on the Simtropolis exchange (STEX).
 
 ### NNMT
 

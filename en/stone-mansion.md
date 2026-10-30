@@ -11,7 +11,7 @@ dateCreated: '2019-08-10T10:07:04Z'
 <div class="infobox zone-r">
 <table>
 <tr><th colspan="2">Stone Mansion</th></tr>
-<tr><td colspan="2"><img src="/images/Stone_Mansion_Variant_1.png" alt="Stone Mansion"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/stone-mansion-variant-1.png" alt="Stone Mansion"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>2x2, 2x3, 3x2, 3x3, 3x4, 4x3, 4x4, 4x5, 4x6</td></tr>
 <tr><td><strong>Style</strong></td><td>Chicago</td></tr>

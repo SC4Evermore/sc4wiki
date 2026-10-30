@@ -11,7 +11,7 @@ dateCreated: '2008-10-01T17:39:32Z'
 <div class="infobox">
 <table>
 <tr><th colspan="2">Berliner Dom</th></tr>
-<tr><td colspan="2"><img src="/images/BerlinerDomDay.jpg" alt="Berliner Dom"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/berlinerdomday.jpg" alt="Berliner Dom"></td></tr>
 <tr><td><strong>Type</strong></td><td>Ploppable Landmark</td></tr>
 <tr><td><strong>Downloads</strong></td><td><a href="http://sc4devotion.com/csxlex/lex_filedesc.php?lotGET=1790">LEX</a></td></tr>
 <tr><td><strong>Tag1</strong></td><td>Landmark</td></tr>

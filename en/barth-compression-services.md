@@ -11,7 +11,7 @@ dateCreated: '2014-05-14T10:37:50Z'
 <div class="infobox zone-i">
 <table>
 <tr><th colspan="2">Barth Compression Services</th></tr>
-<tr><td colspan="2"><img src="/images/BarthCompressionServices.png" alt="Barth Compression Services"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/barthcompressionservices.png" alt="Barth Compression Services"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>2x2, 2x3, 3x2, 3x3</td></tr>
 <tr><td><strong>Style</strong></td><td>Machinery</td></tr>

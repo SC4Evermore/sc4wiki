@@ -151,7 +151,7 @@ The "X" value describes the relationship of this "limiting tile" in relationship
 These values are illustrated in the table below, where "0" is the central (reference) tile defined in the Type 1 Line:
 
 <figure>
-<img src="/images/NSINR1.jpg" title="NSINR1.jpg" />
+<img src="/_files/images/nsinr1.jpg" title="NSINR1.jpg" />
 <figcaption>NSINR1.jpg</figcaption>
 </figure>
 

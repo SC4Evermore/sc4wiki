@@ -13,7 +13,7 @@ dateCreated: '2013-04-01T09:09:47Z'
 <div class="infobox">
 <table>
 <tr><th colspan="2">Bank of America</th></tr>
-<tr><td colspan="2"><img src="/images/Bank_of_America.png" alt="Bank of America"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/bank-of-america.png" alt="Bank of America"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>5x3</td></tr>
 <tr><td><strong>Type</strong></td><td>Parks and Recreation</td></tr>

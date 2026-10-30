@@ -15,7 +15,7 @@ dateCreated: '2014-05-13T14:52:38Z'
 <div class="infobox zone-i">
 <table>
 <tr><th colspan="2">Patch&#x27;s Paint</th></tr>
-<tr><td colspan="2"><img src="/images/IM42x42_2ManuAnchor8_0865.png" alt="Patch&#x27;s Paint"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/im42x42-2manuanchor8-0865.png" alt="Patch&#x27;s Paint"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>3x4, 3x5, 4x3, 4x4</td></tr>
 <tr><td><strong>Style</strong></td><td>Anchor</td></tr>
@@ -88,7 +88,7 @@ Anchor Lots are the first building grown by SimCity 4's Industrial Zones, design
 <div class="infobox zone-i">
 <table>
 <tr><th colspan="2">Patch&#x27;s Paint</th></tr>
-<tr><td colspan="2"><img src="/images/IM40x44_2ManuAnchor9_0811.png" alt="Patch&#x27;s Paint"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/im40x44-2manuanchor9-0811.png" alt="Patch&#x27;s Paint"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>3x4, 3x5, 4x3, 4x4</td></tr>
 <tr><td><strong>Style</strong></td><td>Anchor</td></tr>

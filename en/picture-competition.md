@@ -9,7 +9,7 @@ dateCreated: '2008-09-11T07:00:28Z'
 ---
 
 <figure>
-<img src="/images/SC4_Picture_Competition_1.jpg" title="&quot;Casualties of Devil&#39;s Night,&quot; by marcszar: the first picture to win three straight rounds in the Picture Contest and be entered into the SC4D Hall of Fame. " width="380" />
+<img src="/_files/images/sc4-picture-competition-1.jpg" title="&quot;Casualties of Devil&#39;s Night,&quot; by marcszar: the first picture to win three straight rounds in the Picture Contest and be entered into the SC4D Hall of Fame. " width="380" />
 <figcaption>"Casualties of Devil's Night," by marcszar: the first picture to win three straight rounds in the Picture Contest and be entered into the SC4D Hall of Fame. </figcaption>
 </figure>
 

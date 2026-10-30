@@ -11,7 +11,7 @@ dateCreated: '2014-01-07T11:28:23Z'
 <div class="infobox">
 <table>
 <tr><th colspan="2">Water Tower</th></tr>
-<tr><td colspan="2"><img src="/images/Water_Tower.png" alt="Water Tower"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/water-tower.png" alt="Water Tower"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Type</strong></td><td>Utilities</td></tr>
 <tr><td><strong>Size</strong></td><td>1x1</td></tr>

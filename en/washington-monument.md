@@ -11,7 +11,7 @@ dateCreated: '2014-01-29T10:42:15Z'
 <div class="infobox">
 <table>
 <tr><th colspan="2">Washington Monument</th></tr>
-<tr><td colspan="2"><img src="/images/Washington_Monument.png" alt="Washington Monument"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/washington-monument.png" alt="Washington Monument"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>3x3</td></tr>
 <tr><td><strong>Type</strong></td><td>Parks and Recreation</td></tr>

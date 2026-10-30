@@ -13,7 +13,7 @@ dateCreated: '2014-01-29T09:00:42Z'
 <div class="infobox">
 <table>
 <tr><th colspan="2">John Hancock Center</th></tr>
-<tr><td colspan="2"><img src="/images/John_Hancock_Center.png" alt="John Hancock Center"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/john-hancock-center.png" alt="John Hancock Center"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>6x4</td></tr>
 <tr><td><strong>Type</strong></td><td>Parks and Recreation</td></tr>

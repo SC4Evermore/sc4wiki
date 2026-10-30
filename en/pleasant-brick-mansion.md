@@ -11,7 +11,7 @@ dateCreated: '2014-06-29T16:18:32Z'
 <div class="infobox zone-r">
 <table>
 <tr><th colspan="2">Pleasant Brick Mansion</th></tr>
-<tr><td colspan="2"><img src="/images/Pleasant_Brick_Mansion.png" alt="Pleasant Brick Mansion"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/pleasant-brick-mansion.png" alt="Pleasant Brick Mansion"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>2x2, 2x3, 3x2, 3x3, 3x4, 4x3, 4x4, 4x5, 4x6</td></tr>
 <tr><td><strong>Style</strong></td><td>Euro</td></tr>

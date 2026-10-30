@@ -11,7 +11,7 @@ dateCreated: '2008-10-14T18:03:02Z'
 <div class="infobox">
 <table>
 <tr><th colspan="2">Lars&#x27; MD</th></tr>
-<tr><td colspan="2"><img src="/images/LarsMD_img1.jpg" alt="Lars&#x27; MD"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/larsmd-img1.jpg" alt="Lars&#x27; MD"></td></tr>
 <tr><td><strong>Type</strong></td><td>Mayor Diary</td></tr>
 <tr><td><strong>Author</strong></td><td>praiodan</td></tr>
 <tr><td><strong>Site</strong></td><td>sc4d</td></tr>

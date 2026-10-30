@@ -11,7 +11,7 @@ dateCreated: '2014-01-06T12:03:10Z'
 <div class="infobox">
 <table>
 <tr><th colspan="2">Camille Meadows</th></tr>
-<tr><td colspan="2"><img src="/images/Camille_Meadows.png" alt="Camille Meadows"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/camille-meadows.png" alt="Camille Meadows"></td></tr>
 <tr><td><strong>Department</strong></td><td>Environment</td></tr>
 <tr><td><strong>Lua</strong></td><td>CA63E2A3 4A5E8EF6 FF20C5FD</td></tr>
 <tr><td><strong>Englishname</strong></td><td>Camille Meadows</td></tr>

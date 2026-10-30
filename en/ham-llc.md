@@ -11,7 +11,7 @@ dateCreated: '2014-05-16T03:57:30Z'
 <div class="infobox zone-c">
 <table>
 <tr><th colspan="2">Ham LLC</th></tr>
-<tr><td colspan="2"><img src="/images/HamLLC.png" alt="Ham LLC"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/hamllc.png" alt="Ham LLC"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>3x3, 3x4, 4x3</td></tr>
 <tr><td><strong>Style</strong></td><td>Chicago</td></tr>

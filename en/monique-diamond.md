@@ -11,7 +11,7 @@ dateCreated: '2014-01-06T12:03:05Z'
 <div class="infobox">
 <table>
 <tr><th colspan="2">Monique Diamond</th></tr>
-<tr><td colspan="2"><img src="/images/Monique_Diamond.png" alt="Monique Diamond"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/monique-diamond.png" alt="Monique Diamond"></td></tr>
 <tr><td><strong>Department</strong></td><td>Finance</td></tr>
 <tr><td><strong>Lua</strong></td><td>CA63E2A3 4A5E8EF6 FF044926</td></tr>
 <tr><td><strong>Englishname</strong></td><td>Monique Diamond</td></tr>

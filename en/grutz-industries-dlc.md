@@ -11,7 +11,7 @@ dateCreated: '2013-09-15T15:47:21Z'
 <div class="infobox">
 <table>
 <tr><th colspan="2">Grutz Industries (DLC)</th></tr>
-<tr><td colspan="2"><img src="/images/Wiki_no_image.png" alt="Grutz Industries (DLC)"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/wiki-no-image.png" alt="Grutz Industries (DLC)"></td></tr>
 <tr><td><strong>Download</strong></td><td><a href="https://dl.dropbox.com/u/9300614/maxis_files/GrutzeIndustries.zip">Grutz Industries</a></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>3x5</td></tr>

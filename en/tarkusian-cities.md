@@ -11,7 +11,7 @@ dateCreated: '2008-08-30T06:17:46Z'
 <div class="infobox">
 <table>
 <tr><th colspan="2">Tarkusian Cities</th></tr>
-<tr><td colspan="2"><img src="/images/Tc1.jpg" alt="Tarkusian Cities"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/tc1.jpg" alt="Tarkusian Cities"></td></tr>
 <tr><td><strong>Type</strong></td><td>Mayor Diary</td></tr>
 <tr><td><strong>Author</strong></td><td>Tarkus</td></tr>
 <tr><td><strong>Site</strong></td><td>sc4d</td></tr>

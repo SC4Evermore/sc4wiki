@@ -11,7 +11,7 @@ dateCreated: '2014-02-02T05:40:53Z'
 <div class="infobox">
 <table>
 <tr><th colspan="2">US Capitol Building</th></tr>
-<tr><td colspan="2"><img src="/images/US_Capitol.png" alt="US Capitol Building"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/us-capitol.png" alt="US Capitol Building"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>6x5</td></tr>
 <tr><td><strong>Type</strong></td><td>Parks and Recreation</td></tr>

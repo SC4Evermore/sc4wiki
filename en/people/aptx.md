@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: '2008-09-22T17:40:07Z'
 ---
 
-<img src="/images/Witburg-Oct._27,_711221949892.png" title="The Bullet Train Mod and Tokyo Station." width="250" alt="The Bullet Train Mod and Tokyo Station." /> **APTX** is a Japanese member who is most famous for creating the [Bullet Train Mod](/bullet-train-mod), its custom [slope mod](/slope-mod) and Tokyo Station.Now,he is making Marunouchi building series with .(Marunouchi is one of the biggest business city in Tokyo)
+<img src="/_files/images/witburg-oct-27-711221949892.png" title="The Bullet Train Mod and Tokyo Station." width="250" alt="The Bullet Train Mod and Tokyo Station." /> **APTX** is a Japanese member who is most famous for creating the [Bullet Train Mod](/bullet-train-mod), its custom [slope mod](/slope-mod) and Tokyo Station.Now,he is making Marunouchi building series with .(Marunouchi is one of the biggest business city in Tokyo)
 
 He also has his own website. [here](http://yaplog.jp/waldorf/)
 

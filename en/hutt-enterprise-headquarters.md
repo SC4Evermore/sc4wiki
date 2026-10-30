@@ -11,7 +11,7 @@ dateCreated: '2014-05-16T06:25:03Z'
 <div class="infobox zone-c">
 <table>
 <tr><th colspan="2">Hutt Enterprise Headquarters</th></tr>
-<tr><td colspan="2"><img src="/images/HuttEnterpriseHeadquarters.png" alt="Hutt Enterprise Headquarters"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/huttenterpriseheadquarters.png" alt="Hutt Enterprise Headquarters"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>4x4</td></tr>
 <tr><td><strong>Style</strong></td><td>Euro</td></tr>

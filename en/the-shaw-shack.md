@@ -11,7 +11,7 @@ dateCreated: '2014-06-14T13:38:17Z'
 <div class="infobox zone-r">
 <table>
 <tr><th colspan="2">The Shaw Shack</th></tr>
-<tr><td colspan="2"><img src="/images/The_Shaw_Shack.png" alt="The Shaw Shack"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/the-shaw-shack.png" alt="The Shaw Shack"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>1x1, 1x2, 1x3</td></tr>
 <tr><td><strong>Style</strong></td><td>Euro</td></tr>

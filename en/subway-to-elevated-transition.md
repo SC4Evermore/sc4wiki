@@ -11,7 +11,7 @@ dateCreated: '2014-01-06T17:21:47Z'
 <div class="infobox">
 <table>
 <tr><th colspan="2">Subway-to-Elevated Transition</th></tr>
-<tr><td colspan="2"><img src="/images/Subway-to-Elevated_Transition.png" alt="Subway-to-Elevated Transition"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/subway-to-elevated-transition.png" alt="Subway-to-Elevated Transition"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>3x1</td></tr>
 <tr><td><strong>Type</strong></td><td>Transport</td></tr>

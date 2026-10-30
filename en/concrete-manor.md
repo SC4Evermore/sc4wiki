@@ -11,7 +11,7 @@ dateCreated: '2014-06-28T11:42:28Z'
 <div class="infobox zone-r">
 <table>
 <tr><th colspan="2">Concrete Manor</th></tr>
-<tr><td colspan="2"><img src="/images/Concrete_Manor.png" alt="Concrete Manor"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/concrete-manor.png" alt="Concrete Manor"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>3x2, 3x3, 3x4</td></tr>
 <tr><td><strong>Style</strong></td><td>New York</td></tr>

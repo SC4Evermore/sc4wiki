@@ -11,7 +11,7 @@ dateCreated: '2014-05-21T07:24:01Z'
 <div class="infobox zone-i">
 <table>
 <tr><th colspan="2">Smoke Stacks</th></tr>
-<tr><td colspan="2"><img src="/images/SmokeStacks.png" alt="Smoke Stacks"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/smokestacks.png" alt="Smoke Stacks"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>2x2, 2x3, 3x2</td></tr>
 <tr><td><strong>Style</strong></td><td>Anchor</td></tr>

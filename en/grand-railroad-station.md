@@ -11,7 +11,7 @@ dateCreated: '2014-01-05T08:19:47Z'
 <div class="infobox">
 <table>
 <tr><th colspan="2">Grand Railroad Station</th></tr>
-<tr><td colspan="2"><img src="/images/Landmark-Grand_Railroad_Station.jpg" alt="Grand Railroad Station"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/landmark-grand-railroad-station.jpg" alt="Grand Railroad Station"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>10x6</td></tr>
 <tr><td><strong>Type</strong></td><td>Transport</td></tr>

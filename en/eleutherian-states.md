@@ -11,7 +11,7 @@ dateCreated: '2008-08-29T09:40:08Z'
 <div class="infobox">
 <table>
 <tr><th colspan="2">Eleutherian States</th></tr>
-<tr><td colspan="2"><img src="/images/ES1.png" alt="Eleutherian States"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/es1.png" alt="Eleutherian States"></td></tr>
 <tr><td><strong>Type</strong></td><td>Mayor Diary</td></tr>
 <tr><td><strong>Author</strong></td><td>M4346</td></tr>
 <tr><td><strong>Site</strong></td><td>sc4d</td></tr>

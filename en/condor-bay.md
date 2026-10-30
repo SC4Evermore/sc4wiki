@@ -11,7 +11,7 @@ dateCreated: '2008-08-29T20:00:27Z'
 <div class="infobox">
 <table>
 <tr><th colspan="2">Condor Bay</th></tr>
-<tr><td colspan="2"><img src="/images/The_Courthouse_and_Plaza_flipped_(800x600).jpg‎" alt="Condor Bay"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/the-courthouse-and-plaza-flipped-800x600.jpg‎" alt="Condor Bay"></td></tr>
 <tr><td><strong>Type</strong></td><td>City Journal / Mayor Diary</td></tr>
 <tr><td><strong>Author</strong></td><td>Masochist</td></tr>
 <tr><td><strong>Link</strong></td><td>http://sc4devotion.com/forums/index.php?topic=3400.0</td></tr>

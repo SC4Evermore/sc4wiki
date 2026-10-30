@@ -11,7 +11,7 @@ dateCreated: '2014-05-11T08:36:53Z'
 <div class="infobox zone-i">
 <table>
 <tr><th colspan="2">B. Powers Cloth</th></tr>
-<tr><td colspan="2"><img src="/images/BPowersCloth.png" alt="B. Powers Cloth"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/bpowerscloth.png" alt="B. Powers Cloth"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>3x5, 4x4, 4x5, 5x4</td></tr>
 <tr><td><strong>Style</strong></td><td>Outbuilding</td></tr>

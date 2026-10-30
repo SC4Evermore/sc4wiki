@@ -11,7 +11,7 @@ dateCreated: '2022-09-03T15:36:01Z'
 <div class="infobox">
 <table>
 <tr><th colspan="2">Farmers Market</th></tr>
-<tr><td colspan="2"><img src="/images/Farmers_Market.png" alt="Farmers Market"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/farmers-market.png" alt="Farmers Market"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>3x3</td></tr>
 <tr><td><strong>Type</strong></td><td>Parks and Recreation Rewards</td></tr>

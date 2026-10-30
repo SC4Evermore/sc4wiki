@@ -34,5 +34,5 @@ With its initial opening, Marathon grew at a rapid pace, reaching the [Best Sell
 Marathon has also been in the Top 5 by Growth in the [SC4Devotion Mayor Diary Statistics](/sc4devotion-mayor-diary-statistics) every week since its inception, spending ten weeks (nine straight) at number one.
 
 <figure>
-<img src="/images/Dec18.jpg" width="300" />
+<img src="/_files/images/dec18.jpg" width="300" />
 </figure>

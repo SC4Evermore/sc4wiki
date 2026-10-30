@@ -11,7 +11,7 @@ dateCreated: '2014-06-29T16:46:39Z'
 <div class="infobox zone-r">
 <table>
 <tr><th colspan="2">Ng Place</th></tr>
-<tr><td colspan="2"><img src="/images/Ng_Place.png" alt="Ng Place"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/ng-place.png" alt="Ng Place"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>2x2, 2x3</td></tr>
 <tr><td><strong>Style</strong></td><td>Chicago</td></tr>

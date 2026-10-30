@@ -14,14 +14,14 @@ The Street Addon Mod (SAM) is a plugin which uses Starter Piece technology to ad
 
 ## Screenshots
 
-![](/images/samteaser1.jpg) ![](/images/samteaser2.jpg) ![](/images/samteaser3.jpg) ![](/images/samteaser4.jpg)
+![](/_files/images/samteaser1.jpg) ![](/_files/images/samteaser2.jpg) ![](/_files/images/samteaser3.jpg) ![](/_files/images/samteaser4.jpg)
 
 ## Installing the Street Addon Mod from the NAM Installer
 
 To install the Street Addon Mod in its entirety, simply select the "Street Addon Mod" box under the "NAM Networks and Network Expansions" section of Custom NAM Installation. The "Networks and Traffic Simulator" and "Complete Standard Installation" preset options will also install the SAM by default. If one wishes to only install specific SAM override networks, clicking the "+" next to the "Street Addon Mod" box will expand the options, and allow one to select or deselect each network.
 
 <figure>
-<img src="/images/sam-installer.jpg" title="sam-installer.jpg" />
+<img src="/_files/images/sam-installer.jpg" title="sam-installer.jpg" />
 <figcaption>sam-installer.jpg</figcaption>
 </figure>
 
@@ -42,11 +42,11 @@ The Street Addon Mod includes a total of 11 different Street-based override netw
 - SAM 11 - Industrial Streets (Original Base by mgb204)
 
 <figure>
-<img src="/images/sam-networks1.jpg" title="sam-networks1.jpg" />
+<img src="/_files/images/sam-networks1.jpg" title="sam-networks1.jpg" />
 <figcaption>sam-networks1.jpg</figcaption>
 </figure>
 
 <figure>
-<img src="/images/sam-networks2.jpg" title="sam-networks2.jpg" />
+<img src="/_files/images/sam-networks2.jpg" title="sam-networks2.jpg" />
 <figcaption>sam-networks2.jpg</figcaption>
 </figure>

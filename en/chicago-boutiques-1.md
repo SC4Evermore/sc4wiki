@@ -11,7 +11,7 @@ dateCreated: '2011-08-01T11:10:39Z'
 <div class="infobox zone-c">
 <table>
 <tr><th colspan="2">Chicago Boutiques 1</th></tr>
-<tr><td colspan="2"><img src="/images/Todd_&_Co.png" alt="Chicago Boutiques 1"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/todd-and-co.png" alt="Chicago Boutiques 1"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>2x2, 3x2, 2x3, 3x3</td></tr>
 <tr><td><strong>Style</strong></td><td>All</td></tr>

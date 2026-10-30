@@ -11,7 +11,7 @@ dateCreated: '2014-01-21T14:27:56Z'
 <div class="infobox">
 <table>
 <tr><th colspan="2">Movie Studio</th></tr>
-<tr><td colspan="2"><img src="/images/Movie_Studio.png" alt="Movie Studio"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/movie-studio.png" alt="Movie Studio"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>8x6</td></tr>
 <tr><td><strong>Type</strong></td><td>Rewards</td></tr>

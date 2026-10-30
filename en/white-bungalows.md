@@ -11,7 +11,7 @@ dateCreated: '2014-06-14T00:27:20Z'
 <div class="infobox zone-r">
 <table>
 <tr><th colspan="2">White Bungalows</th></tr>
-<tr><td colspan="2"><img src="/images/White_Bungalows.png" alt="White Bungalows"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/white-bungalows.png" alt="White Bungalows"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>1x1, 1x2, 1x3</td></tr>
 <tr><td><strong>Style</strong></td><td>Chicago</td></tr>

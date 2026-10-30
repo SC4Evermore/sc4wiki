@@ -11,7 +11,7 @@ dateCreated: '2014-05-06T11:20:16Z'
 <div class="infobox zone-c">
 <table>
 <tr><th colspan="2">5 Chicago Retail Stores 7</th></tr>
-<tr><td colspan="2"><img src="/images/ChicagoStores7_MiguelLLC.png" alt="5 Chicago Retail Stores 7"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/chicagostores7-miguelllc.png" alt="5 Chicago Retail Stores 7"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>2x3, 3x2, 3x3</td></tr>
 <tr><td><strong>Style</strong></td><td>Chicago</td></tr>

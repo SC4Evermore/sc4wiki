@@ -11,7 +11,7 @@ dateCreated: '2019-08-10T09:26:24Z'
 <div class="infobox zone-i">
 <table>
 <tr><th colspan="2">Orange Tree Orchard</th></tr>
-<tr><td colspan="2"><img src="/images/Wiki_no_image.png" alt="Orange Tree Orchard"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/wiki-no-image.png" alt="Orange Tree Orchard"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>1x1</td></tr>
 <tr><td><strong>Style</strong></td><td>Field</td></tr>

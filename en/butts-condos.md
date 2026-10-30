@@ -11,7 +11,7 @@ dateCreated: '2014-05-15T14:28:31Z'
 <div class="infobox zone-r">
 <table>
 <tr><th colspan="2">Butts Condos</th></tr>
-<tr><td colspan="2"><img src="/images/ButtsCondos.png" alt="Butts Condos"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/buttscondos.png" alt="Butts Condos"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>3x3, 3x4, 4x3</td></tr>
 <tr><td><strong>Style</strong></td><td>Chicago</td></tr>

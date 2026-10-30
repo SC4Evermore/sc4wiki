@@ -11,7 +11,7 @@ dateCreated: '2012-11-20T15:21:33Z'
 <div class="infobox zone-c">
 <table>
 <tr><th colspan="2">Chicago Boutiques 2</th></tr>
-<tr><td colspan="2"><img src="/images/ChicagoBotiques2_McCordPrinting.png" alt="Chicago Boutiques 2"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/chicagobotiques2-mccordprinting.png" alt="Chicago Boutiques 2"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Style</strong></td><td>All</td></tr>
 <tr><td><strong>Growth stage</strong></td><td>1 (2x3, 3x3)<br>2 (2x2)</td></tr>

@@ -11,7 +11,7 @@ dateCreated: '2014-01-07T07:35:00Z'
 <div class="infobox">
 <table>
 <tr><th colspan="2">Sam Armstrong</th></tr>
-<tr><td colspan="2"><img src="/images/Sam_Armstrong.png" alt="Sam Armstrong"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/sam-armstrong.png" alt="Sam Armstrong"></td></tr>
 <tr><td><strong>Department</strong></td><td>Public Safety</td></tr>
 <tr><td><strong>Lua</strong></td><td>CA63E2A3 4A5E8EF6 FFA5A138</td></tr>
 <tr><td><strong>Englishname</strong></td><td>Sam Armstrong</td></tr>

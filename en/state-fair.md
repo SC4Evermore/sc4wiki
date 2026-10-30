@@ -11,7 +11,7 @@ dateCreated: '2014-01-21T14:13:09Z'
 <div class="infobox">
 <table>
 <tr><th colspan="2">State Fair</th></tr>
-<tr><td colspan="2"><img src="/images/State_Fair.png" alt="State Fair"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/state-fair.png" alt="State Fair"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>8x12</td></tr>
 <tr><td><strong>Type</strong></td><td>Rewards</td></tr>

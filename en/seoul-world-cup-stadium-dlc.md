@@ -11,7 +11,7 @@ dateCreated: '2013-04-12T16:21:49Z'
 <div class="infobox">
 <table>
 <tr><th colspan="2">Seoul World Cup Stadium (DLC)</th></tr>
-<tr><td colspan="2"><img src="/images/Seoul_World_Cup_Stadium.png" alt="Seoul World Cup Stadium (DLC)"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/seoul-world-cup-stadium.png" alt="Seoul World Cup Stadium (DLC)"></td></tr>
 <tr><td><strong>Download</strong></td><td><a href="https://dl.dropbox.com/u/9300614/maxis_files/Plugin_005_SeoulSoccerStad.dat">Plugin Pack 005</a></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>15x15</td></tr>

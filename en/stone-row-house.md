@@ -11,7 +11,7 @@ dateCreated: '2014-06-08T10:26:05Z'
 <div class="infobox zone-r">
 <table>
 <tr><th colspan="2">Stone Row House</th></tr>
-<tr><td colspan="2"><img src="/images/Stone_Row_House.png" alt="Stone Row House"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/stone-row-house.png" alt="Stone Row House"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>1x1, 1x2</td></tr>
 <tr><td><strong>Style</strong></td><td>New York</td></tr>

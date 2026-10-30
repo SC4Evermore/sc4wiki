@@ -19,7 +19,7 @@ Center Turn Lanes can be found in Turning Lane Avenue (TLA) networks, which are 
 Avenue turn lanes are an optional component in the NAM installer. When they are chosen to be installed, they will appear at every orthogonal (4-way crossroads) avenue/avenue intersection. No additional action is required to place these turn lanes.
 
 <figure>
-<img src="/images/AvenueTurnLanes.jpg" title="AvenueTurnLanes.jpg" />
+<img src="/_files/images/avenueturnlanes.jpg" title="AvenueTurnLanes.jpg" />
 <figcaption>AvenueTurnLanes.jpg</figcaption>
 </figure>
 
@@ -28,14 +28,14 @@ Avenue turn lanes are an optional component in the NAM installer. When they are 
 Beginning in NAM 31, turn lanes could be created automatically at orthogonal intersections by clicking on the intersection tile with the rail tool. In NAM 31.2 and beyond, the **One-Way Road Tool** is now used to place turn lanes.
 
 <figure>
-<img src="/images/RoadTurnLanes.jpg" title="RoadTurnLanes.jpg" />
+<img src="/_files/images/roadturnlanes.jpg" title="RoadTurnLanes.jpg" />
 <figcaption>RoadTurnLanes.jpg</figcaption>
 </figure>
 
 The road turn lanes are very flexible and can adapt to many orthogonal intersection setups.
 
 <figure>
-<img src="/images/RoadTurnLanes2.jpg‎" title="RoadTurnLanes2.jpg‎" />
+<img src="/_files/images/roadturnlanes2.jpg‎" title="RoadTurnLanes2.jpg‎" />
 <figcaption>RoadTurnLanes2.jpg‎</figcaption>
 </figure>
 
@@ -44,7 +44,7 @@ The road turn lanes are very flexible and can adapt to many orthogonal intersect
 Center turn lanes can be found in [TLA (Turning Lane Avenue)](/network-widening-mod#turning-lane-avenues-tlas) networks.
 
 <figure>
-<img src="/images/TLA-3.jpg" title="TLA-3.jpg" />
+<img src="/_files/images/tla-3.jpg" title="TLA-3.jpg" />
 <figcaption>TLA-3.jpg</figcaption>
 </figure>
 

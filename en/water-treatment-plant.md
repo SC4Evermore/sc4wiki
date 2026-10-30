@@ -11,7 +11,7 @@ dateCreated: '2013-03-30T04:59:13Z'
 <div class="infobox">
 <table>
 <tr><th colspan="2">Water Treatment Plant</th></tr>
-<tr><td colspan="2"><img src="/images/Wiki_no_image.png" alt="Water Treatment Plant"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/wiki-no-image.png" alt="Water Treatment Plant"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>6x7</td></tr>
 <tr><td><strong>Plop cost</strong></td><td>15,000</td></tr>

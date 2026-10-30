@@ -11,7 +11,7 @@ dateCreated: '2008-08-29T15:42:32Z'
 <div class="infobox">
 <table>
 <tr><th colspan="2">Maonanestra</th></tr>
-<tr><td colspan="2"><img src="/images/Fermes10mar331222976619rq5.jpg" alt="Maonanestra"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/fermes10mar331222976619rq5.jpg" alt="Maonanestra"></td></tr>
 <tr><td><strong>Type</strong></td><td>Mayor Diary</td></tr>
 <tr><td><strong>Author</strong></td><td>art128</td></tr>
 <tr><td><strong>Site</strong></td><td>sc4d</td></tr>

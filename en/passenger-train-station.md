@@ -13,7 +13,7 @@ dateCreated: '2014-01-06T10:22:12Z'
 <div class="infobox">
 <table>
 <tr><th colspan="2">Passenger Train Station</th></tr>
-<tr><td colspan="2"><img src="/images/Wiki_no_image.png" alt="Passenger Train Station"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/wiki-no-image.png" alt="Passenger Train Station"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>2x3</td></tr>
 <tr><td><strong>Type</strong></td><td>Transport</td></tr>

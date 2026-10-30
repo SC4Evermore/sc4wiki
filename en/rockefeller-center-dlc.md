@@ -11,7 +11,7 @@ dateCreated: '2013-06-30T04:34:17Z'
 <div class="infobox">
 <table>
 <tr><th colspan="2">Rockefeller Center (DLC)</th></tr>
-<tr><td colspan="2"><img src="/images/Rockefeller_center.png" alt="Rockefeller Center (DLC)"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/rockefeller-center.png" alt="Rockefeller Center (DLC)"></td></tr>
 <tr><td><strong>Download</strong></td><td><a href="https://dl.dropbox.com/u/9300614/maxis_files/Plugin_033_RockefellerCenter.dat">Plugin Pack 033</a></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>4x4</td></tr>

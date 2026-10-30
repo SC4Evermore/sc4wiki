@@ -11,7 +11,7 @@ dateCreated: '2013-03-31T09:12:25Z'
 <div class="infobox">
 <table>
 <tr><th colspan="2">Air Force Base (DLC)</th></tr>
-<tr><td colspan="2"><img src="/images/Air_Force_Base.png" alt="Air Force Base (DLC)"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/air-force-base.png" alt="Air Force Base (DLC)"></td></tr>
 <tr><td><strong>Download</strong></td><td><a href="https://dl.dropbox.com/u/9300614/maxis_files/transportation.zip">Plugin Pack 007</a></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>10x29</td></tr>

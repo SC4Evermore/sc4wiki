@@ -11,7 +11,7 @@ dateCreated: '2013-03-31T09:25:21Z'
 <div class="infobox">
 <table>
 <tr><th colspan="2">Large Police Station</th></tr>
-<tr><td colspan="2"><img src="/images/Large_Police_Station.png" alt="Large Police Station"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/large-police-station.png" alt="Large Police Station"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>3x3</td></tr>
 <tr><td><strong>Type</strong></td><td>Public Safety</td></tr>

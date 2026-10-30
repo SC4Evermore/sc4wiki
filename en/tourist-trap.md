@@ -11,7 +11,7 @@ dateCreated: '2022-09-03T15:00:49Z'
 <div class="infobox">
 <table>
 <tr><th colspan="2">Tourist Trap</th></tr>
-<tr><td colspan="2"><img src="/images/Tourist_Trap.png" alt="Tourist Trap"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/tourist-trap.png" alt="Tourist Trap"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>2x3</td></tr>
 <tr><td><strong>Type</strong></td><td>Rewards</td></tr>

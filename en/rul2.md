@@ -48,7 +48,7 @@ Where:
 Graphically,
 
 <figure>
-<img src="/images/Ruls1jy6.jpg" title="Ruls1jy6.jpg" />
+<img src="/_files/images/ruls1jy6.jpg" title="Ruls1jy6.jpg" />
 <figcaption>Ruls1jy6.jpg</figcaption>
 </figure>
 
@@ -61,7 +61,7 @@ Also, having zeros in the ID1a and ID2a spots causes a bad draw (red line). This
 An example line from this file is:
 
 <figure>
-<img src="/images/Ruls2gf2.jpg" title="Ruls2gf2.jpg" />
+<img src="/_files/images/ruls2gf2.jpg" title="Ruls2gf2.jpg" />
 <figcaption>Ruls2gf2.jpg</figcaption>
 </figure>
 
@@ -80,14 +80,14 @@ This section will explain how to find textures, their IIDs and their 0 position.
 Let's start by learning about some of the basic uses of iLive's Reader in Transit Modding. Probably one of the most important skills is learning how to use the Texture Viewer. It is very simple to use. To open go to Tools -\> Texture Viewer as shown below:
 
 <figure>
-<img src="/images/Textureviewer1km9.jpg" title="Textureviewer1km9.jpg" />
+<img src="/_files/images/textureviewer1km9.jpg" title="Textureviewer1km9.jpg" />
 <figcaption>Textureviewer1km9.jpg</figcaption>
 </figure>
 
 Texture Viewer has two main sections: Transit Textures, and Other Textures. The only limit to the Texture Viewer is that is only shows the textures from the SimCity\_#.dat files in your MAXIS\Sim City 4\\ folder. You will notice when you select the first section, Street/Road/Rail/Highway, the 5 zoom levels will show up and you will have to choose one of the following zooms to view the textures. It is recommended to choose Zooms 4 or 5 because they are the easiest to see.
 
 <figure>
-<img src="/images/Textureviewer2he3.jpg" title="Textureviewer2he3.jpg" />
+<img src="/_files/images/textureviewer2he3.jpg" title="Textureviewer2he3.jpg" />
 <figcaption>Textureviewer2he3.jpg</figcaption>
 </figure>
 
@@ -96,7 +96,7 @@ Once you choose your zoom you will have textures show up in the right area. Thes
 Now, Texture Viewer shows all the textures in 0 position. We will get to that later. But, the Texture Viewer is good for 2 things, finding a texture and its IID, and finding which position the game considers 0 position. Also, it shows all 4 wealth levels of the texture.
 
 <figure>
-<img src="/images/Textureviewer3mu0.jpg" title="Textureviewer3mu0.jpg" />
+<img src="/_files/images/textureviewer3mu0.jpg" title="Textureviewer3mu0.jpg" />
 <figcaption>Textureviewer3mu0.jpg</figcaption>
 </figure>
 
@@ -107,21 +107,21 @@ Now, iLive's Reader is great for finding textures created by [Maxis](/maxis), bu
 So, lets see how this works. It's a little different, when SC4Tool loads, use the Tool selection screen and choose Texture Creator.
 
 <figure>
-<img src="/images/Texturecreator1lm1.jpg" title="Texturecreator1lm1.jpg" />
+<img src="/_files/images/texturecreator1lm1.jpg" title="Texturecreator1lm1.jpg" />
 <figcaption>Texturecreator1lm1.jpg</figcaption>
 </figure>
 
 When the Texture Viewer loads you will then have to click the Folder icon which allows you to browse and open the file in which the texture is in.
 
 <figure>
-<img src="/images/Texturecreator2ho8.jpg" title="Texturecreator2ho8.jpg" />
+<img src="/_files/images/texturecreator2ho8.jpg" title="Texturecreator2ho8.jpg" />
 <figcaption>Texturecreator2ho8.jpg</figcaption>
 </figure>
 
 When the file has been loaded you will see a long list of folders with numbers next to them. These numbers are the IIDs of the texture set. By selecting one of the folders it will show you all 5 zoom levels of the corresponding texture. As shown, it will tell you some information about the texture in the right and it will also preview the texture in 0 position.
 
 <figure>
-<img src="/images/Texturecreator3yp9.jpg" title="Texturecreator3yp9.jpg" />
+<img src="/_files/images/texturecreator3yp9.jpg" title="Texturecreator3yp9.jpg" />
 <figcaption>Texturecreator3yp9.jpg</figcaption>
 </figure>
 
@@ -136,22 +136,22 @@ To start, there are 8 total positions of a texture, the 4 rotations (0, 1, 2, an
 <div>
 
 - <figure>
-  <img src="/images/Tintersection0nx6.jpg" title="Rotation 0" />
+  <img src="/_files/images/tintersection0nx6.jpg" title="Rotation 0" />
   <figcaption>Rotation 0</figcaption>
   </figure>
 
 - <figure>
-  <img src="/images/Tintersection1re2.jpg" title="Rotation 1" />
+  <img src="/_files/images/tintersection1re2.jpg" title="Rotation 1" />
   <figcaption>Rotation 1</figcaption>
   </figure>
 
 - <figure>
-  <img src="/images/Tintersection2yp9.jpg" title="Rotation 2" />
+  <img src="/_files/images/tintersection2yp9.jpg" title="Rotation 2" />
   <figcaption>Rotation 2</figcaption>
   </figure>
 
 - <figure>
-  <img src="/images/Tintersection3xd8.jpg" title="Rotation 3" />
+  <img src="/_files/images/tintersection3xd8.jpg" title="Rotation 3" />
   <figcaption>Rotation 3</figcaption>
   </figure>
 
@@ -167,29 +167,29 @@ Now we are going to start getting into the juicy stuff. Side by side textures ar
 
 Obviously for this there will be multiple variations, but let's start with the Straight Piece on the left and the T-Intersection on the right.
 
-![](/images/Straight1ni0.jpg) ![](/images/Tintersection2yp9.jpg)
+![](/_files/images/straight1ni0.jpg) ![](/_files/images/tintersection2yp9.jpg)
 
 As shown above this is the result we are looking for. But how do we get here? Well, we must look at each texture individually. Let's start with the T-Intersection first. If we look at the previous section we will notice that the 0 position of the T-Intersection is facing the opposite direction. Now, visually in your mind take the 0 position and rotate it in 90 degree increments clockwise until it is in the position you want.
 
 <figure>
-<img src="/images/Tintersection0nx6.jpg" title="Rotation 0" />
+<img src="/_files/images/tintersection0nx6.jpg" title="Rotation 0" />
 <figcaption>Rotation 0</figcaption>
 </figure>
 
 <figure>
-<img src="/images/Tintersection1re2.jpg" title="Rotation 1" />
+<img src="/_files/images/tintersection1re2.jpg" title="Rotation 1" />
 <figcaption>Rotation 1</figcaption>
 </figure>
 
 <figure>
-<img src="/images/Tintersection2yp9.jpg" title="Rotation 2" />
+<img src="/_files/images/tintersection2yp9.jpg" title="Rotation 2" />
 <figcaption>Rotation 2</figcaption>
 </figure>
 
 As you can see, to match the resultant we want, we must rotate the texture 180 degrees. This will give us rotation \#2. So, this means that the Straight Piece will be next to a T-Intersection in Rotation \#2. We are half way there. We now must determine the rotation of the Straight Piece. Use iLive's Reader Texture Viewer and look for the Street Straight Piece to find out what the 0 position is.
 
 <figure>
-<img src="/images/Straight0in9.jpg" title="Straight0in9.jpg" />
+<img src="/_files/images/straight0in9.jpg" title="Straight0in9.jpg" />
 <figcaption>Straight0in9.jpg</figcaption>
 </figure>
 
@@ -207,7 +207,7 @@ Now you know how to determine texture rotations. Let's try some small exercises.
 <table>
 <tbody>
 <tr>
-<td><p><img src="/images/Straight1ni0.jpg" title="Straight1ni0.jpg" alt="Straight1ni0.jpg" /> <img src="/images/90turn1ge1.jpg" title="90turn1ge1.jpg" alt="90turn1ge1.jpg" /></p></td>
+<td><p><img src="/_files/images/straight1ni0.jpg" title="Straight1ni0.jpg" alt="Straight1ni0.jpg" /> <img src="/_files/images/90turn1ge1.jpg" title="90turn1ge1.jpg" alt="90turn1ge1.jpg" /></p></td>
 </tr>
 <tr>
 <td><div class="mw-collapsible mw-collapsed" data-expandtext="Show answer" data-collapsetext="Hide answer">
@@ -220,7 +220,7 @@ Now you know how to determine texture rotations. Let's try some small exercises.
 <table>
 <tbody>
 <tr>
-<td><p><img src="/images/90turn3fa6.jpg" title="90turn3fa6.jpg" alt="90turn3fa6.jpg" /> <img src="/images/Tintersection3xd8.jpg" title="Tintersection3xd8.jpg" alt="Tintersection3xd8.jpg" /></p></td>
+<td><p><img src="/_files/images/90turn3fa6.jpg" title="90turn3fa6.jpg" alt="90turn3fa6.jpg" /> <img src="/_files/images/tintersection3xd8.jpg" title="Tintersection3xd8.jpg" alt="Tintersection3xd8.jpg" /></p></td>
 </tr>
 <tr>
 <td><div class="mw-collapsible mw-collapsed" data-expandtext="Show answer" data-collapsetext="Hide answer">
@@ -233,7 +233,7 @@ Now you know how to determine texture rotations. Let's try some small exercises.
 <table>
 <tbody>
 <tr>
-<td><p><img src="/images/Tintersection1re2.jpg" title="Tintersection1re2.jpg" alt="Tintersection1re2.jpg" /> <img src="/images/90turn2hg4.jpg" title="90turn2hg4.jpg" alt="90turn2hg4.jpg" /></p></td>
+<td><p><img src="/_files/images/tintersection1re2.jpg" title="Tintersection1re2.jpg" alt="Tintersection1re2.jpg" /> <img src="/_files/images/90turn2hg4.jpg" title="90turn2hg4.jpg" alt="90turn2hg4.jpg" /></p></td>
 </tr>
 <tr>
 <td><div class="mw-collapsible mw-collapsed" data-expandtext="Show answer" data-collapsetext="Hide answer">
@@ -248,7 +248,7 @@ Now you know how to determine texture rotations. Let's try some small exercises.
 Determining the orientation of a texture when it is mirrored and rotated is best summed up with a simple chart:
 
 <figure>
-<img src="/images/Rotation_and_flip_cheat_sheet.png" title="Rotation_and_flip_cheat_sheet.png" />
+<img src="/_files/images/rotation-and-flip-cheat-sheet.png" title="Rotation_and_flip_cheat_sheet.png" />
 <figcaption>Rotation_and_flip_cheat_sheet.png</figcaption>
 </figure>
 

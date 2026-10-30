@@ -9,7 +9,7 @@ dateCreated: '2009-03-26T21:34:41Z'
 ---
 
 <figure>
-<img src="/images/Industryez4.jpg" title="A city affected by prop pox; note the similiarity to the city on low graphics settings." width="250" />
+<img src="/_files/images/industryez4.jpg" title="A city affected by prop pox; note the similiarity to the city on low graphics settings." width="250" />
 <figcaption>A city affected by prop pox; note the similiarity to the city on low graphics settings.</figcaption>
 </figure>
 

@@ -11,7 +11,7 @@ dateCreated: '2011-07-31T07:16:11Z'
 <div class="infobox zone-c">
 <table>
 <tr><th colspan="2">Luxury Auto Center</th></tr>
-<tr><td colspan="2"><img src="/images/Luxury_Auto_Center.png" alt="Luxury Auto Center"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/luxury-auto-center.png" alt="Luxury Auto Center"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>2x2, 3x2, 2x3</td></tr>
 <tr><td><strong>Style</strong></td><td>All</td></tr>

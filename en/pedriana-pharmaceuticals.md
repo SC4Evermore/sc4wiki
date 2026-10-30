@@ -11,7 +11,7 @@ dateCreated: '2014-05-16T05:48:21Z'
 <div class="infobox zone-c">
 <table>
 <tr><th colspan="2">Pedriana Pharmaceuticals</th></tr>
-<tr><td colspan="2"><img src="/images/PedrianaPrarmaceuticals.png" alt="Pedriana Pharmaceuticals"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/pedrianaprarmaceuticals.png" alt="Pedriana Pharmaceuticals"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>4x4</td></tr>
 <tr><td><strong>Style</strong></td><td>Chicago</td></tr>

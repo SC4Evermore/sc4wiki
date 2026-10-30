@@ -31,6 +31,6 @@ The **Rural Renewal Project**, also known as **RRP**, is a project that wants to
 - Dams
 
 <figure>
-<img src="/images/Overgrownz4id2.jpg" title="A landscape created by using RRP Lots" width="300" />
+<img src="/_files/images/overgrownz4id2.jpg" title="A landscape created by using RRP Lots" width="300" />
 <figcaption>A landscape created by using RRP Lots</figcaption>
 </figure>

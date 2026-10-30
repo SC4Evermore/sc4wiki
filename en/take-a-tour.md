@@ -11,7 +11,7 @@ dateCreated: '2008-08-29T10:08:21Z'
 <div class="infobox">
 <table>
 <tr><th colspan="2">Take a Tour</th></tr>
-<tr><td colspan="2"><img src="/images/TaT1.jpg" alt="Take a Tour"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/tat1.jpg" alt="Take a Tour"></td></tr>
 <tr><td><strong>Type</strong></td><td>Mayor Diary</td></tr>
 <tr><td><strong>Author</strong></td><td>Travis</td></tr>
 <tr><td><strong>Site</strong></td><td>sc4d</td></tr>

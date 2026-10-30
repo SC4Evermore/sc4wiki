@@ -13,7 +13,7 @@ dateCreated: '2019-08-09T23:07:29Z'
 <div class="infobox zone-r">
 <table>
 <tr><th colspan="2">Apartments (Houston, Small)</th></tr>
-<tr><td colspan="2"><img src="/images/Houston_Apartments_Small_Variant_1.png" alt="Apartments (Houston, Small)"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/houston-apartments-small-variant-1.png" alt="Apartments (Houston, Small)"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>1x2, 1x3</td></tr>
 <tr><td><strong>Style</strong></td><td>Houston</td></tr>

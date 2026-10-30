@@ -13,7 +13,7 @@ dateCreated: '2013-09-07T13:19:24Z'
 <div class="infobox">
 <table>
 <tr><th colspan="2">Chrysler Building</th></tr>
-<tr><td colspan="2"><img src="/images/Chrysler_Building.png" alt="Chrysler Building"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/chrysler-building.png" alt="Chrysler Building"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>4x4</td></tr>
 <tr><td><strong>Type</strong></td><td>Parks and Recreation</td></tr>

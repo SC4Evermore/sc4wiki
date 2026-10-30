@@ -11,7 +11,7 @@ dateCreated: '2008-09-12T23:49:33Z'
 <div class="infobox">
 <table>
 <tr><th colspan="2">Franklin County</th></tr>
-<tr><td colspan="2"><img src="/images/LIH_Emperador_in_Central_Franklin.jpg" alt="Franklin County"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/lih-emperador-in-central-franklin.jpg" alt="Franklin County"></td></tr>
 <tr><td><strong>Type</strong></td><td>City Journal</td></tr>
 <tr><td><strong>Author</strong></td><td>Patricius Maximus</td></tr>
 <tr><td><strong>Tag1</strong></td><td>Simtropolis</td></tr>

@@ -13,7 +13,7 @@ dateCreated: '2014-01-06T10:25:20Z'
 <div class="infobox">
 <table>
 <tr><th colspan="2">Freight Train Station</th></tr>
-<tr><td colspan="2"><img src="/images/Wiki_no_image.png" alt="Freight Train Station"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/wiki-no-image.png" alt="Freight Train Station"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>3x2</td></tr>
 <tr><td><strong>Type</strong></td><td>Transport</td></tr>

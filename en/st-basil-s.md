@@ -11,7 +11,7 @@ dateCreated: '2014-01-29T10:55:31Z'
 <div class="infobox">
 <table>
 <tr><th colspan="2">St. Basil&#x27;s</th></tr>
-<tr><td colspan="2"><img src="/images/St_Basils.png" alt="St. Basil&#x27;s"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/st-basils.png" alt="St. Basil&#x27;s"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>4x4</td></tr>
 <tr><td><strong>Type</strong></td><td>Parks and Recreation</td></tr>

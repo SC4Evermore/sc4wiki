@@ -11,7 +11,7 @@ dateCreated: '2008-09-07T07:45:39Z'
 <div class="infobox">
 <table>
 <tr><th colspan="2">Province of New Rhodesia</th></tr>
-<tr><td colspan="2"><img src="/images/NRCParliament.png" alt="Province of New Rhodesia"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/nrcparliament.png" alt="Province of New Rhodesia"></td></tr>
 <tr><td><strong>Type</strong></td><td>City Journal / Mayor Diary</td></tr>
 <tr><td><strong>Author</strong></td><td>6underground</td></tr>
 <tr><td><strong>Tag1</strong></td><td>Inactive</td></tr>

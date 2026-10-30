@@ -11,7 +11,7 @@ dateCreated: '2014-06-14T08:13:34Z'
 <div class="infobox zone-r">
 <table>
 <tr><th colspan="2">Wood Cottage</th></tr>
-<tr><td colspan="2"><img src="/images/Wood_Cottage_1.png" alt="Wood Cottage"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/wood-cottage-1.png" alt="Wood Cottage"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>1x1, 1x2, 1x3</td></tr>
 <tr><td><strong>Style</strong></td><td>Houston</td></tr>

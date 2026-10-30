@@ -11,7 +11,7 @@ dateCreated: '2008-08-30T02:46:44Z'
 <div class="infobox">
 <table>
 <tr><th colspan="2">Casper&#x27;s Portfolio</th></tr>
-<tr><td colspan="2"><img src="/images/CS1.jpg" alt="Casper&#x27;s Portfolio"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/cs1.jpg" alt="Casper&#x27;s Portfolio"></td></tr>
 <tr><td><strong>Type</strong></td><td>Mayor Diary</td></tr>
 <tr><td><strong>Author</strong></td><td>CasperVg</td></tr>
 <tr><td><strong>Site</strong></td><td>SimCity 4 Devotion</td></tr>

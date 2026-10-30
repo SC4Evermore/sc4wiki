@@ -15,7 +15,7 @@ There are a number of parameters that you can preset before game launch to allow
 There will probably be a game shortcut on your desktop, it should look something like this:
 
 <figure>
-<img src="/images/SC4_Shortcut.png" title="SC4_Shortcut.png" />
+<img src="/_files/images/sc4-shortcut.png" title="SC4_Shortcut.png" />
 <figcaption>SC4_Shortcut.png</figcaption>
 </figure>
 
@@ -24,7 +24,7 @@ If you cant find one on your desktop, there is one in your My Programs/Maxis/Sim
 Right click on that icoi and select properties. This window will open:
 
 <figure>
-<img src="/images/Shortcut_Properties.jpg" title="Shortcut_Properties.jpg" />
+<img src="/_files/images/shortcut-properties.jpg" title="Shortcut_Properties.jpg" />
 <figcaption>Shortcut_Properties.jpg</figcaption>
 </figure>
 
@@ -37,21 +37,21 @@ The images used here will be from the game The Elder Scrolls V: Skyrim and using
 Right Click SimCity 4 Deluxe in the Library Tab and select Properties.
 
 <figure>
-<img src="/images/SteamLaunchOptions1.jpg" title="SteamLaunchOptions1.jpg" />
+<img src="/_files/images/steamlaunchoptions1.jpg" title="SteamLaunchOptions1.jpg" />
 <figcaption>SteamLaunchOptions1.jpg</figcaption>
 </figure>
 
 In the General Tab, click the "Set Launch Options" button.
 
 <figure>
-<img src="/images/SteamLaunchOptions2.jpg" title="SteamLaunchOptions2.jpg" />
+<img src="/_files/images/steamlaunchoptions2.jpg" title="SteamLaunchOptions2.jpg" />
 <figcaption>SteamLaunchOptions2.jpg</figcaption>
 </figure>
 
 Add your parameters to the text field, then click OK.
 
 <figure>
-<img src="/images/SteamLaunchOptions3.jpg" title="SteamLaunchOptions3.jpg" />
+<img src="/_files/images/steamlaunchoptions3.jpg" title="SteamLaunchOptions3.jpg" />
 <figcaption>SteamLaunchOptions3.jpg</figcaption>
 </figure>
 

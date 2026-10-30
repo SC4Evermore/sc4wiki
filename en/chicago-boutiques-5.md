@@ -11,7 +11,7 @@ dateCreated: '2012-10-23T23:39:00Z'
 <div class="infobox zone-c">
 <table>
 <tr><th colspan="2">Chicago Boutiques 5</th></tr>
-<tr><td colspan="2"><img src="/images/ChicagoBoutiques5_HedmanPlanners.png" alt="Chicago Boutiques 5"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/chicagoboutiques5-hedmanplanners.png" alt="Chicago Boutiques 5"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>2x3, 2x4, 3x2, 3x3</td></tr>
 <tr><td><strong>Style</strong></td><td>Chicago</td></tr>

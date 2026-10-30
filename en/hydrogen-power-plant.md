@@ -11,7 +11,7 @@ dateCreated: '2017-12-27T06:05:35Z'
 <div class="infobox">
 <table>
 <tr><th colspan="2">Hydrogen Power Plant</th></tr>
-<tr><td colspan="2"><img src="/images/Hydrogen_Power_Plant.png" alt="Hydrogen Power Plant"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/hydrogen-power-plant.png" alt="Hydrogen Power Plant"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>4x4</td></tr>
 <tr><td><strong>Type</strong></td><td>UtilitiesRewards</td></tr>

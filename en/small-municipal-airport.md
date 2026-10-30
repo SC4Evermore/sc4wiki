@@ -11,7 +11,7 @@ dateCreated: '2014-02-07T13:35:29Z'
 <div class="infobox">
 <table>
 <tr><th colspan="2">Small Municipal Airport</th></tr>
-<tr><td colspan="2"><img src="/images/Small_Municipal_Airport.png" alt="Small Municipal Airport"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/small-municipal-airport.png" alt="Small Municipal Airport"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>10x29</td></tr>
 <tr><td><strong>Type</strong></td><td>Transport</td></tr>

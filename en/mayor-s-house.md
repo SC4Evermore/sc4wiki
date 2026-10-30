@@ -11,7 +11,7 @@ dateCreated: '2022-09-02T16:45:47Z'
 <div class="infobox">
 <table>
 <tr><th colspan="2">Mayor&#x27;s House</th></tr>
-<tr><td colspan="2"><img src="/images/Mayor's_House.png" alt="Mayor&#x27;s House"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/mayor-s-house.png" alt="Mayor&#x27;s House"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>2x3</td></tr>
 <tr><td><strong>Type</strong></td><td>GovernmentRewards</td></tr>

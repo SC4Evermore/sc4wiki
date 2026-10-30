@@ -77,7 +77,7 @@ dateCreated: '2019-08-09T21:35:06Z'
 <tr>
 <td style="text-align: center;"><p>|Redirect to another page</p></td>
 <td style="text-align: center;"><p><code>#REDIRECT [[Target page]]</code></p></td>
-<td style="text-align: center;"><p><img src="/images/Redirect_arrow_without_text.svg" title="Redirect_arrow_without_text.svg" width="30" alt="Redirect_arrow_without_text.svg" />[Target page](/target-page)</p></td>
+<td style="text-align: center;"><p><img src="/_files/images/redirect-arrow-without-text.svg" title="Redirect_arrow_without_text.svg" width="30" alt="Redirect_arrow_without_text.svg" />[Target page](/target-page)</p></td>
 </tr>
 <tr>
 <td colspan="3" style="text-align: center; border-top: 1px solid #cee0f2;"></td>
@@ -181,7 +181,7 @@ dateCreated: '2019-08-09T21:35:06Z'
 <td style="text-align: center;"><p>Thumbnail image</p></td>
 <td style="text-align: center;"><p><code>[[Image:Wiki.png|thumb|Caption text]]</code></p></td>
 <td style="text-align: center;"><figure>
-<img src="/images/Wiki.png" title="Caption text" />
+<img src="/_files/images/wiki.png" title="Caption text" />
 <figcaption>Caption text</figcaption>
 </figure></td>
 </tr>

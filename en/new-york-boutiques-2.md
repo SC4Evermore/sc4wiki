@@ -11,7 +11,7 @@ dateCreated: '2012-11-20T15:31:03Z'
 <div class="infobox zone-c">
 <table>
 <tr><th colspan="2">New York Boutiques 2</th></tr>
-<tr><td colspan="2"><img src="/images/1NewYorkBoutiques2_ChalmersCo.png" alt="New York Boutiques 2"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/1newyorkboutiques2-chalmersco.png" alt="New York Boutiques 2"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Style</strong></td><td>All</td></tr>
 <tr><td><strong>Growth stage</strong></td><td>1 (3x3)<br>2 (2x3, 3x2)<br>3 (2x2)</td></tr>

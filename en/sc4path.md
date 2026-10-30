@@ -41,6 +41,6 @@ When [SimCity 4](/simcity-4) was originally released, cars could jump from a hig
 
 ## Daeley's SC4Path Creator
 
-<img src="/images/PathCreator.jpg" title="A screenshot of the single tile frame." width="200" alt="A screenshot of the single tile frame." /> [BSC](/bsc) member [Daeley](/people/daeley) has created a tool to create and edit SC4Path files called [SC4 Path Creator](/sc4-path-creator). The tool is currently in version 1.60.
+<img src="/_files/images/pathcreator.jpg" title="A screenshot of the single tile frame." width="200" alt="A screenshot of the single tile frame." /> [BSC](/bsc) member [Daeley](/people/daeley) has created a tool to create and edit SC4Path files called [SC4 Path Creator](/sc4-path-creator). The tool is currently in version 1.60.
 
 1.  [Network Specs/Paths](/network-specs/paths)

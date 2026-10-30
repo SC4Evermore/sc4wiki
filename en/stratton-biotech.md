@@ -11,7 +11,7 @@ dateCreated: '2014-05-14T04:41:17Z'
 <div class="infobox zone-i">
 <table>
 <tr><th colspan="2">Stratton Biotech</th></tr>
-<tr><td colspan="2"><img src="/images/StrattonBiotech.png" alt="Stratton Biotech"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/strattonbiotech.png" alt="Stratton Biotech"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>3x3, 3x4, 4x3</td></tr>
 <tr><td><strong>Style</strong></td><td>Anchor</td></tr>

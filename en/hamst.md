@@ -11,7 +11,7 @@ dateCreated: '2008-08-28T19:02:18Z'
 <div class="infobox">
 <table>
 <tr><th colspan="2">Hamst</th></tr>
-<tr><td colspan="2"><img src="/images/Hamst1.jpg" alt="Hamst"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/hamst1.jpg" alt="Hamst"></td></tr>
 <tr><td><strong>Type</strong></td><td>Mayor Diary</td></tr>
 <tr><td><strong>Author</strong></td><td>S_imon</td></tr>
 <tr><td><strong>Site</strong></td><td>sc4d</td></tr>

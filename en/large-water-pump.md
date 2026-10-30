@@ -11,7 +11,7 @@ dateCreated: '2013-03-31T05:46:01Z'
 <div class="infobox">
 <table>
 <tr><th colspan="2">Large Water Pump</th></tr>
-<tr><td colspan="2"><img src="/images/Large_Water_Pump.png" alt="Large Water Pump"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/large-water-pump.png" alt="Large Water Pump"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>1x2</td></tr>
 <tr><td><strong>Type</strong></td><td>Utilities Rewards</td></tr>

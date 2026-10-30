@@ -11,7 +11,7 @@ dateCreated: '2008-08-29T03:19:49Z'
 <div class="infobox">
 <table>
 <tr><th colspan="2">Réamur</th></tr>
-<tr><td colspan="2"><img src="/images/Rea1.jpg" alt="Réamur"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/rea1.jpg" alt="Réamur"></td></tr>
 <tr><td><strong>Type</strong></td><td>Mayor Diary</td></tr>
 <tr><td><strong>Author</strong></td><td>n3w-y0rk-city</td></tr>
 <tr><td><strong>Site</strong></td><td>sc4d</td></tr>

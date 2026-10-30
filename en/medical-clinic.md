@@ -11,7 +11,7 @@ dateCreated: '2014-01-05T12:11:00Z'
 <div class="infobox">
 <table>
 <tr><th colspan="2">Medical Clinic</th></tr>
-<tr><td colspan="2"><img src="/images/Medical_Clinic.png" alt="Medical Clinic"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/medical-clinic.png" alt="Medical Clinic"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>1x2</td></tr>
 <tr><td><strong>Type</strong></td><td>Health and Education</td></tr>

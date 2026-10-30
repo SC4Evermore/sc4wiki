@@ -9,7 +9,7 @@ dateCreated: '2008-09-23T05:22:00Z'
 ---
 
 <figure>
-<img src="/images/F_and_h_ring.jpg" title="f&amp;h Diamond Ring" width="150" />
+<img src="/_files/images/f-and-h-ring.jpg" title="f&amp;h Diamond Ring" width="150" />
 <figcaption>f&amp;h Diamond Ring</figcaption>
 </figure>
 
@@ -24,7 +24,7 @@ Fatsuhono's main current project, with the TSC Team, is called "Alkaline Heavy I
 - SCAG Modular ATCT Pack 1
 
 <figure>
-<img src="/images/Koppu_pic_1.JPG" title="Chiyoda &quot;Koppu&quot; Station, a glass beams-style station BATed by Fatsuhono" width="150" />
+<img src="/_files/images/koppu-pic-1.jpg" title="Chiyoda &quot;Koppu&quot; Station, a glass beams-style station BATed by Fatsuhono" width="150" />
 <figcaption>Chiyoda "Koppu" Station, a glass beams-style station BATed by Fatsuhono</figcaption>
 </figure>
 

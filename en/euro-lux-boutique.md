@@ -13,7 +13,7 @@ dateCreated: '2012-10-24T00:20:25Z'
 <div class="infobox zone-c">
 <table>
 <tr><th colspan="2">Euro Lux Boutique</th></tr>
-<tr><td colspan="2"><img src="/images/Wiki_no_image.png" alt="Euro Lux Boutique"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/wiki-no-image.png" alt="Euro Lux Boutique"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>1x2, 1x3, 2x2, 2x3</td></tr>
 <tr><td><strong>Style</strong></td><td>All</td></tr>

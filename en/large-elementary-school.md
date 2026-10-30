@@ -11,7 +11,7 @@ dateCreated: '2014-01-10T10:27:21Z'
 <div class="infobox">
 <table>
 <tr><th colspan="2">Large Elementary School</th></tr>
-<tr><td colspan="2"><img src="/images/Large_Elementary_School.png" alt="Large Elementary School"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/large-elementary-school.png" alt="Large Elementary School"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>3x4</td></tr>
 <tr><td><strong>Type</strong></td><td>Health and EducationRewards</td></tr>

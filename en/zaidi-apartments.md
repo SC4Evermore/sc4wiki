@@ -11,7 +11,7 @@ dateCreated: '2014-06-12T13:00:45Z'
 <div class="infobox zone-r">
 <table>
 <tr><th colspan="2">Zaidi Apartments</th></tr>
-<tr><td colspan="2"><img src="/images/Zaidi_Apartments.png" alt="Zaidi Apartments"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/zaidi-apartments.png" alt="Zaidi Apartments"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>4x4</td></tr>
 <tr><td><strong>Style</strong></td><td>Houston</td></tr>

@@ -11,7 +11,7 @@ dateCreated: '2014-01-06T17:30:03Z'
 <div class="infobox">
 <table>
 <tr><th colspan="2">Neil Fairbanks</th></tr>
-<tr><td colspan="2"><img src="/images/Neil_Fairbanks.png" alt="Neil Fairbanks"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/neil-fairbanks.png" alt="Neil Fairbanks"></td></tr>
 <tr><td><strong>Department</strong></td><td>City Planning/General</td></tr>
 <tr><td><strong>Englishname</strong></td><td>Neil Fairbanks</td></tr>
 <tr><td><strong>Frenchname</strong></td><td>Justin Paux</td></tr>

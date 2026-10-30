@@ -11,7 +11,7 @@ dateCreated: '2013-06-30T05:07:58Z'
 <div class="infobox">
 <table>
 <tr><th colspan="2">Taipei Fine Arts Museum (DLC)</th></tr>
-<tr><td colspan="2"><img src="/images/Taipei_Fine_Arts_Museum.png" alt="Taipei Fine Arts Museum (DLC)"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/taipei-fine-arts-museum.png" alt="Taipei Fine Arts Museum (DLC)"></td></tr>
 <tr><td><strong>Download</strong></td><td><a href="https://dl.dropbox.com/u/9300614/maxis_files/Plugin_030_TaipeiArtMuseum.dat">Plugin Pack 030</a></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>5x7</td></tr>

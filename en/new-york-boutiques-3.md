@@ -11,7 +11,7 @@ dateCreated: '2012-10-24T13:53:12Z'
 <div class="infobox zone-c">
 <table>
 <tr><th colspan="2">New York Boutiques 3</th></tr>
-<tr><td colspan="2"><img src="/images/3NewYorkBoutiques3_CurtinFabrics.png" alt="New York Boutiques 3"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/3newyorkboutiques3-curtinfabrics.png" alt="New York Boutiques 3"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>2x3, 3x2, 3x3</td></tr>
 <tr><td><strong>Style</strong></td><td>All</td></tr>

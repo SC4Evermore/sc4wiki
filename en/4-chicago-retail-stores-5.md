@@ -11,7 +11,7 @@ dateCreated: '2014-05-07T05:47:09Z'
 <div class="infobox zone-c">
 <table>
 <tr><th colspan="2">4 Chicago Retail Stores 5</th></tr>
-<tr><td colspan="2"><img src="/images/ChiRetailStores5_LayArchitects.png" alt="4 Chicago Retail Stores 5"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/chiretailstores5-layarchitects.png" alt="4 Chicago Retail Stores 5"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>1x2, 1x3, 2x1, 2x2</td></tr>
 <tr><td><strong>Style</strong></td><td>Chicago</td></tr>

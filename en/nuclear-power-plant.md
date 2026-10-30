@@ -11,7 +11,7 @@ dateCreated: '2014-01-22T04:26:24Z'
 <div class="infobox">
 <table>
 <tr><th colspan="2">Nuclear Power Plant</th></tr>
-<tr><td colspan="2"><img src="/images/Nuclear_Power_Plant.png" alt="Nuclear Power Plant"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/nuclear-power-plant.png" alt="Nuclear Power Plant"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>4x5</td></tr>
 <tr><td><strong>Type</strong></td><td>UtilitiesRewards</td></tr>

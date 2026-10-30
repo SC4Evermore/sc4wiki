@@ -11,7 +11,7 @@ dateCreated: '2008-08-29T15:20:05Z'
 <div class="infobox">
 <table>
 <tr><th colspan="2">Paranor Island</th></tr>
-<tr><td colspan="2"><img src="/images/Illian_Skyline.jpg‎" alt="Paranor Island"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/illian-skyline.jpg‎" alt="Paranor Island"></td></tr>
 <tr><td><strong>Type</strong></td><td>Mayor Diary</td></tr>
 <tr><td><strong>Site</strong></td><td>sc4d</td></tr>
 <tr><td><strong>Link</strong></td><td>http://sc4devotion.com/forums/index.php?topic=5303.0</td></tr>

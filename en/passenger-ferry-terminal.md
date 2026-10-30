@@ -11,7 +11,7 @@ dateCreated: '2014-01-05T11:47:10Z'
 <div class="infobox">
 <table>
 <tr><th colspan="2">Passenger Ferry Terminal</th></tr>
-<tr><td colspan="2"><img src="/images/Passenger_Ferry_Terminal.png" alt="Passenger Ferry Terminal"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/passenger-ferry-terminal.png" alt="Passenger Ferry Terminal"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>2x5 (Partially Water)</td></tr>
 <tr><td><strong>Type</strong></td><td>Transport</td></tr>
@@ -36,4 +36,4 @@ Ferry Terminals are lots that provide ways for passengers and cars to cross bodi
 
 ## Beta
 
-![The remnants of the Beta Passenger Ferry Terminal left in the retail release of Rush Hour](/images/Beta_Passenger_Ferry_Terminal.png) During the game's Beta phase, the Passenger Ferry Terminal may have had Parking facilities, meaning Sims may have been able to move from Cars to ferries. That was probably removed in favor of the Car and Passenger Ferry.
+![The remnants of the Beta Passenger Ferry Terminal left in the retail release of Rush Hour](/_files/images/beta-passenger-ferry-terminal.png) During the game's Beta phase, the Passenger Ferry Terminal may have had Parking facilities, meaning Sims may have been able to move from Cars to ferries. That was probably removed in favor of the Car and Passenger Ferry.

@@ -11,7 +11,7 @@ dateCreated: '2014-06-13T11:21:43Z'
 <div class="infobox zone-r">
 <table>
 <tr><th colspan="2">Ellery Elm Tenements</th></tr>
-<tr><td colspan="2"><img src="/images/Ellery_Elm_Tenements.png" alt="Ellery Elm Tenements"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/ellery-elm-tenements.png" alt="Ellery Elm Tenements"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>1x2, 1x3</td></tr>
 <tr><td><strong>Style</strong></td><td>New York</td></tr>

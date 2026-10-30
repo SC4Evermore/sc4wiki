@@ -11,7 +11,7 @@ dateCreated: '2014-05-11T13:44:22Z'
 <div class="infobox zone-i">
 <table>
 <tr><th colspan="2">Zambel Assembly Line</th></tr>
-<tr><td colspan="2"><img src="/images/ZambelAssemblyLine.png" alt="Zambel Assembly Line"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/zambelassemblyline.png" alt="Zambel Assembly Line"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>3x4, 4x4</td></tr>
 <tr><td><strong>Style</strong></td><td>Outbuilding</td></tr>

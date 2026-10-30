@@ -11,7 +11,7 @@ dateCreated: '2019-08-10T09:33:05Z'
 <div class="infobox zone-r">
 <table>
 <tr><th colspan="2">Avery Abode</th></tr>
-<tr><td colspan="2"><img src="/images/Avery_Abode.png" alt="Avery Abode"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/avery-abode.png" alt="Avery Abode"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>1x1, 1x2, 1x3, 2x1, 2x2, 2x3, 3x2</td></tr>
 <tr><td><strong>Style</strong></td><td>Euro</td></tr>

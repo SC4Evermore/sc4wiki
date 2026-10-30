@@ -11,7 +11,7 @@ dateCreated: '2013-09-16T09:27:20Z'
 <div class="infobox">
 <table>
 <tr><th colspan="2">Medium City Hall (Unimplemented)</th></tr>
-<tr><td colspan="2"><img src="/images/Medium_City_Hall.png" alt="Medium City Hall (Unimplemented)"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/medium-city-hall.png" alt="Medium City Hall (Unimplemented)"></td></tr>
 <tr><td><strong>Download</strong></td><td><a href="http://community.simtropolis.com/files/file/11154-all-3-cityhalls-modd-reward-fix/">Mr Trusage's All 3 City Halls Reward Fix</a>
 
 <a href="http://community.simtropolis.com/files/file/13296-city-hall-fix/">Andreas Roth's City Hall Fix</a></td></tr>

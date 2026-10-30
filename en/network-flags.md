@@ -43,7 +43,7 @@ Rail-type networks also use several higher flags:
 Take, for example, the image below, representing a tile, with the corners labeled with letters and the sides labeled with numbers. Point *E* marks the center of the tile. Assume that Side *AB* is "North" for purposes of this example, remembering that the values in [RUL](/rul) files are given for the North, East, South, and West sides of the tile.
 
 <figure>
-<img src="/images/NSINR2.jpg" title="NSINR2.jpg" />
+<img src="/_files/images/nsinr2.jpg" title="NSINR2.jpg" />
 <figcaption>NSINR2.jpg</figcaption>
 </figure>
 
@@ -64,14 +64,14 @@ The following pixel position is based on the 128 pixel wide zoom 5 textures, wit
 The simpler table, showing absolute positions only:
 
 <figure>
-<img src="/images/NSINR3.jpg" title="NSINR3.jpg" />
+<img src="/_files/images/nsinr3.jpg" title="NSINR3.jpg" />
 <figcaption>NSINR3.jpg</figcaption>
 </figure>
 
 The more complex table, showing the relative offsets as well as absolute positions:
 
 <figure>
-<img src="/images/NSINR4.jpg" title="NSINR4.jpg" />
+<img src="/_files/images/nsinr4.jpg" title="NSINR4.jpg" />
 <figcaption>NSINR4.jpg</figcaption>
 </figure>
 

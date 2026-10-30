@@ -11,7 +11,7 @@ dateCreated: '2017-12-27T06:23:21Z'
 <div class="infobox zone-i">
 <table>
 <tr><th colspan="2">Shed</th></tr>
-<tr><td colspan="2"><img src="/images/wiki_no_image.png" alt="Shed"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/wiki-no-image.png" alt="Shed"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>1x1</td></tr>
 <tr><td><strong>Style</strong></td><td>Outbuilding</td></tr>

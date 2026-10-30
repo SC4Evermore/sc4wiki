@@ -11,7 +11,7 @@ dateCreated: '2014-05-16T06:57:47Z'
 <div class="infobox zone-c">
 <table>
 <tr><th colspan="2">Khoury Art Foundation Building</th></tr>
-<tr><td colspan="2"><img src="/images/KhouryArtFoundationBuilding.png" alt="Khoury Art Foundation Building"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/khouryartfoundationbuilding.png" alt="Khoury Art Foundation Building"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>3x4, 4x3</td></tr>
 <tr><td><strong>Style</strong></td><td>Euro</td></tr>

@@ -11,7 +11,7 @@ dateCreated: '2014-05-18T12:16:33Z'
 <div class="infobox zone-i">
 <table>
 <tr><th colspan="2">Spline Testing</th></tr>
-<tr><td colspan="2"><img src="/images/SplineTesting.png" alt="Spline Testing"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/splinetesting.png" alt="Spline Testing"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>4x6, 5x6</td></tr>
 <tr><td><strong>Style</strong></td><td>Outbuilding</td></tr>

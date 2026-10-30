@@ -75,7 +75,7 @@ The second release of [2023](/2023), NAM 47, saw the introduction of the Draggab
 
 ## Technical Information
 
-<img src="/images/Road.jpg" title="A avenue/road interchange, released as part of a pre-NAM transit mod." width="250" alt="A avenue/road interchange, released as part of a pre-NAM transit mod." /> <img src="/images/Smoncrienewcrossings.jpg" title="On-slope and double-height network puzzle pieces are some highly-anticipated components included in the past few NAM versions." width="250" alt="On-slope and double-height network puzzle pieces are some highly-anticipated components included in the past few NAM versions." />
+<img src="/_files/images/road.jpg" title="A avenue/road interchange, released as part of a pre-NAM transit mod." width="250" alt="A avenue/road interchange, released as part of a pre-NAM transit mod." /> <img src="/_files/images/smoncrienewcrossings.jpg" title="On-slope and double-height network puzzle pieces are some highly-anticipated components included in the past few NAM versions." width="250" alt="On-slope and double-height network puzzle pieces are some highly-anticipated components included in the past few NAM versions." />
 
 The NAM is a [RUL](/rul)-bound Plugin, in that it contains modified versions of the game's RUL Files, which control the placement and layout of transit items in-game. These RUL modifications are what allow for the numerous puzzle pieces, draggable additions and bridges that are possible with the NAM. The NAM Team serves as a community steward for the RUL files, ensuring that all RUL-bound transit content is compatible and interoperable.
 

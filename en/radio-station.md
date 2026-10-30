@@ -11,7 +11,7 @@ dateCreated: '2022-09-02T06:59:47Z'
 <div class="infobox">
 <table>
 <tr><th colspan="2">Radio Station</th></tr>
-<tr><td colspan="2"><img src="/images/Radio_Station.png" alt="Radio Station"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/radio-station.png" alt="Radio Station"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>2x2</td></tr>
 <tr><td><strong>Type</strong></td><td>Rewards</td></tr>

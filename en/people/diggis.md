@@ -9,7 +9,7 @@ dateCreated: '2008-08-30T06:37:45Z'
 ---
 
 <figure>
-<img src="/images/Diggis.gif" title="Diggis&#39;s All Blacks avatar" width="300" />
+<img src="/_files/images/diggis.gif" title="Diggis&#39;s All Blacks avatar" width="300" />
 <figcaption>Diggis's All Blacks avatar</figcaption>
 </figure>
 

@@ -11,7 +11,7 @@ dateCreated: '2013-09-08T04:29:41Z'
 <div class="infobox">
 <table>
 <tr><th colspan="2">Large Medical Center</th></tr>
-<tr><td colspan="2"><img src="/images/Large_Medical_Center.png" alt="Large Medical Center"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/large-medical-center.png" alt="Large Medical Center"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>4x3</td></tr>
 <tr><td><strong>Type</strong></td><td>Health and Education</td></tr>

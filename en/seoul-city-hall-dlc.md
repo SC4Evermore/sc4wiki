@@ -11,7 +11,7 @@ dateCreated: '2013-04-01T11:26:17Z'
 <div class="infobox">
 <table>
 <tr><th colspan="2">Seoul City Hall (DLC)</th></tr>
-<tr><td colspan="2"><img src="/images/Seoul_City_Hall.png" alt="Seoul City Hall (DLC)"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/seoul-city-hall.png" alt="Seoul City Hall (DLC)"></td></tr>
 <tr><td><strong>Download</strong></td><td>https://dl.dropbox.com/u/9300614/maxis_files/Plugin_004_SeoulCityHall.dat</td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>6x5</td></tr>

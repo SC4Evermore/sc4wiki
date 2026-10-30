@@ -15,7 +15,7 @@ dateCreated: '2014-05-11T15:57:54Z'
 <div class="infobox zone-i">
 <table>
 <tr><th colspan="2">Vilett Textiles</th></tr>
-<tr><td colspan="2"><img src="/images/IM28x44_2ManuOut6_0821.png" alt="Vilett Textiles"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/im28x44-2manuout6-0821.png" alt="Vilett Textiles"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>2x4, 3x3</td></tr>
 <tr><td><strong>Style</strong></td><td>Outbuilding</td></tr>
@@ -84,7 +84,7 @@ Due to this lot's large size and the fact it is an Outbuilding, it can be hard t
 <div class="infobox zone-i">
 <table>
 <tr><th colspan="2">Vilett Textiles</th></tr>
-<tr><td colspan="2"><img src="/images/IM28x40_2ManuOut8_0823.png" alt="Vilett Textiles"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/im28x40-2manuout8-0823.png" alt="Vilett Textiles"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>2x4, 3x3, 3x4, 4x3</td></tr>
 <tr><td><strong>Style</strong></td><td>Outbuilding</td></tr>

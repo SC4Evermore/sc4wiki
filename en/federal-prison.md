@@ -11,7 +11,7 @@ dateCreated: '2013-03-31T08:03:44Z'
 <div class="infobox">
 <table>
 <tr><th colspan="2">Federal Prison</th></tr>
-<tr><td colspan="2"><img src="/images/Federal_Prison.png" alt="Federal Prison"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/federal-prison.png" alt="Federal Prison"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>4x4</td></tr>
 <tr><td><strong>Type</strong></td><td>Public SafetyBusiness Deals</td></tr>

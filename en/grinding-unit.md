@@ -11,7 +11,7 @@ dateCreated: '2014-05-14T09:00:24Z'
 <div class="infobox zone-i">
 <table>
 <tr><th colspan="2">Grinding Unit</th></tr>
-<tr><td colspan="2"><img src="/images/GrindingUnit.png" alt="Grinding Unit"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/grindingunit.png" alt="Grinding Unit"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>1x2, 2x2</td></tr>
 <tr><td><strong>Style</strong></td><td>Machinery</td></tr>

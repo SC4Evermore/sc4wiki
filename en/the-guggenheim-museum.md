@@ -11,7 +11,7 @@ dateCreated: '2013-04-01T08:19:19Z'
 <div class="infobox">
 <table>
 <tr><th colspan="2">The Guggenheim Museum</th></tr>
-<tr><td colspan="2"><img src="/images/Guggenheim_Museum.png" alt="The Guggenheim Museum"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/guggenheim-museum.png" alt="The Guggenheim Museum"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>6x4</td></tr>
 <tr><td><strong>Type</strong></td><td>Parks and Recreation</td></tr>

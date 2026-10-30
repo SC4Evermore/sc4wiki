@@ -11,7 +11,7 @@ dateCreated: '2014-05-14T11:17:22Z'
 <div class="infobox zone-i">
 <table>
 <tr><th colspan="2">Testing Bays</th></tr>
-<tr><td colspan="2"><img src="/images/TestingBays.png" alt="Testing Bays"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/testingbays.png" alt="Testing Bays"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>1x2, 2x2</td></tr>
 <tr><td><strong>Style</strong></td><td>Outbuilding</td></tr>

@@ -148,7 +148,7 @@ The Min/Max for NSEW values is -8 to 8. Values outside of this may cause automat
 
     Z = Height. 0 = Ground.
 
-The following is a simple diagram of how Entry/Exit Sides and Path Coordinates works for any single Path for any given Transport Type. Entry/Exit Sides are in red, Path Coordinates are in blue. ![ \|none\| \| ](/images/NSPath1.jpg)
+The following is a simple diagram of how Entry/Exit Sides and Path Coordinates works for any single Path for any given Transport Type. Entry/Exit Sides are in red, Path Coordinates are in blue. ![ \|none\| \| ](/_files/images/nspath1.jpg)
 
 *Note:* for the Path and Stop Point coordinates, it is a good idea to take a look at the Piece/File/Rules that the path(s) are for, especially when the height of the network piece moves.
 

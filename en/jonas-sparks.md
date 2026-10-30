@@ -11,7 +11,7 @@ dateCreated: '2014-01-06T12:07:09Z'
 <div class="infobox">
 <table>
 <tr><th colspan="2">Jonas Sparks</th></tr>
-<tr><td colspan="2"><img src="/images/Jonas_Sparks.png" alt="Jonas Sparks"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/jonas-sparks.png" alt="Jonas Sparks"></td></tr>
 <tr><td><strong>Department</strong></td><td>Utilities</td></tr>
 <tr><td><strong>Lua</strong></td><td>CA63E2A3 4A5E8EF6 FF4F6B4E</td></tr>
 <tr><td><strong>Englishname</strong></td><td>Jonas Sparks</td></tr>

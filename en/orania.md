@@ -11,7 +11,7 @@ dateCreated: '2008-08-29T03:22:15Z'
 <div class="infobox">
 <table>
 <tr><th colspan="2">Orania</th></tr>
-<tr><td colspan="2"><img src="/images/Oran1.jpg" alt="Orania"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/oran1.jpg" alt="Orania"></td></tr>
 <tr><td><strong>Type</strong></td><td>Mayor Diary</td></tr>
 <tr><td><strong>Author</strong></td><td>Youcefk69</td></tr>
 <tr><td><strong>Site</strong></td><td>sc4d</td></tr>

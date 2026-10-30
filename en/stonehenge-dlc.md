@@ -11,7 +11,7 @@ dateCreated: '2013-09-07T10:43:53Z'
 <div class="infobox">
 <table>
 <tr><th colspan="2">Stonehenge (DLC)</th></tr>
-<tr><td colspan="2"><img src="/images/Stonehenge.png" alt="Stonehenge (DLC)"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/stonehenge.png" alt="Stonehenge (DLC)"></td></tr>
 <tr><td><strong>Download</strong></td><td><a href="https://dl.dropbox.com/u/9300614/maxis_files/Plugin_016_Stonehenge.dat">Plugin Pack 016</a></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>5x5</td></tr>

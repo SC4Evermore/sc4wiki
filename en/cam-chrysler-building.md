@@ -13,7 +13,7 @@ dateCreated: '2019-08-11T11:31:02Z'
 <div class="infobox zone-c">
 <table>
 <tr><th colspan="2">CAM: Chrysler Building</th></tr>
-<tr><td colspan="2"><img src="/images/Chrysler_Building.png" alt="CAM: Chrysler Building"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/chrysler-building.png" alt="CAM: Chrysler Building"></td></tr>
 <tr><td><strong>Author</strong></td><td>CAM Team</td></tr>
 <tr><td><strong>Size</strong></td><td>4x4</td></tr>
 <tr><td><strong>Style</strong></td><td>Chicago, New York</td></tr>

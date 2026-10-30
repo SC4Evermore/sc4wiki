@@ -11,7 +11,7 @@ dateCreated: '2008-09-17T22:29:30Z'
 <div class="infobox">
 <table>
 <tr><th colspan="2">Nerdly cities</th></tr>
-<tr><td colspan="2"><img src="/images/Bend_in_the_River.jpg" alt="Nerdly cities"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/bend-in-the-river.jpg" alt="Nerdly cities"></td></tr>
 <tr><td><strong>Type</strong></td><td>City Journal / Mayor's Diary</td></tr>
 <tr><td><strong>Author</strong></td><td>nerdly_dood</td></tr>
 <tr><td><strong>Tag1</strong></td><td>Recently Published</td></tr>

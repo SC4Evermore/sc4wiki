@@ -11,7 +11,7 @@ dateCreated: '2022-09-04T10:31:02Z'
 <div class="infobox">
 <table>
 <tr><th colspan="2">Cruise Ship Port</th></tr>
-<tr><td colspan="2"><img src="/images/Cruise_Ship_Port.png" alt="Cruise Ship Port"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/cruise-ship-port.png" alt="Cruise Ship Port"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>4x5</td></tr>
 <tr><td><strong>Type</strong></td><td>Parks and RecreationRewards</td></tr>

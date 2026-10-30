@@ -9,7 +9,7 @@ dateCreated: '2008-09-13T14:01:31Z'
 ---
 
 <figure>
-<img src="/images/Maito.gif" title="Krio&#39;s &quot;milk carton&quot; avatar" width="300" />
+<img src="/_files/images/maito.gif" title="Krio&#39;s &quot;milk carton&quot; avatar" width="300" />
 <figcaption>Krio's "milk carton" avatar</figcaption>
 </figure>
 

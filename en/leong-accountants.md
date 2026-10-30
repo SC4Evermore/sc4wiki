@@ -11,7 +11,7 @@ dateCreated: '2014-05-06T16:48:54Z'
 <div class="infobox zone-c">
 <table>
 <tr><th colspan="2">Leong Accountants</th></tr>
-<tr><td colspan="2"><img src="/images/Leong_Accounting_Baybrack_Building.png" alt="Leong Accountants"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/leong-accounting-baybrack-building.png" alt="Leong Accountants"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>2x2, 2x3, 3x2, 3x3</td></tr>
 <tr><td><strong>Style</strong></td><td>Chicago</td></tr>

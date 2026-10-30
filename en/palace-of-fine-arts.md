@@ -11,7 +11,7 @@ dateCreated: '2014-02-02T05:36:49Z'
 <div class="infobox">
 <table>
 <tr><th colspan="2">Palace of Fine Arts</th></tr>
-<tr><td colspan="2"><img src="/images/Palace_of_Fine_Arts.png" alt="Palace of Fine Arts"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/palace-of-fine-arts.png" alt="Palace of Fine Arts"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>10x11</td></tr>
 <tr><td><strong>Type</strong></td><td>Parks and Recreation</td></tr>

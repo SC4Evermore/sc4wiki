@@ -18,7 +18,7 @@ dateCreated: '2008-07-27T14:10:23Z'
 </table>
 </div>
 
-<img src="/images/OWR3.jpg" title="The OWR-3 as it appeared in an initial Orthogonal Prototype in 2008" width="400" alt="The OWR-3 as it appeared in an initial Orthogonal Prototype in 2008" /> The **Network Widening Mod** (**NWM**) is a transit mod produced by the [NAM Team](/nam/members), consisting of a series of [Override Networks](/override-network), which are wider variants of the existing in-game networks, extending the [RHW](/rhw) concept to Car-Based Surface Networks. Since the switch to the "Monolithic NAM" paradigm for the March [2013](/2013) release of NAM Version 31.0, the NWM is now included as an option in the full NAM package.
+<img src="/_files/images/owr3.jpg" title="The OWR-3 as it appeared in an initial Orthogonal Prototype in 2008" width="400" alt="The OWR-3 as it appeared in an initial Orthogonal Prototype in 2008" /> The **Network Widening Mod** (**NWM**) is a transit mod produced by the [NAM Team](/nam/members), consisting of a series of [Override Networks](/override-network), which are wider variants of the existing in-game networks, extending the [RHW](/rhw) concept to Car-Based Surface Networks. Since the switch to the "Monolithic NAM" paradigm for the March [2013](/2013) release of NAM Version 31.0, the NWM is now included as an option in the full NAM package.
 
 ## History
 

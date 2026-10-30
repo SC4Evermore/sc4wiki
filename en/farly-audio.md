@@ -13,7 +13,7 @@ dateCreated: '2015-05-10T10:08:29Z'
 <div class="infobox zone-c">
 <table>
 <tr><th colspan="2">Farly Audio</th></tr>
-<tr><td colspan="2"><img src="/images/Wiki_no_image.png" alt="Farly Audio"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/wiki-no-image.png" alt="Farly Audio"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>2x2, 2x3</td></tr>
 <tr><td><strong>Style</strong></td><td>Chicago</td></tr>

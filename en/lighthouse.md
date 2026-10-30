@@ -11,7 +11,7 @@ dateCreated: '2014-01-22T04:46:54Z'
 <div class="infobox">
 <table>
 <tr><th colspan="2">Lighthouse</th></tr>
-<tr><td colspan="2"><img src="/images/Lighthouse.png" alt="Lighthouse"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/lighthouse.png" alt="Lighthouse"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>3x3</td></tr>
 <tr><td><strong>Type</strong></td><td>GovernmentRewards</td></tr>

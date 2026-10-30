@@ -22,27 +22,27 @@ The CS§ variants are called [Small Shops](/small-shops) and the CS§§§ varian
 <thead>
 <tr>
 <th><figure>
-<img src="/images/1ChicagoRetailStores1_TheRivelloBuilding.png" title="link:1 Chicago Retail Stores 1" width="150" />
+<img src="/_files/images/1chicagoretailstores1-therivellobuilding.png" title="link:1 Chicago Retail Stores 1" width="150" />
 <figcaption>link:1 Chicago Retail Stores 1</figcaption>
 </figure></th>
 <th><figure>
-<img src="/images/ChiRetailStores3_MagerBlueprints.png" title="link:2_Chicago_Retail_Stores_3" width="150" />
+<img src="/_files/images/chiretailstores3-magerblueprints.png" title="link:2_Chicago_Retail_Stores_3" width="150" />
 <figcaption>link:2_Chicago_Retail_Stores_3</figcaption>
 </figure></th>
 <th><figure>
-<img src="/images/ChiRetailStores4_KingDesign.png" title="link:4_Chicago_Retail_Stores_4" width="150" />
+<img src="/_files/images/chiretailstores4-kingdesign.png" title="link:4_Chicago_Retail_Stores_4" width="150" />
 <figcaption>link:4_Chicago_Retail_Stores_4</figcaption>
 </figure></th>
 <th><figure>
-<img src="/images/ChiRetailStores5_LayArchitects.png" title="link:4_Chicago_Retail_Stores_5|150px" width="150" />
+<img src="/_files/images/chiretailstores5-layarchitects.png" title="link:4_Chicago_Retail_Stores_5|150px" width="150" />
 <figcaption>link:4_Chicago_Retail_Stores_5|150px</figcaption>
 </figure></th>
 <th><figure>
-<img src="/images/Leong_Accounting_Baybrack_Building.png" title="link:Baybrack_Building|150px" width="150" />
+<img src="/_files/images/leong-accounting-baybrack-building.png" title="link:Baybrack_Building|150px" width="150" />
 <figcaption>link:Baybrack_Building|150px</figcaption>
 </figure></th>
 <th><figure>
-<img src="/images/Wiki_no_image.png" title="link:5_Chicago_Retail_Stores_7" width="150" />
+<img src="/_files/images/wiki-no-image.png" title="link:5_Chicago_Retail_Stores_7" width="150" />
 <figcaption>link:5_Chicago_Retail_Stores_7</figcaption>
 </figure></th>
 </tr>
@@ -66,27 +66,27 @@ The CS§ variants are called [Small Shops](/small-shops) and the CS§§§ varian
 <thead>
 <tr>
 <th><figure>
-<img src="/images/Stores_SimpsonInc.png" title="link:Stores" width="150" />
+<img src="/_files/images/stores-simpsoninc.png" title="link:Stores" width="150" />
 <figcaption>link:Stores</figcaption>
 </figure></th>
 <th><figure>
-<img src="/images/2NYMediumStore3_Wright&Daughter.png" title="link:New York_Retail_Stores_3" width="150" />
+<img src="/_files/images/2nymediumstore3-wright-and-daughter.png" title="link:New York_Retail_Stores_3" width="150" />
 <figcaption>link:New York_Retail_Stores_3</figcaption>
 </figure></th>
 <th><figure>
-<img src="/images/Wiki_no_image.png" title="link:New York_Retail_Stores_4" width="150" />
+<img src="/_files/images/wiki-no-image.png" title="link:New York_Retail_Stores_4" width="150" />
 <figcaption>link:New York_Retail_Stores_4</figcaption>
 </figure></th>
 <th><figure>
-<img src="/images/Wiki_no_image.png" title="link:New York_Retail_Stores_5" width="150" />
+<img src="/_files/images/wiki-no-image.png" title="link:New York_Retail_Stores_5" width="150" />
 <figcaption>link:New York_Retail_Stores_5</figcaption>
 </figure></th>
 <th><figure>
-<img src="/images/Wiki_no_image.png" title="link:New York_Retail_Stores_6" width="150" />
+<img src="/_files/images/wiki-no-image.png" title="link:New York_Retail_Stores_6" width="150" />
 <figcaption>link:New York_Retail_Stores_6</figcaption>
 </figure></th>
 <th><figure>
-<img src="/images/Wiki_no_image.png" title="link:New York_Retail_Stores_7" width="150" />
+<img src="/_files/images/wiki-no-image.png" title="link:New York_Retail_Stores_7" width="150" />
 <figcaption>link:New York_Retail_Stores_7</figcaption>
 </figure></th>
 </tr>
@@ -110,27 +110,27 @@ The CS§ variants are called [Small Shops](/small-shops) and the CS§§§ varian
 <thead>
 <tr>
 <th><figure>
-<img src="/images/Wiki_no_image.png" title="link:1_Houston_Retail_Stores_1" width="150" />
+<img src="/_files/images/wiki-no-image.png" title="link:1_Houston_Retail_Stores_1" width="150" />
 <figcaption>link:1_Houston_Retail_Stores_1</figcaption>
 </figure></th>
 <th><figure>
-<img src="/images/Wiki_no_image.png" title="link:2_Houston_Retail_Stores_3" width="150" />
+<img src="/_files/images/wiki-no-image.png" title="link:2_Houston_Retail_Stores_3" width="150" />
 <figcaption>link:2_Houston_Retail_Stores_3</figcaption>
 </figure></th>
 <th><figure>
-<img src="/images/Wiki_no_image.png" title="link:4_Houston_Retail_Stores_4" width="150" />
+<img src="/_files/images/wiki-no-image.png" title="link:4_Houston_Retail_Stores_4" width="150" />
 <figcaption>link:4_Houston_Retail_Stores_4</figcaption>
 </figure></th>
 <th><figure>
-<img src="/images/Wiki_no_image.png" title="link:4_Houston_Retail_Stores_5" width="150" />
+<img src="/_files/images/wiki-no-image.png" title="link:4_Houston_Retail_Stores_5" width="150" />
 <figcaption>link:4_Houston_Retail_Stores_5</figcaption>
 </figure></th>
 <th><figure>
-<img src="/images/Wiki_no_image.png" title="link:6_Houston_Retail_Stores_6" width="150" />
+<img src="/_files/images/wiki-no-image.png" title="link:6_Houston_Retail_Stores_6" width="150" />
 <figcaption>link:6_Houston_Retail_Stores_6</figcaption>
 </figure></th>
 <th><figure>
-<img src="/images/Wiki_no_image.png" title="link:5_Houston_Retail_Stores_7" width="150" />
+<img src="/_files/images/wiki-no-image.png" title="link:5_Houston_Retail_Stores_7" width="150" />
 <figcaption>link:5_Houston_Retail_Stores_7</figcaption>
 </figure></th>
 </tr>
@@ -155,27 +155,27 @@ These lots are not named 'Retail Stores', however they are the Euro Tileset equi
 <thead>
 <tr>
 <th><figure>
-<img src="/images/Wiki_no_image.png" title="link:Sim_Spa_and_Beauty" width="150" />
+<img src="/_files/images/wiki-no-image.png" title="link:Sim_Spa_and_Beauty" width="150" />
 <figcaption>link:Sim_Spa_and_Beauty</figcaption>
 </figure></th>
 <th><figure>
-<img src="/images/Wiki_no_image.png" title="link:Indigo_Family_Game_Center" width="150" />
+<img src="/_files/images/wiki-no-image.png" title="link:Indigo_Family_Game_Center" width="150" />
 <figcaption>link:Indigo_Family_Game_Center</figcaption>
 </figure></th>
 <th><figure>
-<img src="/images/Wiki_no_image.png" title="link:JEK_Equestrian_Marketplace" width="150" />
+<img src="/_files/images/wiki-no-image.png" title="link:JEK_Equestrian_Marketplace" width="150" />
 <figcaption>link:JEK_Equestrian_Marketplace</figcaption>
 </figure></th>
 <th><figure>
-<img src="/images/Wiki_no_image.png" title="link:Sixth_Floor_Fashion_Centre" width="150" />
+<img src="/_files/images/wiki-no-image.png" title="link:Sixth_Floor_Fashion_Centre" width="150" />
 <figcaption>link:Sixth_Floor_Fashion_Centre</figcaption>
 </figure></th>
 <th><figure>
-<img src="/images/Wiki_no_image.png" title="link:Blue_Platter_Limited" width="150" />
+<img src="/_files/images/wiki-no-image.png" title="link:Blue_Platter_Limited" width="150" />
 <figcaption>link:Blue_Platter_Limited</figcaption>
 </figure></th>
 <th><figure>
-<img src="/images/Wiki_no_image.png" title="link:Blue_Platter_Limited" width="150" />
+<img src="/_files/images/wiki-no-image.png" title="link:Blue_Platter_Limited" width="150" />
 <figcaption>link:Blue_Platter_Limited</figcaption>
 </figure></th>
 </tr>

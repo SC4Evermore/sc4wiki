@@ -13,7 +13,7 @@ dateCreated: '2019-08-11T11:29:50Z'
 <div class="infobox zone-c">
 <table>
 <tr><th colspan="2">CAM: The Empire State Building</th></tr>
-<tr><td colspan="2"><img src="/images/Empire_State_Building.png" alt="CAM: The Empire State Building"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/empire-state-building.png" alt="CAM: The Empire State Building"></td></tr>
 <tr><td><strong>Author</strong></td><td>CAM Team</td></tr>
 <tr><td><strong>Size</strong></td><td>8x4</td></tr>
 <tr><td><strong>Style</strong></td><td>Chicago, New York</td></tr>

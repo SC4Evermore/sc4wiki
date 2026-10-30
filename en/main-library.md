@@ -11,7 +11,7 @@ dateCreated: '2014-01-10T15:40:18Z'
 <div class="infobox">
 <table>
 <tr><th colspan="2">Main Library</th></tr>
-<tr><td colspan="2"><img src="/images/Main_Library.png" alt="Main Library"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/main-library.png" alt="Main Library"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>3x4</td></tr>
 <tr><td><strong>Type</strong></td><td>Health and EducationRewards</td></tr>

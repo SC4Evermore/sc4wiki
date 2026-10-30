@@ -22,7 +22,7 @@ Patricius is a known author of 4 City Journals -- [Patrician City](http://www.si
 
 > Main article: [Patrician City](/patrician-city)
 
-<img src="/images/Patrician_City_01.jpg" title="A district in Patrician City, showing PM&#39;s early work" width="200" alt="A district in Patrician City, showing PM&#39;s early work" /> Patrician City was Patricius Maximus's first attempt at a CJ. It can be divided into three phases; The **Original Region**, **Diversification**, and the **Storyline** phase.
+<img src="/_files/images/patrician-city-01.jpg" title="A district in Patrician City, showing PM&#39;s early work" width="200" alt="A district in Patrician City, showing PM&#39;s early work" /> Patrician City was Patricius Maximus's first attempt at a CJ. It can be divided into three phases; The **Original Region**, **Diversification**, and the **Storyline** phase.
 
 First, Patricius showed the parent region, Patrician City. As shown at right, the region was one of PM's earliest, and displayed a characteristic newcomer appearance. The region had a population of around 300,000. There were still problems with it, chief among them mild weaving issues. It did have areas of beauty, the foremost of them being the Delta Islands suburb.
 
@@ -40,7 +40,7 @@ The Patrician storyline phase was the story of the establishment of a Patrician 
 
 > Main article: [Franklin County](/franklin-county)
 
-<img src="/images/LIH_Emperador_in_Central_Franklin.jpg" title="Emperador Hotel, LIH Quarter, Central Franklin" width="200" alt="Emperador Hotel, LIH Quarter, Central Franklin" /> Franklin County was created by Patricius Maximus on 2 June 2008, only 3 days after the [Simtropolis Site Hack](/simtropolis-site-hack). It showcases the development of a region called Franklin County from it's creation 4 billion years ago to the present day. There are story arcs within the general plot, which are showcased below. The CJ is in union with 9 others in the Alliance of Fuel Developing and Exporting States.
+<img src="/_files/images/lih-emperador-in-central-franklin.jpg" title="Emperador Hotel, LIH Quarter, Central Franklin" width="200" alt="Emperador Hotel, LIH Quarter, Central Franklin" /> Franklin County was created by Patricius Maximus on 2 June 2008, only 3 days after the [Simtropolis Site Hack](/simtropolis-site-hack). It showcases the development of a region called Franklin County from it's creation 4 billion years ago to the present day. There are story arcs within the general plot, which are showcased below. The CJ is in union with 9 others in the Alliance of Fuel Developing and Exporting States.
 
 It is ser on an earth-like planet which Patricius will not provide specifics on, a region called Franklin County was the home of two freeways, I-30 and I-85, which intersected via a cloverleaf. The first settlers came to what is now Franklin proper and the region snowballed. A peninsula between the Franklin River and Franklin Creek developed into the downtown of the county.
 
@@ -60,7 +60,7 @@ The most significant story arc in Franklin County is Agonus. A meteor landed in 
 
 ### Interchanges
 
-<img src="/images/Patricius_Volleyball_SPUI.jpg" title="A Volleyball SPUI" width="200" alt="A Volleyball SPUI" /> Patricius is an interchange builder and overall transit planner, widely regarded as on par with [Haljackey](/people/haljackey). Patricius has aversion to weaving on freeways. He has also developed a reputation with some for hitting congestion before it appears rather than after.
+<img src="/_files/images/patricius-volleyball-spui.jpg" title="A Volleyball SPUI" width="200" alt="A Volleyball SPUI" /> Patricius is an interchange builder and overall transit planner, widely regarded as on par with [Haljackey](/people/haljackey). Patricius has aversion to weaving on freeways. He has also developed a reputation with some for hitting congestion before it appears rather than after.
 
 He has also recieved inspiration from others. Haljackey, who first displayed an RHW cloverstack, inspired Patricius to create his own. He has since modified his cloverstacks to be more compact.
 

@@ -13,7 +13,7 @@ dateCreated: '2011-08-01T10:44:53Z'
 <div class="infobox zone-c">
 <table>
 <tr><th colspan="2">Houston Boutiques 1</th></tr>
-<tr><td colspan="2"><img src="/images/Wiki_no_image.png" alt="Houston Boutiques 1"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/wiki-no-image.png" alt="Houston Boutiques 1"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>1x2, 1x3, 2x2, 2x3</td></tr>
 <tr><td><strong>Style</strong></td><td>All</td></tr>

@@ -11,7 +11,7 @@ dateCreated: '2008-09-13T07:08:18Z'
 <div class="infobox">
 <table>
 <tr><th colspan="2">Walker&#x27;s Island</th></tr>
-<tr><td colspan="2"><img src="/images/LaRochelle.jpg" alt="Walker&#x27;s Island"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/larochelle.jpg" alt="Walker&#x27;s Island"></td></tr>
 <tr><td><strong>Type</strong></td><td>Mayor Diary</td></tr>
 <tr><td><strong>Author</strong></td><td>Urban</td></tr>
 <tr><td><strong>Site</strong></td><td>sc4d</td></tr>

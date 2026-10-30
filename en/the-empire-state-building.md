@@ -13,7 +13,7 @@ dateCreated: '2013-04-01T08:28:20Z'
 <div class="infobox">
 <table>
 <tr><th colspan="2">The Empire State Building</th></tr>
-<tr><td colspan="2"><img src="/images/Empire_State_Building.png" alt="The Empire State Building"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/empire-state-building.png" alt="The Empire State Building"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>8x4</td></tr>
 <tr><td><strong>Type</strong></td><td>Parks and Recreation</td></tr>

@@ -11,7 +11,7 @@ dateCreated: '2014-06-28T12:35:10Z'
 <div class="infobox zone-r">
 <table>
 <tr><th colspan="2">Bennet Apartments</th></tr>
-<tr><td colspan="2"><img src="/images/Bennet_Apartments.png" alt="Bennet Apartments"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/bennet-apartments.png" alt="Bennet Apartments"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>4x2</td></tr>
 <tr><td><strong>Style</strong></td><td>Houston</td></tr>

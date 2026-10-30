@@ -11,7 +11,7 @@ dateCreated: '2013-03-30T04:43:15Z'
 <div class="infobox">
 <table>
 <tr><th colspan="2">Desalination Plant (Unimplemented)</th></tr>
-<tr><td colspan="2"><img src="/images/Wiki_no_image.png" alt="Desalination Plant (Unimplemented)"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/wiki-no-image.png" alt="Desalination Plant (Unimplemented)"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 </table>
 </div>

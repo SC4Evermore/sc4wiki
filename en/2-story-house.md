@@ -15,7 +15,7 @@ dateCreated: '2019-08-09T12:15:52Z'
 <div class="infobox zone-r">
 <table>
 <tr><th colspan="2">2 Story House</th></tr>
-<tr><td colspan="2"><img src="/images/2_Story_House_Variant_1.png" alt="2 Story House"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/2-story-house-variant-1.png" alt="2 Story House"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>1x1, 1x2, 1x3, 2x1, 2x2, 2x3, 3x2</td></tr>
 <tr><td><strong>Style</strong></td><td>Chicago</td></tr>
@@ -96,7 +96,7 @@ This area intentionally left blank. Please continue scrolling for [Large Variant
 <div class="infobox zone-r">
 <table>
 <tr><th colspan="2">2 Story House</th></tr>
-<tr><td colspan="2"><img src="/images/2_Story_House_Large_Variant_1.png" alt="2 Story House"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/2-story-house-large-variant-1.png" alt="2 Story House"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>1x2, 1x3, 2x1, 2x2, 2x3, 3x2</td></tr>
 <tr><td><strong>Style</strong></td><td>Chicago</td></tr>

@@ -11,7 +11,7 @@ dateCreated: '2014-05-20T13:01:05Z'
 <div class="infobox zone-i">
 <table>
 <tr><th colspan="2">Dead Forest Paper</th></tr>
-<tr><td colspan="2"><img src="/images/DeadForestPaper.png" alt="Dead Forest Paper"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/deadforestpaper.png" alt="Dead Forest Paper"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>4x4, 4x5, 4x6, 5x4, 6x4</td></tr>
 <tr><td><strong>Style</strong></td><td>Anchor</td></tr>

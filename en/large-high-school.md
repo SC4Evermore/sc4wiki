@@ -11,7 +11,7 @@ dateCreated: '2014-01-10T13:51:44Z'
 <div class="infobox">
 <table>
 <tr><th colspan="2">Large High School</th></tr>
-<tr><td colspan="2"><img src="/images/Large_High_School.png" alt="Large High School"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/large-high-school.png" alt="Large High School"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>4x6</td></tr>
 <tr><td><strong>Type</strong></td><td>Health and Education Rewards</td></tr>

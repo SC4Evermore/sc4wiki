@@ -11,7 +11,7 @@ dateCreated: '2008-08-28T18:39:36Z'
 <div class="infobox">
 <table>
 <tr><th colspan="2">Votkinsk</th></tr>
-<tr><td colspan="2"><img src="/images/Vot1.jpg" alt="Votkinsk"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/vot1.jpg" alt="Votkinsk"></td></tr>
 <tr><td><strong>Type</strong></td><td>Mayor Diary</td></tr>
 <tr><td><strong>Author</strong></td><td>Nikolaï</td></tr>
 <tr><td><strong>Site</strong></td><td>sc4d</td></tr>

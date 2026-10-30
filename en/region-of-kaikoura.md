@@ -11,7 +11,7 @@ dateCreated: '2008-09-07T07:27:03Z'
 <div class="infobox">
 <table>
 <tr><th colspan="2">Region of Kaikoura</th></tr>
-<tr><td colspan="2"><img src="/images/Camargua35avr3612204552gb1.jpg" alt="Region of Kaikoura"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/camargua35avr3612204552gb1.jpg" alt="Region of Kaikoura"></td></tr>
 <tr><td><strong>Type</strong></td><td>Mayor Diary</td></tr>
 <tr><td><strong>Author</strong></td><td>Simpson</td></tr>
 <tr><td><strong>Site</strong></td><td>SC4D</td></tr>

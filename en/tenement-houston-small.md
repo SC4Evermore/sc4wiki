@@ -13,7 +13,7 @@ dateCreated: '2014-06-18T10:57:07Z'
 <div class="infobox zone-r">
 <table>
 <tr><th colspan="2">Tenement (Houston, Small)</th></tr>
-<tr><td colspan="2"><img src="/images/Tenement_Houston_Small.png" alt="Tenement (Houston, Small)"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/tenement-houston-small.png" alt="Tenement (Houston, Small)"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>2x2, 2x3, 3x2</td></tr>
 <tr><td><strong>Style</strong></td><td>Houston</td></tr>

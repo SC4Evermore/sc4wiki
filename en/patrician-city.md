@@ -11,7 +11,7 @@ dateCreated: '2008-09-29T17:14:47Z'
 <div class="infobox">
 <table>
 <tr><th colspan="2">Patrician City</th></tr>
-<tr><td colspan="2"><img src="/images/Patrician_Asteroid_Impact.jpg" alt="Patrician City"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/patrician-asteroid-impact.jpg" alt="Patrician City"></td></tr>
 <tr><td><strong>Type</strong></td><td>City Journal</td></tr>
 <tr><td><strong>Author</strong></td><td>Patricius Maximus</td></tr>
 <tr><td><strong>Desc</strong></td><td>Patrician City was Patricius Maximus's first attempt at a CJ. It can be divided into three phases; The <strong>Original Region</strong>, <strong>Diversification</strong>, and the <strong>Storyline</strong> phase.

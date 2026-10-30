@@ -11,7 +11,7 @@ dateCreated: '2014-01-10T14:41:12Z'
 <div class="infobox">
 <table>
 <tr><th colspan="2">Private School</th></tr>
-<tr><td colspan="2"><img src="/images/Private_School.png" alt="Private School"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/private-school.png" alt="Private School"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>3x4 (Variant 1)<br> 2x4 (Others)</td></tr>
 <tr><td><strong>Type</strong></td><td>Health and EducationRewards</td></tr>

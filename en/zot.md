@@ -9,7 +9,7 @@ dateCreated: '2008-09-23T16:28:34Z'
 ---
 
 <figure>
-<img src="/images/Zots.png" title="Zots in the Game" width="300" />
+<img src="/_files/images/zots.png" title="Zots in the Game" width="300" />
 <figcaption>Zots in the Game</figcaption>
 </figure>
 

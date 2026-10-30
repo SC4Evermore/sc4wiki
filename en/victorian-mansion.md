@@ -11,7 +11,7 @@ dateCreated: '2014-06-28T16:32:17Z'
 <div class="infobox zone-r">
 <table>
 <tr><th colspan="2">Victorian Mansion</th></tr>
-<tr><td colspan="2"><img src="/images/Victorian_Mansion_Variant_1.png" alt="Victorian Mansion"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/victorian-mansion-variant-1.png" alt="Victorian Mansion"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>2x2, 2x3, 3x2, 3x3, 3x4, 4x3, 4x4, 4x5, 4x6</td></tr>
 <tr><td><strong>Style</strong></td><td>Chicago</td></tr>

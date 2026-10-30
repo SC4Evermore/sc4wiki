@@ -11,7 +11,7 @@ dateCreated: '2014-05-13T10:59:40Z'
 <div class="infobox zone-i">
 <table>
 <tr><th colspan="2">Cogg and Shuffle</th></tr>
-<tr><td colspan="2"><img src="/images/CoggAndShuffle.png" alt="Cogg and Shuffle"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/coggandshuffle.png" alt="Cogg and Shuffle"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>2x2, 2x3, 3x2</td></tr>
 <tr><td><strong>Style</strong></td><td>Machinery</td></tr>

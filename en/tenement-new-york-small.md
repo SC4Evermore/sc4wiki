@@ -13,7 +13,7 @@ dateCreated: '2014-06-18T10:51:33Z'
 <div class="infobox zone-r">
 <table>
 <tr><th colspan="2">Tenement (New York, Small)</th></tr>
-<tr><td colspan="2"><img src="/images/Tenement_New_York_Small.png" alt="Tenement (New York, Small)"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/tenement-new-york-small.png" alt="Tenement (New York, Small)"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>2x2, 2x3, 3x2</td></tr>
 <tr><td><strong>Style</strong></td><td>New York</td></tr>

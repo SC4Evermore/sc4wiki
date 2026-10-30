@@ -11,7 +11,7 @@ dateCreated: '2014-05-13T15:57:03Z'
 <div class="infobox zone-i">
 <table>
 <tr><th colspan="2">Andrews Semiconductor</th></tr>
-<tr><td colspan="2"><img src="/images/AndrewsSemiconductor.png" alt="Andrews Semiconductor"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/andrewssemiconductor.png" alt="Andrews Semiconductor"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>2x3, 3x2, 3x3</td></tr>
 <tr><td><strong>Style</strong></td><td>Anchor</td></tr>

@@ -11,7 +11,7 @@ dateCreated: '2017-12-27T06:09:45Z'
 <div class="infobox zone-i">
 <table>
 <tr><th colspan="2">Warehouse</th></tr>
-<tr><td colspan="2"><img src="/images/wiki_no_image.png" alt="Warehouse"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/wiki-no-image.png" alt="Warehouse"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>2x2, 2x3, 3x2</td></tr>
 <tr><td><strong>Style</strong></td><td>Outbuilding</td></tr>

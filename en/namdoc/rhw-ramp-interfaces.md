@@ -19,7 +19,7 @@ There are three methods for constructing RHW Ramp Interfaces, as described below
 In the case of a ramp interface such as the **RHW-4 Type A1**, the name indicates that the mainline is an RHW-4, and "Type A1" is an indication of the angle and width of the branch, as well as whether or not the branch contains any "exit only" or "acceleration" lanes that are subtracted or added to the mainline. When the digit is 1, it is an indication that the branch has a single-lane MIS network branch. For more on the different types, see the [Ramp Interface Types and Nomenclature](/namdoc/rhw-ramp-interfaces#ramp-interface-types-and-nomenclature) section below.
 
 <figure>
-<img src="/images/Rhw-rampinterface-anatomy.jpg" title="Anatomy of a Ramp Interface (shown on RHW-2 Type A1)" width="400" />
+<img src="/_files/images/rhw-rampinterface-anatomy.jpg" title="Anatomy of a Ramp Interface (shown on RHW-2 Type A1)" width="400" />
 <figcaption>Anatomy of a Ramp Interface (shown on RHW-2 Type A1)</figcaption>
 </figure>
 
@@ -88,7 +88,7 @@ Draggable Ramp Interfaces, or DRIs, are ramp interfaces that are constructed thr
 Elevated ramp interfaces can be constructed by dragging the appropriate elevated RHW network (L1-L4) or double-decker RHW through the DRI, which, provided the particular setup is supported by that network, will elevate the ramp. Many setups for narrower networks can be transformed into corresponding versions for wider networks by using the same method. This conversion is most reliable if the overriding network is dragged into the top end of the mainline.
 
 <figure>
-<img src="/images/Dri-table.png" title="Table of DRI Patterns by [woodb3kmaster](/people/woodb3kmaster)" />
+<img src="/_files/images/dri-table.png" title="Table of DRI Patterns by [woodb3kmaster](/people/woodb3kmaster)" />
 <figcaption>Table of DRI Patterns by [woodb3kmaster](/people/woodb3kmaster)</figcaption>
 </figure>
 

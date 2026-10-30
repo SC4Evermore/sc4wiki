@@ -11,7 +11,7 @@ dateCreated: '2014-01-10T07:04:55Z'
 <div class="infobox">
 <table>
 <tr><th colspan="2">Bettina Dean</th></tr>
-<tr><td colspan="2"><img src="/images/Bettina_Dean.png" alt="Bettina Dean"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/bettina-dean.png" alt="Bettina Dean"></td></tr>
 <tr><td><strong>Department</strong></td><td>Health and Education</td></tr>
 <tr><td><strong>Lua</strong></td><td>CA63E2A3 4A5E8EF6 FF4CE096</td></tr>
 <tr><td><strong>Englishname</strong></td><td>Bettina Dean</td></tr>

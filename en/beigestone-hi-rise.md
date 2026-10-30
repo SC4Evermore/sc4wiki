@@ -11,7 +11,7 @@ dateCreated: '2014-06-10T11:16:14Z'
 <div class="infobox zone-r">
 <table>
 <tr><th colspan="2">Beigestone Hi-Rise</th></tr>
-<tr><td colspan="2"><img src="/images/Beigestone_Hi-Rise.png" alt="Beigestone Hi-Rise"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/beigestone-hi-rise.png" alt="Beigestone Hi-Rise"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>3x2, 3x3</td></tr>
 <tr><td><strong>Style</strong></td><td>Euro</td></tr>

@@ -13,7 +13,7 @@ dateCreated: '2014-01-18T10:32:31Z'
 <div class="infobox">
 <table>
 <tr><th colspan="2">Casino</th></tr>
-<tr><td colspan="2"><img src="/images/Casino.png" alt="Casino"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/casino.png" alt="Casino"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>6x4</td></tr>
 <tr><td><strong>Type</strong></td><td>Business Deals</td></tr>

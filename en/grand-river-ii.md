@@ -9,7 +9,7 @@ dateCreated: '2019-08-11T11:06:13Z'
 ---
 
 <figure>
-<img src="/images/Bordertown_Region.jpg" title="The plain GRV Region|500px" />
+<img src="/_files/images/bordertown-region.jpg" title="The plain GRV Region|500px" />
 <figcaption>The plain GRV Region|500px</figcaption>
 </figure>
 

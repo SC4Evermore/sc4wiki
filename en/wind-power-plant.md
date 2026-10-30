@@ -11,7 +11,7 @@ dateCreated: '2013-03-30T06:01:00Z'
 <div class="infobox">
 <table>
 <tr><th colspan="2">Wind Power Plant</th></tr>
-<tr><td colspan="2"><img src="/images/Wind_Power_Plant.png" alt="Wind Power Plant"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/wind-power-plant.png" alt="Wind Power Plant"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>2x1</td></tr>
 <tr><td><strong>Type</strong></td><td>Utilities</td></tr>

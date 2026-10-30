@@ -11,7 +11,7 @@ dateCreated: '2014-06-16T14:19:23Z'
 <div class="infobox zone-r">
 <table>
 <tr><th colspan="2">Seth&#x27;s Shack</th></tr>
-<tr><td colspan="2"><img src="/images/Seths_Shack.png" alt="Seth&#x27;s Shack"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/seths-shack.png" alt="Seth&#x27;s Shack"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>1x1, 1x2, 1x3, 2x1</td></tr>
 <tr><td><strong>Style</strong></td><td>Euro</td></tr>

@@ -11,7 +11,7 @@ dateCreated: '2013-03-30T06:16:25Z'
 <div class="infobox">
 <table>
 <tr><th colspan="2">Natural Gas Power Plant</th></tr>
-<tr><td colspan="2"><img src="/images/Natural_Gas_Power_Plant.png" alt="Natural Gas Power Plant"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/natural-gas-power-plant.png" alt="Natural Gas Power Plant"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>4x4</td></tr>
 <tr><td><strong>Type</strong></td><td>Utilities</td></tr>

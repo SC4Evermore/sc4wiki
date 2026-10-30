@@ -11,7 +11,7 @@ dateCreated: '2014-01-11T12:03:50Z'
 <div class="infobox">
 <table>
 <tr><th colspan="2">Opera House</th></tr>
-<tr><td colspan="2"><img src="/images/Opera_House.png" alt="Opera House"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/opera-house.png" alt="Opera House"></td></tr>
 <tr><td><strong>Download</strong></td><td><a href="http://community.simtropolis.com/files/file/21342-opera-house-fix/">Opera House Fix at Simtropolis</a></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>3x4</td></tr>

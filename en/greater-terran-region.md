@@ -11,7 +11,7 @@ dateCreated: '2008-08-31T08:44:13Z'
 <div class="infobox">
 <table>
 <tr><th colspan="2">Greater Terran Region</th></tr>
-<tr><td colspan="2"><img src="/images/Downtown-Apr._16,_2291206646223.png" alt="Greater Terran Region"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/downtown-apr-16-2291206646223.png" alt="Greater Terran Region"></td></tr>
 <tr><td><strong>Type</strong></td><td>City Journal / Mayor's Diary</td></tr>
 <tr><td><strong>Author</strong></td><td>Haljackey</td></tr>
 <tr><td><strong>Tag1</strong></td><td>Classics</td></tr>

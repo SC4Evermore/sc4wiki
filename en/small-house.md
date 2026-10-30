@@ -11,7 +11,7 @@ dateCreated: '2014-06-14T08:00:17Z'
 <div class="infobox zone-r">
 <table>
 <tr><th colspan="2">Small House</th></tr>
-<tr><td colspan="2"><img src="/images/Small_House_1.png" alt="Small House"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/small-house-1.png" alt="Small House"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>1x1, 1x2, 1x3</td></tr>
 <tr><td><strong>Style</strong></td><td>Houston</td></tr>

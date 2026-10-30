@@ -11,7 +11,7 @@ dateCreated: '2014-01-28T09:31:32Z'
 <div class="infobox">
 <table>
 <tr><th colspan="2">House of Worship</th></tr>
-<tr><td colspan="2"><img src="/images/House_of_Worship_1.png" alt="House of Worship"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/house-of-worship-1.png" alt="House of Worship"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>3x3</td></tr>
 <tr><td><strong>Type</strong></td><td>Rewards</td></tr>

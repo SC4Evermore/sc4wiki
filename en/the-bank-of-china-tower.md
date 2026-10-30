@@ -13,7 +13,7 @@ dateCreated: '2014-01-31T12:04:23Z'
 <div class="infobox">
 <table>
 <tr><th colspan="2">The Bank of China Tower</th></tr>
-<tr><td colspan="2"><img src="/images/Bank_of_China_Tower.png" alt="The Bank of China Tower"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/bank-of-china-tower.png" alt="The Bank of China Tower"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>4x4</td></tr>
 <tr><td><strong>Type</strong></td><td>Parks and Recreation</td></tr>

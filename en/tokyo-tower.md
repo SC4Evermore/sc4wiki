@@ -11,7 +11,7 @@ dateCreated: '2014-01-29T09:35:01Z'
 <div class="infobox">
 <table>
 <tr><th colspan="2">Tokyo Tower</th></tr>
-<tr><td colspan="2"><img src="/images/Tokyo_Tower.png" alt="Tokyo Tower"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/tokyo-tower.png" alt="Tokyo Tower"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>6x6</td></tr>
 <tr><td><strong>Type</strong></td><td>Parks and Recreation</td></tr>

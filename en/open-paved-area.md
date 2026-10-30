@@ -13,7 +13,7 @@ dateCreated: '2014-02-03T10:50:07Z'
 <div class="infobox">
 <table>
 <tr><th colspan="2">Open Paved Area</th></tr>
-<tr><td colspan="2"><img src="/images/Wiki_no_image.png" alt="Open Paved Area"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/wiki-no-image.png" alt="Open Paved Area"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>1x1</td></tr>
 <tr><td><strong>Type</strong></td><td>Parks and Recreation</td></tr>

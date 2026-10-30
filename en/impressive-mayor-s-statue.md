@@ -11,7 +11,7 @@ dateCreated: '2022-09-03T10:52:54Z'
 <div class="infobox">
 <table>
 <tr><th colspan="2">Impressive Mayor&#x27;s Statue</th></tr>
-<tr><td colspan="2"><img src="/images/Impressive_Mayor's_Statue.png" alt="Impressive Mayor&#x27;s Statue"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/impressive-mayor-s-statue.png" alt="Impressive Mayor&#x27;s Statue"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>1x1</td></tr>
 <tr><td><strong>Type</strong></td><td>Government</td></tr>

@@ -11,7 +11,7 @@ dateCreated: '2014-01-29T12:28:23Z'
 <div class="infobox">
 <table>
 <tr><th colspan="2">American Museum Of Natural History</th></tr>
-<tr><td colspan="2"><img src="/images/American_Museum_Of_Natural_History.png" alt="American Museum Of Natural History"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/american-museum-of-natural-history.png" alt="American Museum Of Natural History"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>9x8</td></tr>
 <tr><td><strong>Type</strong></td><td>Parks and Recreation</td></tr>

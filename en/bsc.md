@@ -9,7 +9,7 @@ dateCreated: '2008-07-28T13:56:52Z'
 ---
 
 <figure>
-<img src="/images/BSC_Globe.png" title="The BSC Globe" width="100" />
+<img src="/_files/images/bsc-globe.png" title="The BSC Globe" width="100" />
 <figcaption>The BSC Globe</figcaption>
 </figure>
 

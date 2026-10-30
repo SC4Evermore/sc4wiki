@@ -13,7 +13,7 @@ dateCreated: '2014-02-07T07:51:09Z'
 <div class="infobox">
 <table>
 <tr><th colspan="2">Seaport</th></tr>
-<tr><td colspan="2"><img src="/images/Wiki_no_image.png" alt="Seaport"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/wiki-no-image.png" alt="Seaport"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>11x5 (Partially Water)</td></tr>
 <tr><td><strong>Type</strong></td><td>Transport</td></tr>

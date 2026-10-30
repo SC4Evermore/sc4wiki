@@ -11,7 +11,7 @@ dateCreated: '2014-01-18T11:07:49Z'
 <div class="infobox">
 <table>
 <tr><th colspan="2">Missile Range</th></tr>
-<tr><td colspan="2"><img src="/images/Missile_Range.png" alt="Missile Range"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/missile-range.png" alt="Missile Range"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>4x4</td></tr>
 <tr><td><strong>Type</strong></td><td>Business Deals</td></tr>

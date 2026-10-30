@@ -11,7 +11,7 @@ dateCreated: '2013-04-01T09:35:13Z'
 <div class="infobox">
 <table>
 <tr><th colspan="2">63 Building (DLC)</th></tr>
-<tr><td colspan="2"><img src="/images/63_Building.png" alt="63 Building (DLC)"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/63-building.png" alt="63 Building (DLC)"></td></tr>
 <tr><td><strong>Download</strong></td><td><a href="https://dl.dropbox.com/u/9300614/maxis_files/Plugin_00A_63Building.dat">Plugin pack 00A</a></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>4x5</td></tr>

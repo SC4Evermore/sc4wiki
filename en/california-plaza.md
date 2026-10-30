@@ -11,7 +11,7 @@ dateCreated: '2014-01-29T12:12:30Z'
 <div class="infobox">
 <table>
 <tr><th colspan="2">California Plaza</th></tr>
-<tr><td colspan="2"><img src="/images/California_Plaza.png" alt="California Plaza"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/california-plaza.png" alt="California Plaza"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>6x8</td></tr>
 <tr><td><strong>Type</strong></td><td>Parks and Recreation</td></tr>

@@ -11,7 +11,7 @@ dateCreated: '2014-05-11T06:04:13Z'
 <div class="infobox zone-c">
 <table>
 <tr><th colspan="2">2 New York Retail Stores 3</th></tr>
-<tr><td colspan="2"><img src="/images/2NYMediumStore3_Wright&Daughter.png" alt="2 New York Retail Stores 3"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/2nymediumstore3-wright-and-daughter.png" alt="2 New York Retail Stores 3"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>2x3, 3x2, 3x3, 3x4, 4x4</td></tr>
 <tr><td><strong>Style</strong></td><td>All</td></tr>

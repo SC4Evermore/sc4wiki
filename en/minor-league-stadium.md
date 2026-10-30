@@ -11,7 +11,7 @@ dateCreated: '2013-09-18T05:25:47Z'
 <div class="infobox">
 <table>
 <tr><th colspan="2">Minor League Stadium</th></tr>
-<tr><td colspan="2"><img src="/images/Minor_League_Stadium.png" alt="Minor League Stadium"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/minor-league-stadium.png" alt="Minor League Stadium"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>7x7</td></tr>
 <tr><td><strong>Type</strong></td><td>Parks and RecreationRewards</td></tr>

@@ -13,7 +13,7 @@ dateCreated: '2014-02-05T13:08:00Z'
 <div class="infobox">
 <table>
 <tr><th colspan="2">Medium Flower Garden</th></tr>
-<tr><td colspan="2"><img src="/images/Wiki_no_image.png" alt="Medium Flower Garden"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/wiki-no-image.png" alt="Medium Flower Garden"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>2x2</td></tr>
 <tr><td><strong>Type</strong></td><td>Parks and Recreation</td></tr>

@@ -13,7 +13,7 @@ dateCreated: '2014-06-13T10:01:37Z'
 <div class="infobox zone-r">
 <table>
 <tr><th colspan="2">Apartments (Chicago, Small)</th></tr>
-<tr><td colspan="2"><img src="/images/Chicago_Apartments_Small.png" alt="Apartments (Chicago, Small)"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/chicago-apartments-small.png" alt="Apartments (Chicago, Small)"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>1x2, 1x3</td></tr>
 <tr><td><strong>Style</strong></td><td>Chicago</td></tr>

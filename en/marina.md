@@ -11,7 +11,7 @@ dateCreated: '2022-09-04T10:43:29Z'
 <div class="infobox">
 <table>
 <tr><th colspan="2">Marina</th></tr>
-<tr><td colspan="2"><img src="/images/Marina.png" alt="Marina"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/marina.png" alt="Marina"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>1x6</td></tr>
 <tr><td><strong>Type</strong></td><td>Parks and RecreationRewards</td></tr>

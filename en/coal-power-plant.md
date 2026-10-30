@@ -11,7 +11,7 @@ dateCreated: '2013-03-31T04:35:58Z'
 <div class="infobox">
 <table>
 <tr><th colspan="2">Coal Power Plant</th></tr>
-<tr><td colspan="2"><img src="/images/Coal_Power_Plant.png" alt="Coal Power Plant"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/coal-power-plant.png" alt="Coal Power Plant"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>4x4</td></tr>
 <tr><td><strong>Type</strong></td><td>Utilities</td></tr>

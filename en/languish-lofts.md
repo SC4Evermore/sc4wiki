@@ -11,7 +11,7 @@ dateCreated: '2019-08-10T10:03:27Z'
 <div class="infobox zone-r">
 <table>
 <tr><th colspan="2">Languish Lofts</th></tr>
-<tr><td colspan="2"><img src="/images/Languish_Lofts.png" alt="Languish Lofts"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/languish-lofts.png" alt="Languish Lofts"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>1x1, 1x2</td></tr>
 <tr><td><strong>Style</strong></td><td>Chicago</td></tr>

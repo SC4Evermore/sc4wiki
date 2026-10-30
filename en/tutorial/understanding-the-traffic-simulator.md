@@ -21,7 +21,7 @@ Most people are aware that changes in various parameters in the traffic simulato
 <div align="center">
 
 <figure>
-<img src="/images/zz20.jpg" title="zz20.jpg" />
+<img src="/_files/images/zz20.jpg" title="zz20.jpg" />
 <figcaption>zz20.jpg</figcaption>
 </figure>
 

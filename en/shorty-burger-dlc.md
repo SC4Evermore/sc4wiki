@@ -11,7 +11,7 @@ dateCreated: '2019-08-30T14:14:10Z'
 <div class="infobox">
 <table>
 <tr><th colspan="2">Shorty Burger (DLC)</th></tr>
-<tr><td colspan="2"><img src="/images/Shorty_Burger.png" alt="Shorty Burger (DLC)"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/shorty-burger.png" alt="Shorty Burger (DLC)"></td></tr>
 <tr><td><strong>Download</strong></td><td><a href="https://community.simtropolis.com/library/maxis/sc4/buildings/Plugin_035_ShortyBurger.dat">Plugin Pack 035</a></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>3x2</td></tr>

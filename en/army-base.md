@@ -11,7 +11,7 @@ dateCreated: '2014-01-18T10:13:28Z'
 <div class="infobox">
 <table>
 <tr><th colspan="2">Army Base</th></tr>
-<tr><td colspan="2"><img src="/images/Army_Base.png" alt="Army Base"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/army-base.png" alt="Army Base"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>12x12</td></tr>
 <tr><td><strong>Type</strong></td><td>Business Deals</td></tr>

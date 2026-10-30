@@ -28,7 +28,7 @@ dateCreated: '2019-08-09T22:29:36Z'
 
 ## 情報
 
-<img src="/images/Road.jpg" title="大通りと道路の立体交差, 最初の部品のひとつ" width="250" alt="大通りと道路の立体交差, 最初の部品のひとつ" /> <img src="/images/Smoncrienewcrossings.jpg" title="斜面と高架のパズルピースは熱望されていた部品である。" width="250" alt="斜面と高架のパズルピースは熱望されていた部品である。" />
+<img src="/_files/images/road.jpg" title="大通りと道路の立体交差, 最初の部品のひとつ" width="250" alt="大通りと道路の立体交差, 最初の部品のひとつ" /> <img src="/_files/images/smoncrienewcrossings.jpg" title="斜面と高架のパズルピースは熱望されていた部品である。" width="250" alt="斜面と高架のパズルピースは熱望されていた部品である。" />
 
 ## メンバー
 

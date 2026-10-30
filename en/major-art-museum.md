@@ -11,7 +11,7 @@ dateCreated: '2014-01-11T14:57:04Z'
 <div class="infobox">
 <table>
 <tr><th colspan="2">Major Art Museum</th></tr>
-<tr><td colspan="2"><img src="/images/Major_Art_Museum.png" alt="Major Art Museum"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/major-art-museum.png" alt="Major Art Museum"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>3x3</td></tr>
 <tr><td><strong>Type</strong></td><td>Health and EducationRewards</td></tr>

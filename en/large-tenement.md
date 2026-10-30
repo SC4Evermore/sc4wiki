@@ -11,7 +11,7 @@ dateCreated: '2014-06-18T13:59:42Z'
 <div class="infobox zone-r">
 <table>
 <tr><th colspan="2">Large Tenement</th></tr>
-<tr><td colspan="2"><img src="/images/Large_Tenement.png" alt="Large Tenement"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/large-tenement.png" alt="Large Tenement"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>3x3, 3x4, 4x3, 4x4</td></tr>
 <tr><td><strong>Style</strong></td><td>Chicago</td></tr>

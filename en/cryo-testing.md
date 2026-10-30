@@ -11,7 +11,7 @@ dateCreated: '2014-05-14T11:21:27Z'
 <div class="infobox zone-i">
 <table>
 <tr><th colspan="2">Cryo Testing</th></tr>
-<tr><td colspan="2"><img src="/images/CryoTesting.png" alt="Cryo Testing"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/cryotesting.png" alt="Cryo Testing"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>2x2, 2x3, 3x2, 3x3</td></tr>
 <tr><td><strong>Style</strong></td><td>Outbuilding</td></tr>

@@ -15,7 +15,7 @@ dateCreated: '2019-08-10T10:02:48Z'
 <div class="infobox zone-r">
 <table>
 <tr><th colspan="2">Modern Apartments</th></tr>
-<tr><td colspan="2"><img src="/images/Modern_Apartments_Small.png" alt="Modern Apartments"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/modern-apartments-small.png" alt="Modern Apartments"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>1x1, 1x2</td></tr>
 <tr><td><strong>Style</strong></td><td>Houston</td></tr>
@@ -82,7 +82,7 @@ This area intentionally left blank. Please continue scrolling for [Large Variant
 <div class="infobox zone-r">
 <table>
 <tr><th colspan="2">Modern Apartments</th></tr>
-<tr><td colspan="2"><img src="/images/Modern_Apartments_Large.png" alt="Modern Apartments"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/modern-apartments-large.png" alt="Modern Apartments"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>1x2</td></tr>
 <tr><td><strong>Style</strong></td><td>Houston</td></tr>

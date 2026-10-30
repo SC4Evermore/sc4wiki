@@ -11,7 +11,7 @@ dateCreated: '2017-04-12T11:14:20Z'
 <div class="infobox">
 <table>
 <tr><th colspan="2">Courthouse</th></tr>
-<tr><td colspan="2"><img src="/images/Courthouse.png" alt="Courthouse"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/courthouse.png" alt="Courthouse"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>3x3</td></tr>
 <tr><td><strong>Type</strong></td><td>GovernmentRewards</td></tr>

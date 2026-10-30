@@ -14,9 +14,9 @@ The NAM Diagonal Bridge Enabler is an additional plugin or mod intended for adva
 
 ## Screenshots
 
-![](/images/NAMDocDBEteaser1.jpg) ![](/images/NAMDocDBEteaser3.jpg)
+![](/_files/images/namdocdbeteaser1.jpg) ![](/_files/images/namdocdbeteaser3.jpg)
 
-![](/images/NAMDocDBEteaser2.jpg) ![](/images/NAMDocDBEteaser4.jpg)
+![](/_files/images/namdocdbeteaser2.jpg) ![](/_files/images/namdocdbeteaser4.jpg)
 
 ## Contents/Instructions
 
@@ -30,7 +30,7 @@ The Diagonal Bridge Enabler contains just two files: the main file DiagonalBridg
 Upon opening your city tile with the ~Diagonal Bridge Enabler folder installed, you will notice all game water has been drained from the map, and your terrain will have dramatically shifted color (with default Maxis terrain, it will appear that your city is now in a desert). If you attempt to drag the Road, One-Way Road, Rail or RealHighway networks, you will notice that they stay on a level plane and can be dragged across the chasms where the waterways once were in your city. You can use this to create diagonal, curving and even neighbor connecting bridges with these networks with Maxis' default pylons (see [here](http://sc4devotion.com/forums/index.php?topic=11555.0) for more information). Removing the temporary files when you are done will restore the terrain, refill your bodies of water, and return network slopes to their regular setting (either the defaults or whatever slope mod you may have installed).
 
 <figure>
-<img src="/images/NAMDocDBEReadme0.jpg" title="NAMDocDBEReadme0.jpg" />
+<img src="/_files/images/namdocdbereadme0.jpg" title="NAMDocDBEReadme0.jpg" />
 <figcaption>NAMDocDBEReadme0.jpg</figcaption>
 </figure>
 
@@ -55,54 +55,54 @@ These items under this button are all starter piece items, from which one drags 
 First, you'll want to drag your network across the drained waterway as shown below:
 
 <figure>
-<img src="/images/NAMDocDBEReadme1.jpg" title="NAMDocDBEReadme1.jpg" />
+<img src="/_files/images/namdocdbereadme1.jpg" title="NAMDocDBEReadme1.jpg" />
 <figcaption>NAMDocDBEReadme1.jpg</figcaption>
 </figure>
 
 For the continuation of the ground roadway, you'll want to have a space between the bridge and the ground roadway as follows, and place the starter piece you wish to use on top in the following manner (with the arrows facing toward the bridge):
 
 <figure>
-<img src="/images/NAMDocDBEReadme2.jpg" title="NAMDocDBEReadme2.jpg" />
+<img src="/_files/images/namdocdbereadme2.jpg" title="NAMDocDBEReadme2.jpg" />
 <figcaption>NAMDocDBEReadme2.jpg</figcaption>
 </figure>
 
 This will convert part of the default pylon bridge.
 
 <figure>
-<img src="/images/NAMDocDBEReadme3.jpg" title="NAMDocDBEReadme3.jpg" />
+<img src="/_files/images/namdocdbereadme3.jpg" title="NAMDocDBEReadme3.jpg" />
 <figcaption>NAMDocDBEReadme3.jpg</figcaption>
 </figure>
 
 To continue converting the rest, simply click the network tool every few tiles along the path of the bridge, and it'll convert (tip: follow the pylons--it may be rather tricky at times because of the height of the pylons). To ensure the new pylons remain stable, ensure that you have finished the full bridge before continuing.
 
 <figure>
-<img src="/images/NAMDocDBEReadme4.jpg" title="NAMDocDBEReadme4.jpg" />
+<img src="/_files/images/namdocdbereadme4.jpg" title="NAMDocDBEReadme4.jpg" />
 <figcaption>NAMDocDBEReadme4.jpg</figcaption>
 </figure>
 
 Once you get to the other side, use a second starter piece, placing a gap between your bridge and ground roadway. This will seal in the override and prevent the ground roadway on the other side from turning into a bridge as well. If any bridge pieces remain after the starters are in place, you can simply click with the appropriate network tool on them. This will revert them to the regular network.
 
 <figure>
-<img src="/images/NAMDocDBEReadme5.jpg" title="NAMDocDBEReadme5.jpg" />
+<img src="/_files/images/namdocdbereadme5.jpg" title="NAMDocDBEReadme5.jpg" />
 <figcaption>NAMDocDBEReadme5.jpg</figcaption>
 </figure>
 
 Now that you've built your bridge, you can now close the game, take the ~Diagonal Bridge Enabler (Temporary Files) folder out of your Plugins, and reopen the game. Your terrain and slope settings will be restored back to their previous settings, and the water will return:
 
 <figure>
-<img src="/images/NAMDocDBEReadme6.jpg" title="NAMDocDBEReadme6.jpg" />
+<img src="/_files/images/namdocdbereadme6.jpg" title="NAMDocDBEReadme6.jpg" />
 <figcaption>NAMDocDBEReadme6.jpg</figcaption>
 </figure>
 
 Since the techniques involved here do not support dual-tile networks, the Avenue and Ground Highway bridges are based off the RealHighway network, to keep the capacities up. Dragging a "shared tile" RealHighway setup is necessary in order for these to work.
 
 <figure>
-<img src="/images/NAMDocDBEReadme7.jpg" title="NAMDocDBEReadme7.jpg" />
+<img src="/_files/images/namdocdbereadme7.jpg" title="NAMDocDBEReadme7.jpg" />
 <figcaption>NAMDocDBEReadme7.jpg</figcaption>
 </figure>
 
 <figure>
-<img src="/images/NAMDocDBEReadme8.jpg" title="NAMDocDBEReadme8.jpg" />
+<img src="/_files/images/namdocdbereadme8.jpg" title="NAMDocDBEReadme8.jpg" />
 <figcaption>NAMDocDBEReadme8.jpg</figcaption>
 </figure>
 
@@ -118,14 +118,14 @@ While the pylon techniques do allow for curving, intersecting and neighbor conne
 These pieces allow for the construction of modular, puzzle piece-based Elevated Heavy Rail Viaduct Truss Bridges, designed to work with the NAM's Elevated Heavy Rail Viaducts. Their appearance will conform to whatever texture style you chose for the Rail Viaducts (Gray Brick, Brown Brick, or Red Brick) when you installed the NAM. To use these, simply drag out a diagonal default pylon bridge with the Rail network over your drained waterway, and plop the puzzle pieces over top.
 
 <figure>
-<img src="/images/NAMDocDBEReadme9.jpg" title="NAMDocDBEReadme9.jpg" />
+<img src="/_files/images/namdocdbereadme9.jpg" title="NAMDocDBEReadme9.jpg" />
 <figcaption>NAMDocDBEReadme9.jpg</figcaption>
 </figure>
 
 A finished product:
 
 <figure>
-<img src="/images/NAMDocDBEReadme10.jpg" title="NAMDocDBEReadme10.jpg" />
+<img src="/_files/images/namdocdbereadme10.jpg" title="NAMDocDBEReadme10.jpg" />
 <figcaption>NAMDocDBEReadme10.jpg</figcaption>
 </figure>
 

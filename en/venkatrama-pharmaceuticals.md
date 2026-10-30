@@ -11,7 +11,7 @@ dateCreated: '2014-05-18T12:14:05Z'
 <div class="infobox zone-i">
 <table>
 <tr><th colspan="2">Venkatrama Pharmaceuticals</th></tr>
-<tr><td colspan="2"><img src="/images/VenkatramaPharmaceuticals.png" alt="Venkatrama Pharmaceuticals"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/venkatramapharmaceuticals.png" alt="Venkatrama Pharmaceuticals"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>3x5, 4x5</td></tr>
 <tr><td><strong>Style</strong></td><td>Outbuilding</td></tr>

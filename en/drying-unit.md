@@ -11,7 +11,7 @@ dateCreated: '2014-05-13T12:41:12Z'
 <div class="infobox zone-i">
 <table>
 <tr><th colspan="2">Drying Unit</th></tr>
-<tr><td colspan="2"><img src="/images/DryingUnit.png" alt="Drying Unit"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/dryingunit.png" alt="Drying Unit"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>1x1, 1x2, 2x1</td></tr>
 <tr><td><strong>Style</strong></td><td>Machinery</td></tr>

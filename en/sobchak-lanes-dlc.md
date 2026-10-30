@@ -11,7 +11,7 @@ dateCreated: '2013-06-30T05:29:30Z'
 <div class="infobox">
 <table>
 <tr><th colspan="2">Sobchak Lanes (DLC)</th></tr>
-<tr><td colspan="2"><img src="/images/Sobchak_Lanes.png" alt="Sobchak Lanes (DLC)"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/sobchak-lanes.png" alt="Sobchak Lanes (DLC)"></td></tr>
 <tr><td><strong>Download</strong></td><td><a href="https://dl.dropbox.com/u/9300614/maxis_files/Plugin_034_SobchakLanes.dat">Plugin Pack 034</a></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>3x3</td></tr>

@@ -11,7 +11,7 @@ dateCreated: '2008-08-28T18:27:33Z'
 <div class="infobox">
 <table>
 <tr><th colspan="2">Tierra de la Oscuridad</th></tr>
-<tr><td colspan="2"><img src="/images/TdO1.jpg" alt="Tierra de la Oscuridad"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/tdo1.jpg" alt="Tierra de la Oscuridad"></td></tr>
 <tr><td><strong>Type</strong></td><td>Mayor Diary</td></tr>
 <tr><td><strong>Author</strong></td><td>BlondeTwiggy</td></tr>
 <tr><td><strong>Site</strong></td><td>sc4d</td></tr>

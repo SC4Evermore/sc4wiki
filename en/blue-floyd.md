@@ -11,7 +11,7 @@ dateCreated: '2008-09-15T18:29:03Z'
 <div class="infobox">
 <table>
 <tr><th colspan="2">Blue Floyd</th></tr>
-<tr><td colspan="2"><img src="/images/Blue_Floyd_1.PNG" alt="Blue Floyd"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/blue-floyd-1.png" alt="Blue Floyd"></td></tr>
 <tr><td><strong>Type</strong></td><td>Mayor Diary</td></tr>
 <tr><td><strong>Author</strong></td><td>Sheep49</td></tr>
 <tr><td><strong>Site</strong></td><td>sc4d</td></tr>

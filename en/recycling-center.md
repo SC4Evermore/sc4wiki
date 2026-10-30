@@ -11,7 +11,7 @@ dateCreated: '2022-09-10T15:09:41Z'
 <div class="infobox">
 <table>
 <tr><th colspan="2">Recycling Center</th></tr>
-<tr><td colspan="2"><img src="/images/Recycling_Center.png" alt="Recycling Center"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/recycling-center.png" alt="Recycling Center"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>3x2</td></tr>
 <tr><td><strong>Type</strong></td><td>Utilities</td></tr>

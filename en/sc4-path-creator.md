@@ -49,7 +49,7 @@ Screenshots: [SingleFrame viewer](http://student.vub.ac.be/~jjborms/pathCreator2
 
 ## Version 1.55
 
-<img src="/images/PathCreator.jpg" title="A screenshot of the single tile frame" width="200" alt="A screenshot of the single tile frame" />Version 1.55 was released on the 16th December [2008](/2008), the updates are:
+<img src="/_files/images/pathcreator.jpg" title="A screenshot of the single tile frame" width="200" alt="A screenshot of the single tile frame" />Version 1.55 was released on the 16th December [2008](/2008), the updates are:
 
 - Arrows in isometric view
 - Improved texture rendering in isometric view

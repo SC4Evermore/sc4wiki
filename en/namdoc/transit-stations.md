@@ -30,7 +30,7 @@ There are also families of stations that share a similar appearance or BAT style
 - *Brenda_Xne* did the Modern GLR Station and Modern Monorail and Bullet Train Station, which look quite different from *Xyloxadoria's* "Modern" family of stations.
 
 <figure>
-<img src="/images/Transit_Station_Families_v2.jpg" title="|left|700px" />
+<img src="/_files/images/transit-station-families-v2.jpg" title="|left|700px" />
 <figcaption>|left|700px</figcaption>
 </figure>
 
@@ -1113,7 +1113,7 @@ Note that the **Victorian Viaduct Rail Station (orthogonal)** is only a 1x2 plop
   
   
 <figure>
-<img src="/images/Victorian_Viaduct_1x2.jpg" title="Victorian_Viaduct_1x2.jpg" />
+<img src="/_files/images/victorian-viaduct-1x2.jpg" title="Victorian_Viaduct_1x2.jpg" />
 <figcaption>Victorian_Viaduct_1x2.jpg</figcaption>
 </figure>
 
@@ -1122,7 +1122,7 @@ The entire combo of Rail over Street, and any other viaduct pieces hiding under 
   
   
 <figure>
-<img src="/images/Victorian_Viaduct_1x2_pipes.jpg" title="Victorian_Viaduct_1x2_pipes.jpg" />
+<img src="/_files/images/victorian-viaduct-1x2-pipes.jpg" title="Victorian_Viaduct_1x2_pipes.jpg" />
 <figcaption>Victorian_Viaduct_1x2_pipes.jpg</figcaption>
 </figure>
 

@@ -161,4 +161,4 @@ The [Group ID](/group-id) (GID) for the Path file(s) is dependent on whether or 
 - Path file GID for 3D Model tile(s): *0xA966883F*
 - Path file GID for Texture tile(s): *0x69668828*
 
-The following is a simple diagram of how Entry/Exit Points & Path Coordinates works for any single Path for any given Transport Type. ![](/images/NSPath1.jpg)
+The following is a simple diagram of how Entry/Exit Points & Path Coordinates works for any single Path for any given Transport Type. ![](/_files/images/nspath1.jpg)

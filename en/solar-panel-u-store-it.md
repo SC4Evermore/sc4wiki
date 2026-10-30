@@ -11,7 +11,7 @@ dateCreated: '2014-05-13T14:03:37Z'
 <div class="infobox zone-i">
 <table>
 <tr><th colspan="2">Solar Panel U-Store It</th></tr>
-<tr><td colspan="2"><img src="/images/SolarPanelU-StoreIt.png" alt="Solar Panel U-Store It"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/solarpanelu-storeit.png" alt="Solar Panel U-Store It"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>2x5, 3x3, 3x4</td></tr>
 <tr><td><strong>Style</strong></td><td>Anchor</td></tr>

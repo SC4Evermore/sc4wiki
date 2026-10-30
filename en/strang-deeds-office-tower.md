@@ -13,7 +13,7 @@ dateCreated: '2018-12-02T12:03:20Z'
 <div class="infobox zone-c">
 <table>
 <tr><th colspan="2">Strang Deeds Office Tower</th></tr>
-<tr><td colspan="2"><img src="/images/Wiki_no_image.png" alt="Strang Deeds Office Tower"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/wiki-no-image.png" alt="Strang Deeds Office Tower"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>3x3, 3x4, 4x3</td></tr>
 <tr><td><strong>Style</strong></td><td>Euro</td></tr>

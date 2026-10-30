@@ -13,7 +13,7 @@ dateCreated: '2020-10-25T12:47:21Z'
 <div class="infobox zone-c">
 <table>
 <tr><th colspan="2">Andrews Fashion Center</th></tr>
-<tr><td colspan="2"><img src="/images/Wiki_no_image.png" alt="Andrews Fashion Center"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/wiki-no-image.png" alt="Andrews Fashion Center"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>6x4, (5x5 with a mod), 6x5, 6x6</td></tr>
 <tr><td><strong>Style</strong></td><td>All</td></tr>

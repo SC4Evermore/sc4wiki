@@ -11,7 +11,7 @@ dateCreated: '2014-05-07T08:34:50Z'
 <div class="infobox zone-c">
 <table>
 <tr><th colspan="2">King Design</th></tr>
-<tr><td colspan="2"><img src="/images/ChiRetailStores4_KingDesign.png" alt="King Design"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/chiretailstores4-kingdesign.png" alt="King Design"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>1x1, 1x2, 2x1, 2x2, 2x3</td></tr>
 <tr><td><strong>Style</strong></td><td>Chicago</td></tr>

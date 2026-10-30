@@ -11,7 +11,7 @@ dateCreated: '2014-05-20T08:24:51Z'
 <div class="infobox zone-i">
 <table>
 <tr><th colspan="2">Broquard&#x27;s Cement Plant</th></tr>
-<tr><td colspan="2"><img src="/images/BroquardsCementPlant.png" alt="Broquard&#x27;s Cement Plant"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/broquardscementplant.png" alt="Broquard&#x27;s Cement Plant"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>3x2, 3x3, 4x2</td></tr>
 <tr><td><strong>Style</strong></td><td>Anchor</td></tr>

@@ -76,14 +76,14 @@ X = Reference in relation to the tile being referenced. For Type3 lines, zero is
 Each box/number here represents an in-game tile.
 
 <figure>
-<img src="/images/NSINR1.jpg" title="NSINR1.jpg" />
+<img src="/_files/images/nsinr1.jpg" title="NSINR1.jpg" />
 <figcaption>NSINR1.jpg</figcaption>
 </figure>
 
 ### Further explanation of CheckFlags
 
 <figure>
-<img src="/images/NSINR2.jpg" title="NSINR2.jpg" />
+<img src="/_files/images/nsinr2.jpg" title="NSINR2.jpg" />
 <figcaption>NSINR2.jpg</figcaption>
 </figure>
 
@@ -102,14 +102,14 @@ The Pixel position is based on the 128 pixel wide zoom 5 textures, with pixel po
 The simpler table, showing absolute positions only:
 
 <figure>
-<img src="/images/NSINR3.jpg" title="NSINR3.jpg" />
+<img src="/_files/images/nsinr3.jpg" title="NSINR3.jpg" />
 <figcaption>NSINR3.jpg</figcaption>
 </figure>
 
 The more complex table, showing the relative offsets as well as absolute positions:
 
 <figure>
-<img src="/images/NSINR4.jpg" title="NSINR4.jpg" />
+<img src="/_files/images/nsinr4.jpg" title="NSINR4.jpg" />
 <figcaption>NSINR4.jpg</figcaption>
 </figure>
 

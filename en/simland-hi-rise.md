@@ -11,7 +11,7 @@ dateCreated: '2014-06-28T13:53:01Z'
 <div class="infobox zone-r">
 <table>
 <tr><th colspan="2">Simland Hi-Rise</th></tr>
-<tr><td colspan="2"><img src="/images/Simland_HiRise.png" alt="Simland Hi-Rise"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/simland-hirise.png" alt="Simland Hi-Rise"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>4x4</td></tr>
 <tr><td><strong>Style</strong></td><td>Euro</td></tr>

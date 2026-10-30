@@ -19,6 +19,6 @@ dateCreated: '2008-08-04T15:57:07Z'
 
 The **BSC Cleanitol** is a simple solution that has been created for cleaning up duplicate dependencies. Thanks to this application, you do no longer have to hunt through megabytes of plugins looking for out-of-date plugins. It also works by relocation redundant files into a backup location outside your plugin folder. It will also move [JPG](/jpg), [TXT](/txt) and [HTML](/html) files that have been placed into the plugin folder.
 
-In case a new [BSC](/bsc) MEGAPack is released, a small textfile is included that tells the Cleanitol which files the MEGAPack replaces, and thus moves the corresponding files to a safe, backup, location. <img src="/images/Cleanitol_in_Action.jpg" title="The Cleanitol in action" width="350" alt="The Cleanitol in action" />
+In case a new [BSC](/bsc) MEGAPack is released, a small textfile is included that tells the Cleanitol which files the MEGAPack replaces, and thus moves the corresponding files to a safe, backup, location. <img src="/_files/images/cleanitol-in-action.jpg" title="The Cleanitol in action" width="350" alt="The Cleanitol in action" />
 
 > **Note:** This article needs expanding.

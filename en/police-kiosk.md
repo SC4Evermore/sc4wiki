@@ -11,7 +11,7 @@ dateCreated: '2013-03-31T08:27:57Z'
 <div class="infobox">
 <table>
 <tr><th colspan="2">Police Kiosk</th></tr>
-<tr><td colspan="2"><img src="/images/Police_Kiosk.png" alt="Police Kiosk"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/police-kiosk.png" alt="Police Kiosk"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>1x1</td></tr>
 <tr><td><strong>Type</strong></td><td>Public Safety</td></tr>

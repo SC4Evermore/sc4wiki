@@ -13,7 +13,7 @@ dateCreated: '2019-08-09T23:11:17Z'
 <div class="infobox zone-c">
 <table>
 <tr><th colspan="2">CAM: Bank of America</th></tr>
-<tr><td colspan="2"><img src="/images/Bank_of_America.png" alt="CAM: Bank of America"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/bank-of-america.png" alt="CAM: Bank of America"></td></tr>
 <tr><td><strong>Author</strong></td><td>CAM Team</td></tr>
 <tr><td><strong>Size</strong></td><td>5x3</td></tr>
 <tr><td><strong>Style</strong></td><td>Chicago, New York</td></tr>

@@ -11,7 +11,7 @@ dateCreated: '2014-05-19T12:27:44Z'
 <div class="infobox zone-i">
 <table>
 <tr><th colspan="2">Vus Tank &amp; Vat</th></tr>
-<tr><td colspan="2"><img src="/images/VusTankAndVat.png" alt="Vus Tank &amp; Vat"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/vustankandvat.png" alt="Vus Tank &amp; Vat"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>3x2, 3x3, 4x2</td></tr>
 <tr><td><strong>Style</strong></td><td>Anchor</td></tr>

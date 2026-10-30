@@ -11,7 +11,7 @@ dateCreated: '2014-01-22T06:41:01Z'
 <div class="infobox">
 <table>
 <tr><th colspan="2">Cemetery</th></tr>
-<tr><td colspan="2"><img src="/images/Cemetery_1.png" alt="Cemetery"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/cemetery-1.png" alt="Cemetery"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>5x5</td></tr>
 <tr><td><strong>Type</strong></td><td>Rewards</td></tr>

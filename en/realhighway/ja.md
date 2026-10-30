@@ -29,19 +29,19 @@ dateCreated: '2019-08-10T08:42:37Z'
 ## 開発履歴
 
 <figure>
-<img src="/images/Rhwleft8dg.jpg" title="arround|Version 1.2 installer" />
+<img src="/_files/images/rhwleft8dg.jpg" title="arround|Version 1.2 installer" />
 <figcaption>arround|Version 1.2 installer</figcaption>
 </figure>
 
 ## 主な特徴
 
-<img src="/images/Rhwa7small7sh.jpg" title="arround|The Rural Highway network as it appeared in version 1.2." width="250" alt="arround|The Rural Highway network as it appeared in version 1.2." /> ![arround\|thumb\|250px\|The Euro-RHW mod as it first appeared in version 1.3b.](/images/Mmmshinyhn0.jpg)
+<img src="/_files/images/rhwa7small7sh.jpg" title="arround|The Rural Highway network as it appeared in version 1.2." width="250" alt="arround|The Rural Highway network as it appeared in version 1.2." /> ![arround\|thumb\|250px\|The Euro-RHW mod as it first appeared in version 1.3b.](/_files/images/mmmshinyhn0.jpg)
 
 ## 計画中
 
 ## Multi-RHW テクニック
 
-![arround\|250px\|A look at Version 2.0 with the Modular Interchange System (MIS) in a Multi-RHW configuration.](/images/Terran_Settlement-Aug._24,_321217534862.png) ![arround\|250px\|A large RHW interchange, used with Version 2.0, [Shadow Assassin](/people/shadow-assassin)'s Euro Textures and one-way-road overpasses and tunnels.](Tau_Ceti-Mar._14,_021212374749.png "arround|250px|A large RHW interchange, used with Version 2.0, Shadow Assassin's Euro Textures and one-way-road overpasses and tunnels.")
+![arround\|250px\|A look at Version 2.0 with the Modular Interchange System (MIS) in a Multi-RHW configuration.](/_files/images/terran-settlement-aug-24-321217534862.png) ![arround\|250px\|A large RHW interchange, used with Version 2.0, [Shadow Assassin](/people/shadow-assassin)'s Euro Textures and one-way-road overpasses and tunnels.](Tau_Ceti-Mar._14,_021212374749.png "arround|250px|A large RHW interchange, used with Version 2.0, Shadow Assassin's Euro Textures and one-way-road overpasses and tunnels.")
 
 ## 追加MOD
 

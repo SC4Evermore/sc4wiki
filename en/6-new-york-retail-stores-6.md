@@ -13,7 +13,7 @@ dateCreated: '2018-12-02T11:31:52Z'
 <div class="infobox zone-c">
 <table>
 <tr><th colspan="2">6 New York Retail Stores 6</th></tr>
-<tr><td colspan="2"><img src="/images/Wiki_no_image.png" alt="6 New York Retail Stores 6"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/wiki-no-image.png" alt="6 New York Retail Stores 6"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>2x2, 2x3, 3x2</td></tr>
 <tr><td><strong>Style</strong></td><td>New York</td></tr>

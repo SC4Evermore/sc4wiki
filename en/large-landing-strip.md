@@ -11,7 +11,7 @@ dateCreated: '2014-02-07T13:48:14Z'
 <div class="infobox">
 <table>
 <tr><th colspan="2">Large Landing Strip</th></tr>
-<tr><td colspan="2"><img src="/images/Large_Landing_Strip.png" alt="Large Landing Strip"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/large-landing-strip.png" alt="Large Landing Strip"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>6x18</td></tr>
 <tr><td><strong>Type</strong></td><td>Transport</td></tr>

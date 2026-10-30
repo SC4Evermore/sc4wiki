@@ -11,7 +11,7 @@ dateCreated: '2014-01-18T09:29:28Z'
 <div class="infobox">
 <table>
 <tr><th colspan="2">Area 5.1</th></tr>
-<tr><td colspan="2"><img src="/images/Area_5.1.png" alt="Area 5.1"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/area-5-1.png" alt="Area 5.1"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>20x9</td></tr>
 <tr><td><strong>Type</strong></td><td>Business Deals</td></tr>

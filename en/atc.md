@@ -21,7 +21,7 @@ ATC files and their companion [AVP](/avp) files have some specific requirements 
 - ATC prop rotations are specified in a different order than S3D prop rotations. (This is not a problem for most standalone props, but traffic lights and RR crossings interact with stop points and static props and must be created correctly.)
 
 <figure>
-<img src="/images/S3d_vs_atc_rotations.png" title="S3d_vs_atc_rotations.png" />
+<img src="/_files/images/s3d-vs-atc-rotations.png" title="S3d_vs_atc_rotations.png" />
 <figcaption>S3d_vs_atc_rotations.png</figcaption>
 </figure>
 
@@ -53,6 +53,6 @@ ATC files have the following file structure:
 (Please note the little endian storage of the constants above.)
 
 <figure>
-<img src="/images/ATC_format.png" title="ATC_format.png" />
+<img src="/_files/images/atc-format.png" title="ATC_format.png" />
 <figcaption>ATC_format.png</figcaption>
 </figure>

@@ -9,7 +9,7 @@ dateCreated: '2008-12-26T19:14:32Z'
 ---
 
 <figure>
-<img src="/images/Dilapitation.jpg" title="A few dilapidated houses" width="300" />
+<img src="/_files/images/dilapitation.jpg" title="A few dilapidated houses" width="300" />
 <figcaption>A few dilapidated houses</figcaption>
 </figure>
 

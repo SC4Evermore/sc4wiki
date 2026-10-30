@@ -11,7 +11,7 @@ dateCreated: '2013-09-07T12:53:57Z'
 <div class="infobox">
 <table>
 <tr><th colspan="2">Globe Arena (DLC)</th></tr>
-<tr><td colspan="2"><img src="/images/Globe_Arena.png" alt="Globe Arena (DLC)"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/globe-arena.png" alt="Globe Arena (DLC)"></td></tr>
 <tr><td><strong>Download</strong></td><td><a href="https://dl.dropbox.com/u/9300614/maxis_files/Plugin_006_GlobeArena.dat">Plugin Pack 006</a></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>11x8</td></tr>

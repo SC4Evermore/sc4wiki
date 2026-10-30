@@ -13,7 +13,7 @@ dateCreated: '2019-08-10T09:35:10Z'
 <div class="infobox zone-r">
 <table>
 <tr><th colspan="2">Hi-Rise Tenement (Chicago)</th></tr>
-<tr><td colspan="2"><img src="/images/Hi-Rise_Tenement_Chicago.png" alt="Hi-Rise Tenement (Chicago)"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/hi-rise-tenement-chicago.png" alt="Hi-Rise Tenement (Chicago)"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>3x2, 3x3, 3x4</td></tr>
 <tr><td><strong>Style</strong></td><td>Chicago</td></tr>

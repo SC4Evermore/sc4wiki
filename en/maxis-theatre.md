@@ -13,7 +13,7 @@ dateCreated: '2011-07-31T07:40:56Z'
 <div class="infobox zone-c">
 <table>
 <tr><th colspan="2">Maxis Theatre</th></tr>
-<tr><td colspan="2"><img src="/images/Maxis_Theatre.png" alt="Maxis Theatre"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/maxis-theatre.png" alt="Maxis Theatre"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>3x2, 2x3, 3x3, 4x2</td></tr>
 <tr><td><strong>Style</strong></td><td>Chicago</td></tr>

@@ -11,7 +11,7 @@ dateCreated: '2014-05-20T12:38:09Z'
 <div class="infobox zone-i">
 <table>
 <tr><th colspan="2">Wallace Petroleum</th></tr>
-<tr><td colspan="2"><img src="/images/WallacePetroleum.png" alt="Wallace Petroleum"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/wallacepetroleum.png" alt="Wallace Petroleum"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>4x3, 4x4, 5x3</td></tr>
 <tr><td><strong>Style</strong></td><td>Anchor</td></tr>

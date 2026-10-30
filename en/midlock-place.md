@@ -11,7 +11,7 @@ dateCreated: '2014-06-29T16:28:07Z'
 <div class="infobox zone-r">
 <table>
 <tr><th colspan="2">Midlock Place</th></tr>
-<tr><td colspan="2"><img src="/images/Midlock_Place.png" alt="Midlock Place"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/midlock-place.png" alt="Midlock Place"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>2x2, 2x3</td></tr>
 <tr><td><strong>Style</strong></td><td>Houston</td></tr>

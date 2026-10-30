@@ -11,7 +11,7 @@ dateCreated: '2022-09-11T01:49:26Z'
 <div class="infobox">
 <table>
 <tr><th colspan="2">Large International Airport</th></tr>
-<tr><td colspan="2"><img src="/images/Large_International_Airport.png" alt="Large International Airport"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/large-international-airport.png" alt="Large International Airport"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>15x35</td></tr>
 <tr><td><strong>Type</strong></td><td>Transport</td></tr>

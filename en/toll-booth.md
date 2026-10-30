@@ -11,7 +11,7 @@ dateCreated: '2014-01-06T09:28:39Z'
 <div class="infobox">
 <table>
 <tr><th colspan="2">Toll Booth</th></tr>
-<tr><td colspan="2"><img src="/images/Road_Toll_Booth.png" alt="Toll Booth"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/road-toll-booth.png" alt="Toll Booth"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>1x2 (Road)<br>2x2 (All others)</td></tr>
 <tr><td><strong>Type</strong></td><td>Transport</td></tr>

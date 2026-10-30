@@ -11,7 +11,7 @@ dateCreated: '2019-08-10T10:00:10Z'
 <div class="infobox zone-r">
 <table>
 <tr><th colspan="2">Jolly Manor</th></tr>
-<tr><td colspan="2"><img src="/images/Jolly_Manor.png" alt="Jolly Manor"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/jolly-manor.png" alt="Jolly Manor"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>3x2, 3x3</td></tr>
 <tr><td><strong>Style</strong></td><td>Chicago</td></tr>

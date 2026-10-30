@@ -11,7 +11,7 @@ dateCreated: '2019-08-10T09:32:49Z'
 <div class="infobox zone-r">
 <table>
 <tr><th colspan="2">Dubois Garden Cottage</th></tr>
-<tr><td colspan="2"><img src="/images/Dubois_Garden_Cottage.png" alt="Dubois Garden Cottage"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/dubois-garden-cottage.png" alt="Dubois Garden Cottage"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>1x1, 1x2, 1x3, 2x1, 2x2, 2x3, 3x2</td></tr>
 <tr><td><strong>Style</strong></td><td>Euro</td></tr>

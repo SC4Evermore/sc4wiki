@@ -11,7 +11,7 @@ dateCreated: '2014-01-29T10:28:36Z'
 <div class="infobox">
 <table>
 <tr><th colspan="2">Big Ben</th></tr>
-<tr><td colspan="2"><img src="/images/Big_Ben.png" alt="Big Ben"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/big-ben.png" alt="Big Ben"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>1x1</td></tr>
 <tr><td><strong>Type</strong></td><td>Parks and Recreation</td></tr>

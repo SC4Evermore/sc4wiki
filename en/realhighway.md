@@ -27,7 +27,7 @@ Over the years, it has expanded from merely being a network intended for primari
 
 ## Project History
 
-![RHW Version 1.2 installer.](/images/Rhwleft8dg.jpg) The RHW project was started as the **Rural Highway Mod** by [qurlix](/people/qurlix) and [nooneatall](/people/nooneatall) in August 2005, based upon initial work by [Teirusu](/people/teirusu), with an initial "public alpha" release, Version 1.2 (also variously called 0.12 and v12--the decimal point has continually moved around during the history of the project), coming in November that same year. qurlix had also planned a couple of other updates at various points, Version 1.5 (v15) and Version 1.7 (v17), neither of which was released.
+![RHW Version 1.2 installer.](/_files/images/rhwleft8dg.jpg) The RHW project was started as the **Rural Highway Mod** by [qurlix](/people/qurlix) and [nooneatall](/people/nooneatall) in August 2005, based upon initial work by [Teirusu](/people/teirusu), with an initial "public alpha" release, Version 1.2 (also variously called 0.12 and v12--the decimal point has continually moved around during the history of the project), coming in November that same year. qurlix had also planned a couple of other updates at various points, Version 1.5 (v15) and Version 1.7 (v17), neither of which was released.
 
 [Tarkus](/people/tarkus) became involved in the project in October 2006, and took over the project in March 2007 after qurlix's departure. He released a small update, Version 1.3 (v13) in April 2007, largely to address compatibility issues between NAM Version 20 (December 2006) and RHW Version 1.2, something which the unreleased Version 1.7 was originally intended to fix. With the release of Version 1.3b in June 2007, the RHW became an official NAM Team project.
 
@@ -53,7 +53,7 @@ During the lengthy development cycle for NAM 37, which finally saw a Release Can
 
 ## Basic Network Characteristics
 
-<img src="/images/Rhwa7small7sh.jpg" title="The RealHighway network as it appeared in version 1.2." width="250" alt="The RealHighway network as it appeared in version 1.2." /> The RHW network is a [Highway-type Network](/transit-network#highway-networks), which means it generally does not allow access to [RCI Zones](/rci-zones). Due to the "unfinished" state Maxis left it in, it does not have Tunnel capability (One-Way Roads, Avenues or Maxis Highways must be used for workarounds). This appears to be an .exe-controlled function and is unlikely to be fixed. With jondor's mod, it can appear on the Regional Transportation View. RHWs can also be bulldozed using the Dezone tool, much like Streets, and are also subject to "auto-connect". It is also a 1-tile network, the only such Highway-type network, which makes it particularly conducive to producing [Override Networks](/override-networks).
+<img src="/_files/images/rhwa7small7sh.jpg" title="The RealHighway network as it appeared in version 1.2." width="250" alt="The RealHighway network as it appeared in version 1.2." /> The RHW network is a [Highway-type Network](/transit-network#highway-networks), which means it generally does not allow access to [RCI Zones](/rci-zones). Due to the "unfinished" state Maxis left it in, it does not have Tunnel capability (One-Way Roads, Avenues or Maxis Highways must be used for workarounds). This appears to be an .exe-controlled function and is unlikely to be fixed. With jondor's mod, it can appear on the Regional Transportation View. RHWs can also be bulldozed using the Dezone tool, much like Streets, and are also subject to "auto-connect". It is also a 1-tile network, the only such Highway-type network, which makes it particularly conducive to producing [Override Networks](/override-networks).
 
 The [FLUPs](/flups) (**Flexible Underpass**) system was expanded to include RHW components as part of Version 4.0 by [Chrisim](/people/chrisim) and [toja](/people/toja). These items are located at the end of the Road/RHW button's TAB ring, located on the Roads menu. Further RHW FLUP portal designs were showcased by [Dexter](/people/dexter) sometime in 2011, but have yet to be completed, due to model integration matters, and plans for a new implementation method for future FLUPs items.
 
@@ -71,7 +71,7 @@ The **RHW-3** is essentially the RHW version of the 3-lane Asymmetrical Road (AR
 
 ### RHW-4
 
-<img src="/images/Mmmshinyhn0.jpg" title="The Euro-RHW mod as it first appeared in version 1.3b." width="250" alt="The Euro-RHW mod as it first appeared in version 1.3b." /> <img src="/images/Tau_Ceti-Mar._14,_021212374749.png" title="A large RHW interchange, made with Version 2.0, Shadow Assassin&#39;s Euro Textures and one-way-road overpasses and tunnels." width="250" alt="A large RHW interchange, made with Version 2.0, Shadow Assassin&#39;s Euro Textures and one-way-road overpasses and tunnels." /> The **RHW-4** was the first network added to the RHW mod. While it was initially produced through a "side-by-side" override technique, since RHW 2.0, it has existed as an Override Network of the base RHW-2 network, utilizing a [Puzzle-Drag Override](/starter-piece) to transform the RHW-2, into a 1-tile, 2-lane, 1-way network. It is known as the RHW-4 because the full width of both directions is 4 lanes over 2 tiles, but because it is based on a 1-tile network, the two halves of a full RHW-4 do not need to be adjacent, and can be split, to allow *Variable Width Medians*, unlike [Maxis Highways](/transit-network#highway-networks) (without the cumbersome Multi-Highway technique). It has twice the capacity of an RHW-2.
+<img src="/_files/images/mmmshinyhn0.jpg" title="The Euro-RHW mod as it first appeared in version 1.3b." width="250" alt="The Euro-RHW mod as it first appeared in version 1.3b." /> <img src="/_files/images/tau-ceti-mar-14-021212374749.png" title="A large RHW interchange, made with Version 2.0, Shadow Assassin&#39;s Euro Textures and one-way-road overpasses and tunnels." width="250" alt="A large RHW interchange, made with Version 2.0, Shadow Assassin&#39;s Euro Textures and one-way-road overpasses and tunnels." /> The **RHW-4** was the first network added to the RHW mod. While it was initially produced through a "side-by-side" override technique, since RHW 2.0, it has existed as an Override Network of the base RHW-2 network, utilizing a [Puzzle-Drag Override](/starter-piece) to transform the RHW-2, into a 1-tile, 2-lane, 1-way network. It is known as the RHW-4 because the full width of both directions is 4 lanes over 2 tiles, but because it is based on a 1-tile network, the two halves of a full RHW-4 do not need to be adjacent, and can be split, to allow *Variable Width Medians*, unlike [Maxis Highways](/transit-network#highway-networks) (without the cumbersome Multi-Highway technique). It has twice the capacity of an RHW-2.
 
 Also unlike the Maxis Highways, the RHW-4 can have at-grade intersections with other networks, in addition to allowing for grade-separated interchanges using the **Modular Interchange System** (**MIS**) interface ramps. At-grade intersections, including diagonals, are possible with the Road, Street, Rail, GLR and RHW-2, along with Elevated Light Rail and Monorail overpasses. Drawing a perpendicular street on the inside of an RHW-4 causes it to turn into an Emergency Turnaround Lane.
 
@@ -103,7 +103,7 @@ Draggable diagonal functionality for the RHW-8C was implemented in Version 5.0, 
 
 ### RHW-10S
 
-<img src="/images/RHW-10.png" title="Interchange along a RHW-10, currently the largest RHW network." width="250" alt="Interchange along a RHW-10, currently the largest RHW network." /> <img src="/images/RHW_3.0_Trumpet.jpg" title="Trumpet interchange made with RHW 3.0." width="250" alt="Trumpet interchange made with RHW 3.0." /> The **RHW-10S** is currently the widest RHW network, consisting of 10 lanes over 4 tiles. It has the same capacity as an RHW-8S, and thus, is more or less functional eyecandy.
+<img src="/_files/images/rhw-10.png" title="Interchange along a RHW-10, currently the largest RHW network." width="250" alt="Interchange along a RHW-10, currently the largest RHW network." /> <img src="/_files/images/rhw-3-0-trumpet.jpg" title="Trumpet interchange made with RHW 3.0." width="250" alt="Trumpet interchange made with RHW 3.0." /> The **RHW-10S** is currently the widest RHW network, consisting of 10 lanes over 4 tiles. It has the same capacity as an RHW-8S, and thus, is more or less functional eyecandy.
 
 Draggable diagonal functionality for the RHW-10S was implemented in Version 5.0, and L1 and L2 RHW-10S networks were added in NAM 31.0.
 
@@ -163,14 +163,14 @@ Draggable Ramp Interface (DRI) functionality was also introduced in Version 4.0,
 
 ## Multi-RHW Technique
 
-<img src="/images/Terran_Settlement-Aug._24,_321217534862.png" title="A look at Version 2.0 with the Modular Interchange System (MIS) in a Multi-RHW configuration." width="250" alt="A look at Version 2.0 with the Modular Interchange System (MIS) in a Multi-RHW configuration." /> Wider RHWs can also be made using the **Multi-RHW** technique first developed by [Haljackey](/people/haljackey), which essentially involves putting two one-way RHWs (usually RHW-4 or RHW-6S) in the same direction, side by side. Although this creates 8 lanes (or possibly more) in each direction, the networks are still separate RHW-4s, and must be linked together to work properly. A Multi-RHW is a great way to make a collector/express system in SC4 that many real life highways use.
+<img src="/_files/images/terran-settlement-aug-24-321217534862.png" title="A look at Version 2.0 with the Modular Interchange System (MIS) in a Multi-RHW configuration." width="250" alt="A look at Version 2.0 with the Modular Interchange System (MIS) in a Multi-RHW configuration." /> Wider RHWs can also be made using the **Multi-RHW** technique first developed by [Haljackey](/people/haljackey), which essentially involves putting two one-way RHWs (usually RHW-4 or RHW-6S) in the same direction, side by side. Although this creates 8 lanes (or possibly more) in each direction, the networks are still separate RHW-4s, and must be linked together to work properly. A Multi-RHW is a great way to make a collector/express system in SC4 that many real life highways use.
 
 Prior the Version 2.0 release, the Multi-RHW was possible, but very difficult to make due to the fact that the RHW-4 was built using a [Side-by-Side Override](/override-network). This would often result in some parts of the Multi-RHW going in opposite directions and was a pain to correct. With the switch to the starter piece system included with Version 2.0, Multi-RHWs can now be dragged without any worry of changing direction, making them much easier to construct.
 
 For more information about the Multi-RHW, see **[Multi highway](/multi-highway)**.
 
 <figure>
-<img src="/images/RHW_4.0_Windmill_Hybrid.png" title="A large RHW interchange made with version 4.0 without tunnels." width="250" />
+<img src="/_files/images/rhw-4-0-windmill-hybrid.png" title="A large RHW interchange made with version 4.0 without tunnels." width="250" />
 <figcaption>A large RHW interchange made with version 4.0 without tunnels.</figcaption>
 </figure>
 
@@ -211,7 +211,7 @@ Included in the NAM
 ## RHW Development Team & Contributors
 
 <figure>
-<img src="/images/RHW_4.0_Cloverstack_Hybrid.png" title="lright|250px|A large RHW interchange made with version 4.0 with a tunnel." />
+<img src="/_files/images/rhw-4-0-cloverstack-hybrid.png" title="lright|250px|A large RHW interchange made with version 4.0 with a tunnel." />
 <figcaption>lright|250px|A large RHW interchange made with version 4.0 with a tunnel.</figcaption>
 </figure>
 

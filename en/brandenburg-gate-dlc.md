@@ -13,7 +13,7 @@ dateCreated: '2013-09-08T03:35:07Z'
 <div class="infobox">
 <table>
 <tr><th colspan="2">Brandenburg Gate (DLC)</th></tr>
-<tr><td colspan="2"><img src="/images/Brandenburg_Gate.png" alt="Brandenburg Gate (DLC)"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/brandenburg-gate.png" alt="Brandenburg Gate (DLC)"></td></tr>
 <tr><td><strong>Download</strong></td><td><a href="https://dl.dropbox.com/u/9300614/maxis_files/Plugin_00C_BrandenburgGate.dat">Plugin Pack 00C</a></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>5x7</td></tr>

@@ -11,7 +11,7 @@ dateCreated: '2014-01-29T11:13:29Z'
 <div class="infobox">
 <table>
 <tr><th colspan="2">Palacio Real</th></tr>
-<tr><td colspan="2"><img src="/images/Palacio_Real.png" alt="Palacio Real"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/palacio-real.png" alt="Palacio Real"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>6x6</td></tr>
 <tr><td><strong>Type</strong></td><td>Parks and Recreation</td></tr>

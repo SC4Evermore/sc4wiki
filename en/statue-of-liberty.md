@@ -11,7 +11,7 @@ dateCreated: '2013-09-15T16:23:53Z'
 <div class="infobox">
 <table>
 <tr><th colspan="2">Statue of Liberty</th></tr>
-<tr><td colspan="2"><img src="/images/Statue_of_Liberty.png" alt="Statue of Liberty"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/statue-of-liberty.png" alt="Statue of Liberty"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>4x4</td></tr>
 <tr><td><strong>Type</strong></td><td>Parks and Recreation</td></tr>

@@ -11,7 +11,7 @@ dateCreated: '2014-02-07T14:10:26Z'
 <div class="infobox">
 <table>
 <tr><th colspan="2">Medium Municipal Airport</th></tr>
-<tr><td colspan="2"><img src="/images/Medium_Municipal_Airport.png" alt="Medium Municipal Airport"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/medium-municipal-airport.png" alt="Medium Municipal Airport"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>10x29</td></tr>
 <tr><td><strong>Type</strong></td><td>Transport</td></tr>

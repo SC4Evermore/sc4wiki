@@ -25,7 +25,7 @@ One Way Roads (OWR-2) interface cleanly on a diagonal if you first draw a single
   
   
 <figure>
-<img src="/images/Road_Roundabout.jpg" title="Road_Roundabout.jpg" />
+<img src="/_files/images/road-roundabout.jpg" title="Road_Roundabout.jpg" />
 <figcaption>Road_Roundabout.jpg</figcaption>
 </figure>
 
@@ -44,7 +44,7 @@ If there are four entrances, at least one of them must be a Street, in [NAM 36](
   
   
 <figure>
-<img src="/images/Street_Roundabout.jpg" title="Street_Roundabout.jpg" />
+<img src="/_files/images/street-roundabout.jpg" title="Street_Roundabout.jpg" />
 <figcaption>Street_Roundabout.jpg</figcaption>
 </figure>
 
@@ -63,7 +63,7 @@ Notice in the screenshot below, that highway grade entrances (RHW-2 and MIS) dis
   
   
 <figure>
-<img src="/images/OneWayRoad_Roundabout.jpg" title="OneWayRoad_Roundabout.jpg" />
+<img src="/_files/images/onewayroad-roundabout.jpg" title="OneWayRoad_Roundabout.jpg" />
 <figcaption>OneWayRoad_Roundabout.jpg</figcaption>
 </figure>
 
@@ -95,7 +95,7 @@ As you can see, there is an extraordinary range of Avenue roundabout types and f
 After placing down one of these puzzle pieces, you can drag orthogonal and diagonal Avenues into the roundabout in order to connect it with the rest of your network. By default, the Roundabout Avenue 4x4 comes with [FLUP](/flup) support. If this functionality is not required, you can bulldoze the inner 2x2 tile fountain prop after building the roundabout and replace it by any other items. There are also a few Avenue roundabout variations including crossings with Elevated Highway and [GLR](/glr).
 
 <figure>
-<img src="/images/Elevated_Highway_and_FLUP_Roundabouts_(NAM36).jpg" title="Elevated_Highway_and_FLUP_Roundabouts_(NAM36).jpg" />
+<img src="/_files/images/elevated-highway-and-flup-roundabouts-nam36.jpg" title="Elevated_Highway_and_FLUP_Roundabouts_(NAM36).jpg" />
 <figcaption>Elevated_Highway_and_FLUP_Roundabouts_(NAM36).jpg</figcaption>
 </figure>
 

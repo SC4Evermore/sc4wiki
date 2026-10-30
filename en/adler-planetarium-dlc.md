@@ -11,7 +11,7 @@ dateCreated: '2013-06-30T05:03:28Z'
 <div class="infobox">
 <table>
 <tr><th colspan="2">Adler Planetarium (DLC)</th></tr>
-<tr><td colspan="2"><img src="/images/Adler_Planetarium.png" alt="Adler Planetarium (DLC)"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/adler-planetarium.png" alt="Adler Planetarium (DLC)"></td></tr>
 <tr><td><strong>Download</strong></td><td><a href="https://dl.dropbox.com/u/9300614/maxis_files/Plugin_031_AdlerPlanetarium.dat">Plugin Pack 031</a></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>6x6</td></tr>

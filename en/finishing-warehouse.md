@@ -11,7 +11,7 @@ dateCreated: '2017-12-27T06:20:27Z'
 <div class="infobox zone-i">
 <table>
 <tr><th colspan="2">Finishing Warehouse</th></tr>
-<tr><td colspan="2"><img src="/images/wiki_no_image.png" alt="Finishing Warehouse"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/wiki-no-image.png" alt="Finishing Warehouse"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>3x2, 3x3</td></tr>
 <tr><td><strong>Style</strong></td><td>Outbuilding</td></tr>

@@ -11,7 +11,7 @@ dateCreated: '2013-03-31T07:40:58Z'
 <div class="infobox">
 <table>
 <tr><th colspan="2">Deluxe Police Station</th></tr>
-<tr><td colspan="2"><img src="/images/Deluxe_Police_Station.png" alt="Deluxe Police Station"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/deluxe-police-station.png" alt="Deluxe Police Station"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>3x4</td></tr>
 <tr><td><strong>Type</strong></td><td>Public SafetyRewards</td></tr>

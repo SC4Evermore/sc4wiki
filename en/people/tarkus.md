@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: '2008-08-01T18:08:36Z'
 ---
 
-<img src="/images/RHW-Picture.jpg" title="RHW Version 3.0" width="300" alt="RHW Version 3.0" /> **Tarkus** is the lead developer of the [NAM Team](/nam#members), and the current Site Owner and Webmaster at [SC4 Devotion](/sc4-devotion), best known for his work on the [RealHighway Mod](/realhighway-mod).
+<img src="/_files/images/rhw-picture.jpg" title="RHW Version 3.0" width="300" alt="RHW Version 3.0" /> **Tarkus** is the lead developer of the [NAM Team](/nam#members), and the current Site Owner and Webmaster at [SC4 Devotion](/sc4-devotion), best known for his work on the [RealHighway Mod](/realhighway-mod).
 
 He first joined the online SC4 Community on February 24, 2006, starting at [Simtropolis](/simtropolis), after a lengthy period of time playing "vanilla". His initial foray into custom content was a series of road sign lots, released on the STEX shortly after he joined, which he has since retracted, considering them a product of "youthful inexperience".
 

@@ -11,7 +11,7 @@ dateCreated: '2014-05-21T05:39:50Z'
 <div class="infobox zone-r">
 <table>
 <tr><th colspan="2">Project Bootstrap</th></tr>
-<tr><td colspan="2"><img src="/images/ProjectBootstrap.png" alt="Project Bootstrap"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/projectbootstrap.png" alt="Project Bootstrap"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>4x4</td></tr>
 <tr><td><strong>Style</strong></td><td>Chicago</td></tr>

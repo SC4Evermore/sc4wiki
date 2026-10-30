@@ -11,7 +11,7 @@ dateCreated: '2014-05-20T10:42:28Z'
 <div class="infobox zone-i">
 <table>
 <tr><th colspan="2">Grundstorm Copper</th></tr>
-<tr><td colspan="2"><img src="/images/GrundstormCopper.png" alt="Grundstorm Copper"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/grundstormcopper.png" alt="Grundstorm Copper"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>3x3, 3x4, 3x5, 4x3, 4x4, 5x3</td></tr>
 <tr><td><strong>Style</strong></td><td>Anchor</td></tr>

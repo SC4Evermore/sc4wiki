@@ -11,7 +11,7 @@ dateCreated: '2022-09-10T22:20:14Z'
 <div class="infobox">
 <table>
 <tr><th colspan="2">Medium International Airport</th></tr>
-<tr><td colspan="2"><img src="/images/Medium_International_Airport.png" alt="Medium International Airport"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/medium-international-airport.png" alt="Medium International Airport"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>15x35</td></tr>
 <tr><td><strong>Type</strong></td><td>Transport</td></tr>

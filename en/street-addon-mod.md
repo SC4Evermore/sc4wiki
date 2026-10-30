@@ -21,7 +21,7 @@ dateCreated: '2008-07-27T14:10:55Z'
 </div>
 
 <figure>
-<img src="/images/SAMPicture.jpg" title="A picture of one of the variations in use. Courtesy of Andreas." width="300" />
+<img src="/_files/images/sampicture.jpg" title="A picture of one of the variations in use. Courtesy of Andreas." width="300" />
 <figcaption>A picture of one of the variations in use. Courtesy of Andreas.</figcaption>
 </figure>
 

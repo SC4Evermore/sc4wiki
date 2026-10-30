@@ -11,7 +11,7 @@ dateCreated: '2013-09-08T02:40:51Z'
 <div class="infobox">
 <table>
 <tr><th colspan="2">Kunjungjon (DLC)</th></tr>
-<tr><td colspan="2"><img src="/images/Kunjungjon.png" alt="Kunjungjon (DLC)"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/kunjungjon.png" alt="Kunjungjon (DLC)"></td></tr>
 <tr><td><strong>Download</strong></td><td><a href="https://dl.dropbox.com/u/9300614/maxis_files/Plugin_008_Kunjungjon.dat">Plugin Pack 008</a></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>5x6</td></tr>

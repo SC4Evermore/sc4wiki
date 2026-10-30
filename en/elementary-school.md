@@ -11,7 +11,7 @@ dateCreated: '2014-01-10T09:19:03Z'
 <div class="infobox">
 <table>
 <tr><th colspan="2">Elementary School</th></tr>
-<tr><td colspan="2"><img src="/images/Elementary_School.png" alt="Elementary School"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/elementary-school.png" alt="Elementary School"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>2x3</td></tr>
 <tr><td><strong>Type</strong></td><td>Health and Education</td></tr>

@@ -11,7 +11,7 @@ dateCreated: '2014-06-28T15:59:38Z'
 <div class="infobox zone-r">
 <table>
 <tr><th colspan="2">The Grabrians</th></tr>
-<tr><td colspan="2"><img src="/images/The_Grabrians.png" alt="The Grabrians"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/the-grabrians.png" alt="The Grabrians"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>2x2, 2x3, 3x2, 3x3, 3x4, 4x3, 4x4, 4x5, 4x6</td></tr>
 <tr><td><strong>Style</strong></td><td>New York</td></tr>

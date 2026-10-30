@@ -11,7 +11,7 @@ dateCreated: '2014-01-29T11:06:09Z'
 <div class="infobox">
 <table>
 <tr><th colspan="2">Tower of London</th></tr>
-<tr><td colspan="2"><img src="/images/Tower_of_London.png" alt="Tower of London"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/tower-of-london.png" alt="Tower of London"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>3x3</td></tr>
 <tr><td><strong>Type</strong></td><td>Parks and Recreation</td></tr>

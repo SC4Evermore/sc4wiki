@@ -11,7 +11,7 @@ dateCreated: '2014-06-10T11:33:54Z'
 <div class="infobox zone-r">
 <table>
 <tr><th colspan="2">Graham Apartments</th></tr>
-<tr><td colspan="2"><img src="/images/Graham_Apartments.png" alt="Graham Apartments"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/graham-apartments.png" alt="Graham Apartments"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>3x2, 3x3</td></tr>
 <tr><td><strong>Style</strong></td><td>Houston</td></tr>

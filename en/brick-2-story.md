@@ -11,7 +11,7 @@ dateCreated: '2014-06-06T12:03:51Z'
 <div class="infobox zone-r">
 <table>
 <tr><th colspan="2">Brick 2 Story</th></tr>
-<tr><td colspan="2"><img src="/images/Brick_2_Story_Variant_1.png" alt="Brick 2 Story"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/brick-2-story-variant-1.png" alt="Brick 2 Story"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>1x2, 1x3, 2x1, 2x2, 2x3, 3x2</td></tr>
 <tr><td><strong>Style</strong></td><td>Houston</td></tr>

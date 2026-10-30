@@ -13,7 +13,7 @@ dateCreated: '2014-02-05T13:58:43Z'
 <div class="infobox">
 <table>
 <tr><th colspan="2">Beach</th></tr>
-<tr><td colspan="2"><img src="/images/Wiki_no_image.png" alt="Beach"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/wiki-no-image.png" alt="Beach"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>2x2</td></tr>
 <tr><td><strong>Type</strong></td><td>Parks and Recreation</td></tr>

@@ -11,7 +11,7 @@ dateCreated: '2013-09-15T14:49:45Z'
 <div class="infobox">
 <table>
 <tr><th colspan="2">Parthenon (DLC)</th></tr>
-<tr><td colspan="2"><img src="/images/Parthenon.png" alt="Parthenon (DLC)"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/parthenon.png" alt="Parthenon (DLC)"></td></tr>
 <tr><td><strong>Download</strong></td><td><a href="https://dl.dropbox.com/u/9300614/maxis_files/Plugin_00D_Parthenon.dat">Plugin Pack 00D</a></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>3x5</td></tr>

@@ -11,7 +11,7 @@ dateCreated: '2014-01-18T10:23:16Z'
 <div class="infobox">
 <table>
 <tr><th colspan="2">Toxic Waste Dump</th></tr>
-<tr><td colspan="2"><img src="/images/Toxic_Waste_Dump.png" alt="Toxic Waste Dump"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/toxic-waste-dump.png" alt="Toxic Waste Dump"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>4x4</td></tr>
 <tr><td><strong>Type</strong></td><td>Business Deals</td></tr>

@@ -11,7 +11,7 @@ dateCreated: '2014-05-07T07:10:26Z'
 <div class="infobox zone-c">
 <table>
 <tr><th colspan="2">Lay Architects</th></tr>
-<tr><td colspan="2"><img src="/images/ChiRetailStores5_LayArchitects.png" alt="Lay Architects"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/chiretailstores5-layarchitects.png" alt="Lay Architects"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>1x2, 2x1, 2x2, 3x3</td></tr>
 <tr><td><strong>Style</strong></td><td>Chicago</td></tr>

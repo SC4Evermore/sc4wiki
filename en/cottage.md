@@ -11,7 +11,7 @@ dateCreated: '2014-06-14T13:30:10Z'
 <div class="infobox zone-r">
 <table>
 <tr><th colspan="2">Cottage</th></tr>
-<tr><td colspan="2"><img src="/images/Cottage_1.png" alt="Cottage"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/cottage-1.png" alt="Cottage"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>1x1, 1x2, 1x3</td></tr>
 <tr><td><strong>Style</strong></td><td>New York</td></tr>

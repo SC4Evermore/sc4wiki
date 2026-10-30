@@ -11,7 +11,7 @@ dateCreated: '2014-01-29T11:44:25Z'
 <div class="infobox">
 <table>
 <tr><th colspan="2">Rotes Rathaus</th></tr>
-<tr><td colspan="2"><img src="/images/Rotes_Rathaus.png" alt="Rotes Rathaus"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/rotes-rathaus.png" alt="Rotes Rathaus"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>4x4</td></tr>
 <tr><td><strong>Type</strong></td><td>Parks and Recreation</td></tr>

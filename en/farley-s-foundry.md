@@ -11,7 +11,7 @@ dateCreated: '2014-05-18T15:32:10Z'
 <div class="infobox zone-i">
 <table>
 <tr><th colspan="2">Farley&#x27;s Foundry</th></tr>
-<tr><td colspan="2"><img src="/images/FarleysFoundry.png" alt="Farley&#x27;s Foundry"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/farleysfoundry.png" alt="Farley&#x27;s Foundry"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>1x1, 1x2, 2x1</td></tr>
 <tr><td><strong>Style</strong></td><td>Anchor</td></tr>

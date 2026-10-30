@@ -11,7 +11,7 @@ dateCreated: '2013-09-18T05:17:09Z'
 <div class="infobox">
 <table>
 <tr><th colspan="2">Major League Stadium</th></tr>
-<tr><td colspan="2"><img src="/images/Major_League_Stadium.png" alt="Major League Stadium"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/major-league-stadium.png" alt="Major League Stadium"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>9x8</td></tr>
 <tr><td><strong>Type</strong></td><td>Parks and RecreationRewards</td></tr>

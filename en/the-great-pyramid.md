@@ -11,7 +11,7 @@ dateCreated: '2014-02-02T05:38:37Z'
 <div class="infobox">
 <table>
 <tr><th colspan="2">The Great Pyramid</th></tr>
-<tr><td colspan="2"><img src="/images/Great_Pyramid.png" alt="The Great Pyramid"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/great-pyramid.png" alt="The Great Pyramid"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>8x8</td></tr>
 <tr><td><strong>Type</strong></td><td>Parks and Recreation</td></tr>

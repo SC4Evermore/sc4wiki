@@ -11,7 +11,7 @@ dateCreated: '2019-08-10T10:14:24Z'
 <div class="infobox zone-r">
 <table>
 <tr><th colspan="2">Wallace Manor</th></tr>
-<tr><td colspan="2"><img src="/images/Wallace_Manor.png" alt="Wallace Manor"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/wallace-manor.png" alt="Wallace Manor"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>3x3, 3x4, 4x4</td></tr>
 <tr><td><strong>Style</strong></td><td>Houston</td></tr>

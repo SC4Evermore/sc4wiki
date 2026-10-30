@@ -11,7 +11,7 @@ dateCreated: '2014-06-14T01:08:20Z'
 <div class="infobox zone-r">
 <table>
 <tr><th colspan="2">White Cottage</th></tr>
-<tr><td colspan="2"><img src="/images/White_Cottage.png" alt="White Cottage"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/white-cottage.png" alt="White Cottage"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>1x1, 1x2, 1x3</td></tr>
 <tr><td><strong>Style</strong></td><td>Chicago</td></tr>

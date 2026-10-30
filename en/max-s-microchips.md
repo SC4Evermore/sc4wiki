@@ -11,7 +11,7 @@ dateCreated: '2014-05-14T05:50:00Z'
 <div class="infobox zone-i">
 <table>
 <tr><th colspan="2">Max&#x27;s Microchips</th></tr>
-<tr><td colspan="2"><img src="/images/MaxsMicrochips.png" alt="Max&#x27;s Microchips"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/maxsmicrochips.png" alt="Max&#x27;s Microchips"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>3x4, 3x5, 4x3</td></tr>
 <tr><td><strong>Style</strong></td><td>Anchor</td></tr>

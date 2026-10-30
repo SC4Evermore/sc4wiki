@@ -11,7 +11,7 @@ dateCreated: '2013-03-30T07:21:18Z'
 <div class="infobox">
 <table>
 <tr><th colspan="2">Oil Power Plant</th></tr>
-<tr><td colspan="2"><img src="/images/Oil_Power_Plant.png" alt="Oil Power Plant"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/oil-power-plant.png" alt="Oil Power Plant"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>4x4</td></tr>
 <tr><td><strong>Type</strong></td><td>Utilities</td></tr>

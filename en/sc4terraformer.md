@@ -18,7 +18,7 @@ dateCreated: '2008-08-31T10:53:59Z'
 </div>
 
 <figure>
-<img src="/images/SC4T_Splash.jpg" title="The splash-screen of SC4T v1.1" width="340" />
+<img src="/_files/images/sc4t-splash.jpg" title="The splash-screen of SC4T v1.1" width="340" />
 <figcaption>The splash-screen of SC4T v1.1</figcaption>
 </figure>
 

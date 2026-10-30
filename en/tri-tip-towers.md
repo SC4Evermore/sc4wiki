@@ -11,7 +11,7 @@ dateCreated: '2014-06-11T11:43:53Z'
 <div class="infobox zone-r">
 <table>
 <tr><th colspan="2">Tri-Tip Towers</th></tr>
-<tr><td colspan="2"><img src="/images/Tri-Tip_Towers.png" alt="Tri-Tip Towers"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/tri-tip-towers.png" alt="Tri-Tip Towers"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>3x3, 3x4, 4x4</td></tr>
 <tr><td><strong>Style</strong></td><td>Euro</td></tr>

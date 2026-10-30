@@ -11,7 +11,7 @@ dateCreated: '2019-08-10T09:27:13Z'
 <div class="infobox zone-i">
 <table>
 <tr><th colspan="2">Farhans Farms</th></tr>
-<tr><td colspan="2"><img src="/images/FarhansFarms.png" alt="Farhans Farms"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/farhansfarms.png" alt="Farhans Farms"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>2x2, 2x3, 3x2</td></tr>
 <tr><td><strong>Style</strong></td><td>Anchor</td></tr>

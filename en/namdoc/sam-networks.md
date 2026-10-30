@@ -13,7 +13,7 @@ dateCreated: '2018-01-09T05:11:18Z'
 Each override network is initiated by first placing the appropriate Starter Piece (all SAM Starter Pieces are found under the Street Addon Mod button on the Roads menu), and then dragging the Street network through the Starter Piece. This process is shown below.
 
 <figure>
-<img src="/images/sam-starter.jpg" title="sam-starter.jpg" />
+<img src="/_files/images/sam-starter.jpg" title="sam-starter.jpg" />
 <figcaption>sam-starter.jpg</figcaption>
 </figure>
 
@@ -22,14 +22,14 @@ Each override network is initiated by first placing the appropriate Starter Piec
 With the exception of SAM 1, the Parking Lots set, all SAM networks can go diagonal, with SAM overrides continuing through the NAM's Diagonal Street Plugin, provided one is using either the FLEX/Helper Pieces or the Draggable Method. (The Diagonal Street Fillers, as static puzzle pieces, cannot carry overrides.) The process is shown below.
 
 <figure>
-<img src="/images/sam-diagonal.jpg" title="sam-diagonal.jpg" />
+<img src="/_files/images/sam-diagonal.jpg" title="sam-diagonal.jpg" />
 <figcaption>sam-diagonal.jpg</figcaption>
 </figure>
 
 All SAM Sets, with the exception of SAM 1, can also override the NAM's Draggable Wide-Radius Curves for the Street network, simply by dragging the SAM network up to the edge of the curve, or drawing the pattern while continuing a SAM override. This process is shown below:
 
 <figure>
-<img src="/images/sam-wrc.jpg" title="sam-wrc.jpg" />
+<img src="/_files/images/sam-wrc.jpg" title="sam-wrc.jpg" />
 <figcaption>sam-wrc.jpg</figcaption>
 </figure>
 
@@ -48,7 +48,7 @@ All networks, including SAM 1, also support the default sharp 90° bend.
 With supported networks--including Roads, One-Way Roads, Avenues, and Rails (including all Rail-based override networks\*)--intersections and crossings can simply be built by dragging the overridden Street network through the network, just as one would with any other draggable network. Supported networks allow for crossings in all possible permutations of orthogonal and diagonal networks. (The [High Speed Rail](/high-speed-rail) override network also allows orthogonal x orthogonal crossings of select SAM networks via static puzzle pieces.)
 
 <figure>
-<img src="/images/sam-intersection.jpg" title="sam-intersection.jpg" />
+<img src="/_files/images/sam-intersection.jpg" title="sam-intersection.jpg" />
 <figcaption>sam-intersection.jpg</figcaption>
 </figure>
 
@@ -61,7 +61,7 @@ SAM Set 1 (the Parking Lots) are a special case. They can intersect or transitio
 SAM Overrides are pervasive. The presence of a SAM Starter Piece will cause all Streets with exposure to the SAM Street--including those that intersect it--to also be overridden. As such, it is not possible to create an intersection between a SAM Street and a Maxis Street, or between two different SAM types. SAM Override Behavior on Street Network
 
 <figure>
-<img src="/images/sam-override.jpg" title="sam-override.jpg" />
+<img src="/_files/images/sam-override.jpg" title="sam-override.jpg" />
 <figcaption>sam-override.jpg</figcaption>
 </figure>
 

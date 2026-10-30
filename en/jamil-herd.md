@@ -11,7 +11,7 @@ dateCreated: '2014-01-06T12:03:01Z'
 <div class="infobox">
 <table>
 <tr><th colspan="2">Jamil Herd</th></tr>
-<tr><td colspan="2"><img src="/images/Jamil_Herd.png" alt="Jamil Herd"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/jamil-herd.png" alt="Jamil Herd"></td></tr>
 <tr><td><strong>Department</strong></td><td>Transport</td></tr>
 <tr><td><strong>Englishname</strong></td><td>Jamil Herd</td></tr>
 <tr><td><strong>Frenchname</strong></td><td>Albert Geais</td></tr>

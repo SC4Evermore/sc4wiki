@@ -11,7 +11,7 @@ dateCreated: '2014-01-29T14:01:46Z'
 <div class="infobox">
 <table>
 <tr><th colspan="2">Hagia Sofia</th></tr>
-<tr><td colspan="2"><img src="/images/Hagia_Sofia.png" alt="Hagia Sofia"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/hagia-sofia.png" alt="Hagia Sofia"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>6x6</td></tr>
 <tr><td><strong>Type</strong></td><td>Parks and Recreation</td></tr>

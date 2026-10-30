@@ -11,7 +11,7 @@ dateCreated: '2014-02-02T05:37:28Z'
 <div class="infobox">
 <table>
 <tr><th colspan="2">Coit Tower</th></tr>
-<tr><td colspan="2"><img src="/images/Coit_Tower.png" alt="Coit Tower"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/coit-tower.png" alt="Coit Tower"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>3x3</td></tr>
 <tr><td><strong>Type</strong></td><td>Parks and Recreation</td></tr>

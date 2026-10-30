@@ -11,7 +11,7 @@ dateCreated: '2013-04-12T14:48:27Z'
 <div class="infobox">
 <table>
 <tr><th colspan="2">Grand Central Station (DLC)</th></tr>
-<tr><td colspan="2"><img src="/images/Grand_Central_Station.png" alt="Grand Central Station (DLC)"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/grand-central-station.png" alt="Grand Central Station (DLC)"></td></tr>
 <tr><td><strong>Download</strong></td><td><a href="https://dl.dropbox.com/u/9300614/maxis_files/Plugin_010_GrandCentralStation.dat">Plugin Pack 010</a></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>7x8</td></tr>

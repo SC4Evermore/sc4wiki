@@ -11,7 +11,7 @@ dateCreated: '2014-05-15T12:52:29Z'
 <div class="infobox zone-c">
 <table>
 <tr><th colspan="2">Lind Entertainment</th></tr>
-<tr><td colspan="2"><img src="/images/LindEntertainment.png" alt="Lind Entertainment"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/lindentertainment.png" alt="Lind Entertainment"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>4x4</td></tr>
 <tr><td><strong>Style</strong></td><td>New York</td></tr>

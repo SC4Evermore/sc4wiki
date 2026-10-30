@@ -11,7 +11,7 @@ dateCreated: '2008-07-29T18:48:22Z'
 <div class="infobox">
 <table>
 <tr><th colspan="2">MAS Tower</th></tr>
-<tr><td colspan="2"><img src="/images/MAStower_lex.jpg" alt="MAS Tower"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/mastower-lex.jpg" alt="MAS Tower"></td></tr>
 <tr><td><strong>Download</strong></td><td>Download: LEX #1705</td></tr>
 <tr><td><strong>Size</strong></td><td>1x1</td></tr>
 <tr><td><strong>Style</strong></td><td>Euro</td></tr>

@@ -11,7 +11,7 @@ dateCreated: '2014-06-16T13:58:13Z'
 <div class="infobox zone-r">
 <table>
 <tr><th colspan="2">Hackney&#x27;s Hobble</th></tr>
-<tr><td colspan="2"><img src="/images/Hackneys_Hobble.png" alt="Hackney&#x27;s Hobble"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/hackneys-hobble.png" alt="Hackney&#x27;s Hobble"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>1x1, 1x2, 1x3</td></tr>
 <tr><td><strong>Style</strong></td><td>Euro</td></tr>

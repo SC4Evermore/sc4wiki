@@ -11,7 +11,7 @@ dateCreated: '2013-06-30T06:53:04Z'
 <div class="infobox">
 <table>
 <tr><th colspan="2">Lucky&#x27;s Hang Ten (DLC)</th></tr>
-<tr><td colspan="2"><img src="/images/Luckys_Hang_Ten.png" alt="Lucky&#x27;s Hang Ten (DLC)"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/luckys-hang-ten.png" alt="Lucky&#x27;s Hang Ten (DLC)"></td></tr>
 <tr><td><strong>Download</strong></td><td><a href="https://dl.dropbox.com/u/9300614/maxis_files/Plugin_036_LuckysHangTen.dat">Plugin Pack 036</a></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>3x2</td></tr>

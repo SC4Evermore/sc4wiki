@@ -11,7 +11,7 @@ dateCreated: '2014-05-11T09:37:05Z'
 <div class="infobox zone-i">
 <table>
 <tr><th colspan="2">Willmott Widget Assembly</th></tr>
-<tr><td colspan="2"><img src="/images/WillmottWidgetAssembly.png" alt="Willmott Widget Assembly"></td></tr>
+<tr><td colspan="2"><img src="/_files/images/willmottwidgetassembly.png" alt="Willmott Widget Assembly"></td></tr>
 <tr><td><strong>Author</strong></td><td>Maxis</td></tr>
 <tr><td><strong>Size</strong></td><td>4x5, 4x6, 5x4, 5x6, 6x4, 6x5</td></tr>
 <tr><td><strong>Style</strong></td><td>Outbuilding</td></tr>
