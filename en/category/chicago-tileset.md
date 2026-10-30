@@ -13,3 +13,14 @@ This category is to contain all Maxis buildings in the Chicago Tileset. The cust
 The Chicago Tileset is designed to hold buildings resembling Chicago in the last decades of the 19th century. However like the other two default tilesets, it contains buildings from all across the world.
 
 The stylistic focus of this tileset is on all kinds of building design prior to Art Deco and is really the only unifying aspect of all the buildings.
+
+## Pages in this category
+
+- [Chicago Tileset/CO§§](/category/chicago-tileset/co-2)
+- [Chicago Tileset/CO§§§](/category/chicago-tileset/co-3)
+- [Chicago Tileset/CS§](/category/chicago-tileset/cs-1)
+- [Chicago Tileset/CS§§](/category/chicago-tileset/cs-2)
+- [Chicago Tileset/CS§§§](/category/chicago-tileset/cs-3)
+- [Chicago Tileset/R§](/category/chicago-tileset/r-1)
+- [Chicago Tileset/R§§](/category/chicago-tileset/r-2)
+- [Chicago Tileset/R§§§](/category/chicago-tileset/r-3)

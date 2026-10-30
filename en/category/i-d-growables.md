@@ -13,3 +13,9 @@ This Category is designed to act as a gathering point for buildings in SimCity 4
 Lots should never be placed directly into this category, only through its subcategories.
 
 Dirty Industrial is a class of industrial buildings that produce low-end goods and represent outdated industry that use outdated practices or handle toxic chemicals. They place low demand on your utilities and don't require an educated workforce at all, however the amount of pollution they generate is significant. In general, far more pollution than [Manufacturing](/category/i-m-growables) and [High-Tech Industry](/category/i-ht-growables), but their very low utility drain can be useful.
+
+## Pages in this category
+
+- [I-D Growables/Anchors](/category/i-d-growables/anchors)
+- [I-D Growables/Machinery](/category/i-d-growables/machinery)
+- [I-D Growables/Outbuildings](/category/i-d-growables/outbuildings)

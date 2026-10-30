@@ -39,3 +39,8 @@ These pages are all suitable to beginner and intermediate SimCity 4 NAM players.
 [[Category:NAM/doc]]
 [[Category:Maintenance]]
 ````
+
+## Pages in this category
+
+- [Roundabouts](/namdoc/roundabouts)
+- [Transit Stations](/namdoc/transit-stations)

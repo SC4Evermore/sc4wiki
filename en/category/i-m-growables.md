@@ -13,3 +13,9 @@ This Category is designed to act as a gathering point for buildings in SimCity 4
 Lots should never be placed directly into this category, only through its subcategories.
 
 Manufacturing industrial is a class of industrial buildings that produce mid-range goods and represent general modern industry. They place balanced demand on your utilities and don't require an entirely educated workforce. In general, they also produce less overall pollution than [Dirty Industrial](/category/i-d-growables), but more than [High-Tech Industry](/category/i-ht-growables)
+
+## Pages in this category
+
+- [I-M Growables/Anchors](/category/i-m-growables/anchors)
+- [I-M Growables/Machinery](/category/i-m-growables/machinery)
+- [I-M Growables/Outbuildings](/category/i-m-growables/outbuildings)

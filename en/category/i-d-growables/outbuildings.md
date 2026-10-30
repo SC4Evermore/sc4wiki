@@ -9,3 +9,13 @@ dateCreated: '2019-08-09T02:09:26Z'
 ---
 
 Category for [Maxis](/maxis) I-D Growable Outbuildings
+
+## Pages in this category
+
+- [C. Wallace Plaster](/c-wallace-plaster)
+- [Cooling Unit](/cooling-unit)
+- [Distribution Shed](/distribution-shed)
+- [Finishing Warehouse](/finishing-warehouse)
+- [Shed](/shed)
+- [Steel Shed](/steel-shed)
+- [Warehouse](/warehouse)

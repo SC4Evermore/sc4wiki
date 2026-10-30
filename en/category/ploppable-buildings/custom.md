@@ -13,3 +13,10 @@ This category is to contain all *Custom* ploppable buildings, to distinguish the
 Ploppable Buildings are those directly placed by the player, named because the user can just 'plop' them down.
 
 For the Maxis equivalent to this category, see [:Category:Ploppable Buildings](/category/ploppable-buildings).
+
+## Pages in this category
+
+- [Civic Buildings/Custom](/category/civic-buildings/custom)
+- [Ploppable RCI Buildings](/category/ploppable-rci-buildings)
+- [Reward Buildings/Custom](/category/reward-buildings/custom)
+- [Transport Buildings/Custom](/category/transport-buildings/custom)

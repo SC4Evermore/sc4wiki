@@ -9,3 +9,9 @@ dateCreated: '2013-09-16T05:45:14Z'
 ---
 
 This category is to contain all *[Maxis](/maxis)*-created *Road* Buildings (Including Bus Stops and Tollboothes). The Custom equivalent is [:Category:Road Buildings/Custom](/category/road-buildings/custom).
+
+## Pages in this category
+
+- [Bus Stop](/bus-stop)
+- [Public Parking Garage](/public-parking-garage)
+- [Toll Booth](/toll-booth)

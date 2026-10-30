@@ -17,3 +17,14 @@ The stylistic focus of this tileset is on Art Deco and is really the only unifyi
 ## Trivia
 
 The New York tileset is considered to be the most unsightly tileset due to odd choices when it comes to building colours.
+
+## Pages in this category
+
+- [New York Tileset/CO§§](/category/new-york-tileset/co-2)
+- [New York Tileset/CO§§§](/category/new-york-tileset/co-3)
+- [New York Tileset/CS§](/category/new-york-tileset/cs-1)
+- [New York Tileset/CS§§](/category/new-york-tileset/cs-2)
+- [New York Tileset/CS§§§](/category/new-york-tileset/cs-3)
+- [New York Tileset/R§](/category/new-york-tileset/r-1)
+- [New York Tileset/R§§](/category/new-york-tileset/r-2)
+- [New York Tileset/R§§§](/category/new-york-tileset/r-3)

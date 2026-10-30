@@ -9,3 +9,12 @@ dateCreated: '2013-04-14T22:11:34Z'
 ---
 
 This is a category to contain all Police buildings created by [Maxis](/maxis) for [SimCity 4](/simcity-4). Do not place custom buildings into this category.
+
+## Pages in this category
+
+- [Deluxe Police Station](/deluxe-police-station)
+- [Federal Prison](/federal-prison)
+- [Jail](/jail)
+- [Large Police Station](/large-police-station)
+- [Police Kiosk](/police-kiosk)
+- [Small Police Station](/small-police-station)

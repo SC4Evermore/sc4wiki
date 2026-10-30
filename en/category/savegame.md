@@ -9,3 +9,8 @@ dateCreated: '2012-10-01T01:33:47Z'
 ---
 
 A category for files about the [SimCity 4](/simcity-4) Savegame files.
+
+## Pages in this category
+
+- [Savegame](/savegame)
+- [Savegame/Subfiles](/category/savegame/subfiles)

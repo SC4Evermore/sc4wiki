@@ -9,3 +9,8 @@ dateCreated: '2008-09-14T20:01:34Z'
 ---
 
 Plugins from the BSC
+
+## Pages in this category
+
+- [BSC Functional Custom Seaports](/bsc-functional-custom-seaports)
+- [SNM](/snm)

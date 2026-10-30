@@ -9,3 +9,9 @@ dateCreated: '2013-09-16T05:44:06Z'
 ---
 
 This category is to contain all *[Maxis](/maxis)*-created *Heavy Rail* Buildings. The Custom equivalent is [:Category:Rail Buildings/Custom](/category/rail-buildings/custom).
+
+## Pages in this category
+
+- [Freight Train Station](/freight-train-station)
+- [Grand Railroad Station](/grand-railroad-station)
+- [Passenger Train Station](/passenger-train-station)

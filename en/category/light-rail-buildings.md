@@ -9,3 +9,9 @@ dateCreated: '2013-09-16T05:46:06Z'
 ---
 
 This category is to contain all *[Maxis](/maxis)*-created *Light Rail* (Considered to be Subway, Elevated Rail and all variants thereof) Buildings. The Custom equivalent is [:Category:Light Rail Buildings/Custom](/category/light-rail-buildings/custom).
+
+## Pages in this category
+
+- [Elevated Rail Station](/elevated-rail-station)
+- [Subway Station](/subway-station)
+- [Subway-to-Elevated Transition](/subway-to-elevated-transition)

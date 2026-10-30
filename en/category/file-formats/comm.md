@@ -9,3 +9,14 @@ dateCreated: '2008-12-29T07:28:45Z'
 ---
 
 This category contains common File Formats that are used by [SimCity 4](/simcity-4).
+
+## Pages in this category
+
+- [BMP](/bmp)
+- [HTML](/html)
+- [INI](/ini)
+- [JPG](/jpg)
+- [PNG](/png)
+- [TXT](/txt)
+- [WAV](/wav)
+- [XML](/xml)

@@ -9,3 +9,10 @@ dateCreated: '2019-08-09T02:09:15Z'
 ---
 
 Category for [Maxis](/maxis) I-D Growable Machinery
+
+## Pages in this category
+
+- [Burner](/burner)
+- [Chemical Tank](/chemical-tank)
+- [Petroleum Tank](/petroleum-tank)
+- [Smoke Stacks](/smoke-stacks)

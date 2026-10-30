@@ -9,3 +9,17 @@ dateCreated: '2019-08-07T23:21:40Z'
 ---
 
 This category contains all [Maxis](/maxis) CO§§§ growable buildings from any [tileset](/tileset).
+
+## Pages in this category
+
+- [Ajjanagadde Inc.](/ajjanagadde-inc)
+- [Farly Audio](/farly-audio)
+- [Hutt Enterprise Headquarters](/hutt-enterprise-headquarters)
+- [Khoury Art Foundation Building](/khoury-art-foundation-building)
+- [Lind Entertainment](/lind-entertainment)
+- [McCormick Place](/mccormick-place)
+- [Pedriana Pharmaceuticals](/pedriana-pharmaceuticals)
+- [Reamon Plaza](/reamon-plaza)
+- [Todd & Co.](/todd-and-co)
+- [Vikayakar Foods](/vikayakar-foods)
+- [Wren Insurance](/wren-insurance)

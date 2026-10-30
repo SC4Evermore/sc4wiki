@@ -9,3 +9,10 @@ dateCreated: '2009-07-16T08:37:05Z'
 ---
 
 This category contains articles that are related to modding [lots](/lot)
+
+## Pages in this category
+
+- [Buildings](/buildings)
+- [RCI](/rci)
+- [Rewards](/rewards)
+- [Transit Switch](/transit-switch)

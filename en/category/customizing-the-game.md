@@ -9,3 +9,17 @@ dateCreated: '2019-08-04T22:31:50Z'
 ---
 
 This category contains information related to *customizing [SimCity 4](/simcity-4)*, including technical information about the game. For tutorials about creating custom content, see [:Category:Tutorials](/category/tutorials). For custom content created by others, see [:Category:Custom Content](/category/custom-content) and [Types of Custom Content for SimCity 4](/types-of-custom-content-for-simcity-4).
+
+## Pages in this category
+
+- [Building Architect Tool](/category/building-architect-tool)
+- [List of File Formats](/list-of-file-formats)
+- [MXF](/mxf)
+- [Modding](/category/modding)
+- [Plugin Loading Order](/plugin-loading-order)
+- [ReadMe](/readme)
+- [Savegame](/category/savegame)
+- [Shortcut Parameters](/shortcut-parameters)
+- [Texture Index](/texture-index)
+- [Tileset](/tileset)
+- [Types of Custom Content for SimCity 4](/types-of-custom-content-for-simcity-4)

@@ -9,3 +9,7 @@ dateCreated: '2012-02-25T03:34:21Z'
 ---
 
 This category contains all of the networks in [SimCity 4](/simcity-4). Pages should placed directly in the appropriate subcategory.
+
+## Pages in this category
+
+- [Transit Network](/transit-network)

@@ -17,3 +17,14 @@ Civic buildings can provide one of seven functions, all of which serve to improv
 The Custom equivalent of this category is [Civic Buildings/Custom](/civic-buildings/custom)
 
 Do not place individual buildings in this category, place them in one of the subcategories below.
+
+## Pages in this category
+
+- [Business Deal Buildings](/category/business-deal-buildings)
+- [Education Buildings](/category/education-buildings)
+- [Fire Buildings](/category/fire-buildings)
+- [Government Buildings](/category/government-buildings)
+- [Health Buildings](/category/health-buildings)
+- [Park Buildings](/category/park-buildings)
+- [Police Buildings](/category/police-buildings)
+- [Reward Civic Buildings](/category/reward-civic-buildings)

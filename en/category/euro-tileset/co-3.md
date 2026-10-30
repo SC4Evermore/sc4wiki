@@ -9,3 +9,9 @@ dateCreated: '2019-08-09T02:23:19Z'
 ---
 
 Category for [Maxis](/maxis) CO§§§ growable buildings in the Euro Tileset.
+
+## Pages in this category
+
+- [Hutt Enterprise Headquarters](/hutt-enterprise-headquarters)
+- [Khoury Art Foundation Building](/khoury-art-foundation-building)
+- [Todd & Co.](/todd-and-co)

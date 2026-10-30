@@ -13,3 +13,9 @@ This category is for all **[Maxis](/maxis) Buildings** - of any [zone](/zone), [
 Deprecated, Content should be placed in [:Category:Growable Buildings](/category/growable-buildings) and [:Category:Ploppable Buildings](/category/ploppable-buildings) instead.
 
 The Custom equivalents are [:Category:Growable Buildings/Custom](/category/growable-buildings/custom) and [:Category:Ploppable Buildings/Custom](/category/ploppable-buildings/custom) respectively.
+
+## Pages in this category
+
+- [Growable Buildings](/category/growable-buildings)
+- [Maxis RCI](/category/maxis-rci)
+- [Ploppable Buildings](/category/ploppable-buildings)

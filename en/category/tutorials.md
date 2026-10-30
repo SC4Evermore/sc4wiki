@@ -57,3 +57,10 @@ Here are a list of **tutorials** currently on the SC4E.
 
 - [Square Region Images](/tutorial/square-region-images)
 - [Switch Language and Driving Sides](/tutorial/switch-language-and-driving-sides)
+
+## Pages in this category
+
+- [MOD Tutorials](/category/mod-tutorials)
+- [NAM Tutorials](/nam-tutorials)
+- [Tutorials](/category/tutorials)
+- [Tutorials](/tutorials)
