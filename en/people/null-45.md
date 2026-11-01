@@ -2,7 +2,7 @@
 title: Null 45
 description: ''
 published: true
-date: '2026-11-01T12:38:51.459Z'
+date: '2026-11-01T12:38:59.654Z'
 tags: []
 editor: markdown
 dateCreated: '2026-11-01T11:46:35.357Z'
@@ -10,7 +10,7 @@ dateCreated: '2026-11-01T11:46:35.357Z'
 
 **Null 45** is a modder who writes [DLL plugins](/dll-plugins) for [SimCity 4](/simcity-4). On GitHub, Null 45 publishes as [0xC0000054](https://github.com/0xC0000054). Since late 2023, Null 45 has released dozens of DLL plugins. They range from small fixes to frameworks that other modders build on.
 
-Null 45 is the largest contributor to [gzcom-dll](https://github.com/SC4SDK/gzcom-dll), the open source SDK that many SimCity 4 DLL plugins use. Null 45 also made a GZCOM DLL plugin template for SimCity 4, and a similar framework for [SimCity 3000](/simcity-3000). He also maintains [SC4 Ghidra Symbols](https://github.com/0xC0000054/sc4-ghidra-symbols) (2025), symbol information for the Ghidra reverse engineering tool. It was extracted from the Mac PowerPC version of SimCity 4.
+Null 45 is the largest contributor to [gzcom-dll](https://github.com/SC4SDK/gzcom-dll), the open source SDK that many SimCity 4 DLL plugins use. Null 45 also made a GZCOM DLL plugin template for SimCity 4, and a similar framework for [SimCity 3000](/simcity-3000). He also maintains [SC4 Ghidra Symbols](https://github.com/0xC0000054/sc4-ghidra-symbols), symbol information for the Ghidra reverse engineering tool. It was extracted from the Mac PowerPC version of SimCity 4.
 
 ## DLL Plugins
 
