@@ -2,14 +2,14 @@
 title: DLL Plugins
 description: ''
 published: true
-date: '2026-11-01T12:17:13.660Z'
+date: '2026-11-01T12:30:27.002Z'
 tags: []
 editor: markdown
 dateCreated: '2026-11-01T12:17:13.660Z'
 ---
 
 <!-- path: dll-plugins | title: DLL Plugins | tags: DLL Plugins, Plugins, Customizing the Game -->
-A **DLL plugin** is a plugin for [SimCity 4](/simcity-4) that contains program code instead of game data. DLL plugins can fix bugs, add features and give modders new possibilities that normal [plugins](/plugins) cannot. Most of them are published on GitHub, often together with a [Simtropolis](/Simtropolis) page and an entry in [SC4Pac](sc4pac)
+A **DLL plugin** is a plugin for [SimCity 4](/simcity-4) that contains program code instead of game data. DLL plugins can fix bugs, add features and give modders new possibilities that normal [plugins](/plugins) cannot. Most of them are published on GitHub, often together with a [Simtropolis](/simtropolis) page and an entry in [sc4pac](https://memo33.github.io/sc4pac/).
 
 Most DLL plugins need the digital release of SimCity 4 (version 1.1.641) on Windows. A DLL is usually installed in the top level of a Plugins folder, not in a subfolder. Many DLL plugins can also be installed with the sc4pac package manager.
 
