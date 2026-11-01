@@ -1,11 +1,13 @@
 ---
-title: "Types of Custom Content for SimCity 4"
-description: ""
+title: Types of Custom Content for SimCity 4
+description: ''
 published: true
-date: '2020-03-11T06:00:08Z'
-tags: ["Customizing the Game", "Custom_Content"]
+date: '2026-11-01T08:54:12.640Z'
+tags:
+  - Customizing the Game
+  - Custom_Content
 editor: markdown
-dateCreated: '2020-02-17T05:50:33Z'
+dateCreated: '2020-02-17T05:50:33.000Z'
 ---
 
 [SimCity 4](/simcity-4) still retains a cult following, more than 15 years after it's release, and a large part of the reason why is custom content (aka mods). The game was designed from the ground up, to accommodate very significant changes and enhancements, by anyone with the technical knowledge to do it.
@@ -25,6 +27,8 @@ Prevention is better than cure. This DLL is dead easy to install, very widely us
   
   
 **https://community.simtropolis.com/files/file/30883-sc4fix-third-party-patches-for-sc4/**
+
+See also the [SC4Fix](/plugin/sc4fix) page.
 
 ## Additional Maxis Content
 
@@ -64,6 +68,12 @@ On the basis that these game balancing mods are making the game easier, some fee
 - Neighbor Deal by cogeo
 
 ## Diagnostic Tools
+
+# DLL Plugins
+
+A DLL plugin contains program code instead of game data. Since about 2023, many new DLL plugins have been released, most of them on GitHub. They fix bugs, improve performance and graphics, add new gameplay features, and give modders new possibilities. Most of them need the digital release of SimCity 4 (version 1.1.641) on Windows.
+
+See [DLL Plugins](/dll-plugins) for a list of DLL plugins, grouped by purpose.
 
 # Transit Networks
 
@@ -115,11 +125,15 @@ Again, these are cosmetic reskins, but they support different highway features t
 
 ## Extended Query
 
+- The [Query UI Extensions DLL](/plugin/sc4-query-ui-hooks) adds more information and functions to the building query tool.
+
 ## In-game Statistics
 
 # User Interface
 
 ## Menu Management
+
+- The [Submenus DLL](/plugin/submenus-dll) adds submenus to the building menus of the game.
 
 ### DAMN
 
@@ -130,6 +144,8 @@ Again, these are cosmetic reskins, but they support different highway features t
 ## Custom Graphs
 
 ## Custom Data Views
+
+- The [Data View Extensions DLL](/plugin/sc4-data-view-extensions) extends the data views of the game.
 
 ## Region View Customisation
 
